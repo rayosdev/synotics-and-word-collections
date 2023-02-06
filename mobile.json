@@ -1,0 +1,54 @@
+{
+	"english": {
+		"word": "mobile",
+		"examples": ["He has a new mobile phone.", "The mobile crane lifted the heavy load."],
+		"gender": "",
+		"trick-words": ["cellular", "handheld", "portable", "smartphone", "wireless"]
+	},
+	"portuguese": {
+		"word": "móvel",
+		"examples": ["Ele tem um novo celular.", "A grua móvel levantou a carga pesada."],
+		"gender": "",
+		"trick-words": ["celular", "portátil", "telefone", "sem fio", "smartphone"]
+	},
+	"progress": {
+		"memory": 0.5,
+		"gender-memory": 0.5
+	},
+	"type": ["noun"],
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+	"synonyms": {
+		"funny": {
+			"user-made": [],
+			"suggested": ["Why did the mobile phone go to the bar? To get a little cell-ebration."]
+		},
+		"sad": {
+			"user-made": [],
+			"suggested": ["Feeling lonely and disconnected, as you scroll through your mobile phone contacts but have no one to call."]
+		},
+		"aggravating": {
+			"user-made": [],
+			"suggested": ["The constant buzzing and notification sounds of a mobile phone during a meeting or important event."]
+		},
+		"surprising": {
+			"user-made": [],
+			"suggested": ["The amount of personal information that can be stored on a mobile phone and the vulnerability of that data to hacking or loss."]
+		},
+		"smell": {
+			"user-made": [],
+			"suggested": ["The smell of a new mobile phone, a mix of plastic and electronic components."]
+		},
+		"touch": {
+			"user-made": [],
+			"suggested": ["The smooth and cold feeling of a mobile phone's glass screen or the slightly rough texture of a plastic case."]
+		},
+		"connection": {
+			"user-made": [],
+			"suggested": ["The constant connection to the internet and ability to communicate with others through a mobile phone."]
+		}
+	}
+}

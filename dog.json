@@ -1,0 +1,64 @@
+{
+	"english": {
+		"word": "dog",
+		"examples": [
+			"The dog barked at the mailman.",
+			"I took my dog for a walk in the park."
+		],
+		"gender": ["neuter"],
+		"trick-words": ["canine", "pup", "hound", "terrier", "mutt"]
+	},
+	"portuguese": {
+		"word": "cachorro",
+		"examples": [
+			"O cachorro latiu para o carteiro.",
+			"Eu levei meu cachorro para um passeio no parque."
+		],
+		"gender": ["masculine"],
+		"trick-words": ["canino", "filhote", "cão", "terrier", "mistura"]
+	},
+	"progress": {
+		"memory": 0.5,
+		"gender-memory": 0.5
+	},
+	"type": ["noun"],
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+	"synonyms": {
+		"funny": {
+			"user-made": [],
+			"suggested": [
+				"Why do dogs always race to the door when the doorbell rings? Because they are great at door-ing."
+			]
+		},
+		"sad": {
+			"user-made": [],
+			"suggested": ["It's sad when a stray dog can't find a loving home."]
+		},
+		"aggravating": {
+			"user-made": [],
+			"suggested": ["It's aggravating when a neighbor's dog barks constantly."]
+		},
+		"surprising": {
+			"user-made": [],
+			"suggested": [
+				"It's surprising how dogs can sense when their owners are coming home before they even arrive."
+			]
+		},
+		"smell": {
+			"user-made": [],
+			"suggested": ["The smell of wet dog after a bath"]
+		},
+		"touch": {
+			"user-made": [],
+			"suggested": ["The feeling of a dog's soft fur"]
+		},
+		"connection": {
+			"user-made": [],
+			"suggested": ["The connection between a person and their companion dog"]
+		}
+	}
+}

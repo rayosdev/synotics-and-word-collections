@@ -1,0 +1,72 @@
+{
+	"english": {
+		"word": "house",
+		"examples": [
+			"I live in a house on the corner of Main Street.",
+			"She decorated her house with a lot of plants."
+		],
+		"gender": "",
+		"trick-words": ["home", "residence", "dwelling", "abode", "domicile"]
+	},
+	"portuguese": {
+		"word": "casa",
+		"examples": [
+			"Eu vivo em uma casa na esquina da rua principal.",
+			"Ela decorou sua casa com muitas plantas."
+		],
+		"gender": "",
+		"trick-words": ["lar", "residência", "moradia", "habitação", "domicílio"]
+	},
+	"progress": {
+		"memory": 0.5,
+		"gender-memory": 0.5
+	},
+	"type": ["noun"],
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+	"synonyms": {
+		"funny": {
+			"user-made": [],
+			"suggested": [
+				"Why did the house go to the doctor? Because it had a window pane."
+			]
+		},
+		"sad": {
+			"user-made": [],
+			"suggested": [
+				"The house that was once filled with laughter, now stood empty and silent."
+			]
+		},
+		"angry": {
+			"user-made": [],
+			"suggested": [
+				"The house was always a mess, no matter how much cleaning was done."
+			]
+		},
+		"surprising": {
+			"user-made": [],
+			"suggested": [
+				"The house was much bigger on the inside than it appeared on the outside."
+			]
+		},
+		"smell": {
+			"user-made": [],
+			"suggested": ["The smell of fresh baked cookies coming from the house."]
+		},
+		"touch": {
+			"user-made": [],
+			"suggested": [
+				"The feeling of the rough texture of the bricks on the exterior of the house."
+			]
+		},
+		"connection": {
+			"user-made": [],
+			"suggested": [
+				"The connection to family and memories associated with a childhood home."
+			]
+		}
+	}
+}

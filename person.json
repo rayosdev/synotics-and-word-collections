@@ -1,0 +1,54 @@
+{
+	"english": {
+		"word": "person",
+		"examples": ["The person walked down the street.", "She is a friendly person."],
+		"gender": ["neutral"],
+		"trick-words": ["individual", "being", "human", "someone", "anybody"]
+	},
+	"portuguese": {
+		"word": "pessoa",
+		"examples": ["A pessoa andou pela rua.", "Ela é uma pessoa simpática."],
+		"gender": ["neutral"],
+		"trick-words": ["indivíduo", "ser", "humano", "alguém", "qualquer pessoa"]
+	},
+	"progress": {
+		"memory": 0.5,
+		"gender-memory": 0.5
+	},
+	"type": ["noun"],
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+	"synonyms": {
+		"funny": {
+			"user-made": [],
+			"suggested": ["Why was the math book sad? Because it had too many problems."]
+		},
+		"sad": {
+			"user-made": [],
+			"suggested": ["Feeling alone and isolated despite being surrounded by people."]
+		},
+		"aggravating": {
+			"user-made": [],
+			"suggested": ["Dealing with a person who constantly interrupts and talks over others."]
+		},
+		"surprising": {
+			"user-made": [],
+			"suggested": ["Discovering that a person you thought you knew well has a hidden talent or hobby."]
+		},
+		"smell": {
+			"user-made": [],
+			"suggested": ["The smell of someone's cologne or perfume."]
+		},
+		"touch": {
+			"user-made": [],
+			"suggested": ["The sensation of a hug or handshake from a loved one."]
+		},
+		"connection": {
+			"user-made": [],
+			"suggested": ["The emotional connection to a person who has impacted your life in a positive way."]
+		}
+	}
+}

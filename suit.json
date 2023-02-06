@@ -1,0 +1,53 @@
+{
+	"english": {
+		"word": "suit",
+		"examples": ["He wore a suit to the meeting.", "She put on her best suit for the interview."],
+		"gender": "",
+		"trick-words": ["attire", "clothes", "outfit", "ensemble", "garb"]
+	},
+	"portuguese": {
+		"word": "terno",
+		"examples": ["Ele usou um terno para a reunião.", "Ela vestiu seu melhor terno para a entrevista."],
+		"gender": "",
+		"trick-words": ["roupa", "roupas", "vestuário", "roupagem", "rouparia"]
+	},
+	"progress": {
+		"memory": 0.5
+	},
+	"type": "noun",
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+	"synonyms": {
+		"funny": {
+			"user-made": [],
+			"suggested": ["Why did the businessman wear a suit to the beach? So he could make a good 'impression'"]
+		},
+		"sad": {
+			"user-made": [],
+			"suggested": ["The suit lay crumpled in the corner, a reminder of the job he didn't get."]
+		},
+		"angry": {
+			"user-made": [],
+			"suggested": ["He was so angry that his suit was wrinkle, he couldn't even think straight."]
+		},
+		"surprising": {
+			"user-made": [],
+			"suggested": ["The suit was made entirely out of recycled materials, a surprising choice for a formal event."]
+		},
+		"smell": {
+			"user-made": [],
+			"suggested": ["The smell of freshly pressed suit."]
+		},
+		"touch": {
+			"user-made": [],
+			"suggested": ["The feeling of the smooth fabric of a well-tailored suit."]
+		},
+		"connection": {
+			"user-made": [],
+			"suggested": ["The connection to professionalism and success when wearing a suit."]
+		}
+	}
+}
