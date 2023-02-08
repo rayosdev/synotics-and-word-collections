@@ -1,0 +1,88 @@
+{
+    "english": {
+        "word": "talk",
+        "examples": [
+            "We need to have a talk about our relationship.",
+            "She gave a talk on the importance of education."
+        ],
+        "gender": [],
+        "trick-words": [
+            "conversation",
+            "discussion",
+            "speech",
+            "lecture",
+            "presentation"
+        ]
+    },
+    "portuguese": {
+        "word": "conversar",
+        "examples": [
+            "Precisamos ter uma conversa sobre nosso relacionamento.",
+            "Ela deu uma palestra sobre a importância da educação."
+        ],
+        "gender": [],
+        "trick-words": [
+            "discutir",
+            "debater",
+            "oração",
+            "aula",
+            "apresentação"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0
+    },
+    "type": [
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the tomato turn red? Because it saw the salad dressing!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Breaking up with someone you love can be a heart-wrenching experience, even if it's just a talk."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why did the argument escalate? Because the two parties involved refused to listen and talk calmly."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Receiving unexpected good news during a talk can be a surprising and uplifting experience."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of fresh coffee during a morning talk with a loved one."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The touch of a comforting hand during a difficult talk with a friend."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The emotional connection and understanding gained through meaningful and open conversations."
+            ]
+        }
+    }
+}
