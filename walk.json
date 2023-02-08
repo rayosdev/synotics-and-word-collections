@@ -1,0 +1,88 @@
+{
+    "english": {
+        "word": "walk",
+        "examples": [
+            "Let's take a walk in the park.",
+            "She walks to work every day."
+        ],
+        "gender": [],
+        "trick-words": [
+            "stroll",
+            "hike",
+            "wander",
+            "amble",
+            "paddle"
+        ]
+    },
+    "portuguese": {
+        "word": "caminhar",
+        "examples": [
+            "Vamos dar uma caminhada no parque.",
+            "Ela caminha para o trabalho todos os dias."
+        ],
+        "gender": [],
+        "trick-words": [
+            "passear",
+            "caminhada",
+            "erra",
+            "dê um passeio",
+            "paddle"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0
+    },
+    "type": [
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the scarecrow win an award? Because he was outstanding in his field."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Walking alone on a rainy day can be a melancholic experience."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Walking away from a heated argument can be a sign of strength and control over one's emotions."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Discovering a new path while on a leisurely walk can be a surprising and exciting experience."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of freshly blooming flowers during a springtime walk."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of the sun on your face during a warm summer walk."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to nature and the environment while taking a peaceful walk in the countryside."
+            ]
+        }
+    }
+}
