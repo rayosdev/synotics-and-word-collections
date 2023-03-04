@@ -1,0 +1,90 @@
+{
+    "english": {
+        "word": "heat",
+        "examples": [
+            "The heat of the sun was unbearable.",
+            "I turned up the heat to warm up the room."
+        ],
+        "gender": [],
+        "trick-words": [
+            "warmth",
+            "temperature",
+            "hotness",
+            "boiling point",
+            "fervor"
+        ]
+    },
+    "portuguese": {
+        "word": "calor",
+        "examples": [
+            "O calor do sol estava insuportável.",
+            "Eu aumentei o calor para aquecer o quarto."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "temperatura",
+            "aquecimento",
+            "quente",
+            "ebulição",
+            "fervor"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "english": {
+        "word": "heat",
+        "examples": [
+            "The heat of the sun was unbearable.",
+            "I turned up the heat to warm up the room."
+        ],
+        "gender": [],
+        "trick-words": [
+            "warmth",
+            "temperature",
+            "hotness",
+            "boiling point",
+            "fervor"
+        ]
+    },
+    "portuguese": {
+        "word": "calor",
+        "examples": [
+            "O calor do sol estava insuportável.",
+            "Eu aumentei o calor para aquecer o quarto."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "temperatura",
+            "aquecimento",
+            "quente",
+            "ebulição",
+            "fervor"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    }
+}

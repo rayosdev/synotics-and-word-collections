@@ -1,0 +1,90 @@
+{
+    "english": {
+        "word": "bathroom",
+        "examples": [
+            "I need to use the bathroom.",
+            "She's taking a shower in the bathroom."
+        ],
+        "gender": [],
+        "trick-words": [
+            "restroom",
+            "washroom",
+            "toilet",
+            "lavatory",
+            "powder room"
+        ]
+    },
+    "portuguese": {
+        "word": "banheiro",
+        "examples": [
+            "Eu preciso usar o banheiro.",
+            "Ela está tomando banho no banheiro."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "sanitário",
+            "lavabo",
+            "toliette",
+            "WC",
+            "casa de banho"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the smartphone need glasses? Because it couldn't find the toilet paper!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The lack of access to basic sanitation facilities can be a source of shame and indignity for many individuals and communities around the world."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling angry and frustrated with the lack of public restrooms in many urban areas, which can lead to health and safety issues for individuals experiencing homelessness."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It can be surprising to learn about the history of public restrooms and how they have been used to reinforce social norms and exclusion."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of fresh flowers or scented candles in a clean bathroom can create a relaxing and soothing atmosphere."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The tactile experience of washing your hands with warm water and soap can be a satisfying and hygienic ritual."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to privacy and personal space in the bathroom can be a source of comfort and safety for many individuals."
+            ]
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "english": {
+        "word": "hello",
+        "examples": [
+            "Hello, how are you?",
+            "He greeted everyone with a friendly hello."
+        ],
+        "gender": [],
+        "trick-words": [
+            "hi",
+            "hey",
+            "greetings",
+            "salutations",
+            "good day"
+        ]
+    },
+    "portuguese": {
+        "word": "olá",
+        "examples": [
+            "Olá, como vai você?",
+            "Ele cumprimentou todos com um olá amigável."
+        ],
+        "gender": [],
+        "trick-words": [
+            "oi",
+            "alô",
+            "saudação",
+            "cumprimento",
+            "boa tarde"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "interjection"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the tomato turn red? Because it saw the salad dressing! Hello, is this thing on?"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling sad and lonely when you don't hear a friendly 'hello' from anyone all day, and wishing someone would reach out and connect with you."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling angry and resentful when someone says 'hello' with a tone of sarcasm or insincerity, and feeling like their greeting is more of an insult than a friendly gesture."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It can be surprising how much of a difference a simple 'hello' can make in someone's day, especially if they're feeling down or discouraged."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The olfactory experience of the delicious aroma of fresh-baked cookies or bread, which can make you feel warm and fuzzy inside and eager to say 'hello' to whoever made them."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The tactile experience of feeling the soft fur of a friendly dog or cat, and saying 'hello' as you stroke their fur and enjoy their company."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to others that comes from exchanging friendly 'hellos', and the sense of warmth and acceptance that can come from feeling like you belong and are welcome wherever you go."
+            ]
+        }
+    }
+}

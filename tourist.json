@@ -1,0 +1,91 @@
+{
+    "english": {
+        "word": "tourist",
+        "examples": [
+            "The city is full of tourists in the summer.",
+            "The tourist asked for directions to the museum."
+        ],
+        "gender": [],
+        "trick-words": [
+            "visitor",
+            "traveler",
+            "sightseer",
+            "explorer",
+            "holidaymaker"
+        ]
+    },
+    "portuguese": {
+        "word": "turista",
+        "examples": [
+            "A cidade está cheia de turistas no verão.",
+            "O turista pediu indicações para o museu."
+        ],
+        "gender": [
+            "masculine",
+            "feminine"
+        ],
+        "trick-words": [
+            "visitante",
+            "viajante",
+            "passeante",
+            "explorador",
+            "vacacionista"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the tourist refuse to leave the hotel? She was afraid she'd get a terminal case of wanderlust."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling sad and isolated as a tourist in a foreign country, struggling to communicate and make meaningful connections with locals."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling angry and resentful towards locals who exploit tourists for profit, or who express disdain for visitors."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It can be surprising to discover how much you can learn about yourself and the world by immersing yourself in a new culture as a tourist."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The unique smells of different countries and regions can be a powerful sensory experience for tourists, evoking memories and emotions."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The tactile experience of touching different materials and textures, from ancient stone ruins to exotic fruits and spices in local markets."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to the history, art, music, and cuisine of a new place, and the sense of wonder and curiosity that comes with exploring a foreign land."
+            ]
+        }
+    }
+}

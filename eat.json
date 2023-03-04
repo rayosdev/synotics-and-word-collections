@@ -1,0 +1,88 @@
+{
+    "english": {
+        "word": "eat",
+        "examples": [
+            "I usually eat breakfast at 7 am.",
+            "She doesn't eat meat because she's a vegetarian."
+        ],
+        "gender": [],
+        "trick-words": [
+            "consume",
+            "ingest",
+            "devour",
+            "nourish",
+            "feast"
+        ]
+    },
+    "portuguese": {
+        "word": "comer",
+        "examples": [
+            "Eu geralmente como café da manhã às 7 horas.",
+            "Ela não come carne porque é vegetariana."
+        ],
+        "gender": [],
+        "trick-words": [
+            "consumir",
+            "ingerir",
+            "devorar",
+            "alimentar",
+            "festim"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0
+    },
+    "type": [
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the tomato turn red? Because it saw the salad dressing!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The experience of food insecurity and hunger can lead to sadness and despair for many individuals and communities."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling angry and frustrated with the lack of access to healthy and affordable food for many marginalized communities."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It can be surprising to learn about the environmental impact of our food choices and how they contribute to climate change."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The aroma of freshly baked bread or sizzling bacon can evoke feelings of comfort and nostalgia."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The tactile experience of eating with your hands or using utensils can bring a sense of pleasure and enjoyment to the act of eating."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to cultural identity and tradition through food can be a source of pride and community for many individuals and groups."
+            ]
+        }
+    }
+}

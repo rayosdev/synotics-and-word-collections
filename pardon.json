@@ -1,0 +1,91 @@
+{
+    "english": {
+        "word": "pardon",
+        "examples": [
+            "Pardon me, do you have the time?",
+            "The governor granted him a pardon."
+        ],
+        "gender": [],
+        "trick-words": [
+            "forgive",
+            "excuse",
+            "apology",
+            "amnesty",
+            "clemency"
+        ]
+    },
+    "portuguese": {
+        "word": "perdão",
+        "examples": [
+            "Com licença, você tem as horas?",
+            "O governador lhe concedeu um perdão."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "desculpa",
+            "perdoar",
+            "indulto",
+            "anistia",
+            "clemência"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "What do you call a fake noodle? An impasta! Oh, pardon me, I thought you said pasta!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling sad and regretful about a mistake you made, and wishing you could go back in time and undo what you did."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling angry and resentful when someone wrongs you, and feeling like a mere 'pardon me' won't be enough to make things right."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It can be surprising how much of an impact a sincere 'pardon me' can have on someone who's upset or angry with you."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The olfactory experience of the delicious aroma of freshly baked bread or pastries, which can make even the grumpiest person say 'pardon me' as they push past you to get to the bakery."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The tactile experience of feeling the soft fur of a purring cat or the rough skin of a crocodile, and asking someone to 'pardon' you if you accidentally touch them in the wrong place."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to others that comes from acknowledging your own mistakes and asking for 'pardon', and the sense of relief and release that can come from forgiving and being forgiven."
+            ]
+        }
+    }
+}

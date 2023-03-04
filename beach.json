@@ -1,0 +1,90 @@
+{
+    "english": {
+        "word": "beach",
+        "examples": [
+            "We spent the day at the beach.",
+            "The beach was crowded with tourists."
+        ],
+        "gender": [],
+        "trick-words": [
+            "shore",
+            "coast",
+            "seaside",
+            "waterfront",
+            "sandbar"
+        ]
+    },
+    "portuguese": {
+        "word": "praia",
+        "examples": [
+            "Passamos o dia na praia.",
+            "A praia estava lotada de turistas."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "litoral",
+            "orla",
+            "beira-mar",
+            "costa",
+            "areal"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the sand blush? Because the seaweed."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling melancholy and wistful when leaving the beach after a perfect day, wishing the moment could last forever."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling angry and frustrated with the litter and pollution that can ruin the beauty and tranquility of a pristine beach."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It can be surprising to discover the diverse marine life and ecosystems that exist just beneath the surface of the water, invisible to beachgoers."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of saltwater, sunscreen and coconut oil can evoke memories of summer vacations and relaxation."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The tactile experience of walking barefoot on the warm sand, feeling the sun on your skin and the gentle waves lapping at your feet can be incredibly soothing."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to the natural world when you watch the ebb and flow of the tides, and the interplay between the land, sea and sky at the horizon."
+            ]
+        }
+    }
+}

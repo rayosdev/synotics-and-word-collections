@@ -1,0 +1,90 @@
+{
+    "english": {
+        "word": "man",
+        "examples": [
+            "He's a kind and generous man.",
+            "The man at the store helped me find what I was looking for."
+        ],
+        "gender": [],
+        "trick-words": [
+            "person",
+            "human",
+            "guy",
+            "fellow",
+            "male"
+        ]
+    },
+    "portuguese": {
+        "word": "homem",
+        "examples": [
+            "Ele é um homem gentil e generoso.",
+            "O homem na loja me ajudou a encontrar o que eu estava procurando."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "pessoa",
+            "humano",
+            "rapaz",
+            "sujeito",
+            "macho"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the man put his money in the freezer? He wanted cold hard cash!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The societal pressures of toxic masculinity can lead to a sense of isolation and depression for some men."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling angry and frustrated with the lack of progress towards gender equality can motivate men to become better allies."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Surprising a loved one with a thoughtful gesture can help break down traditional gender norms and expectations."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of a freshly lit cigar can be associated with traditional masculinity."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of a strong handshake can convey confidence and assertiveness."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to other men and a shared sense of identity and experience can be found in men's groups and support networks."
+            ]
+        }
+    }
+}

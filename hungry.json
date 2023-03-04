@@ -1,0 +1,88 @@
+{
+    "english": {
+        "word": "hungry",
+        "examples": [
+            "I'm so hungry, I could eat a horse!",
+            "She felt hungry all the time."
+        ],
+        "gender": [],
+        "trick-words": [
+            "starving",
+            "ravenous",
+            "famished",
+            "peckish",
+            "craving"
+        ]
+    },
+    "portuguese": {
+        "word": "com fome",
+        "examples": [
+            "Estou com tanta fome que poderia comer um cavalo!",
+            "Ela sentia fome o tempo todo."
+        ],
+        "gender": [],
+        "trick-words": [
+            "faminto",
+            "esfomeado",
+            "devorador",
+            "apetite",
+            "desejoso"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "adjective"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why don't scientists trust atoms? Because they make up everything! (When feeling too hungry to think straight.)"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling sad and despondent when you're hungry and can't afford to buy food, or when you're struggling with an eating disorder."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling angry and resentful when you're hungry and someone else is eating in front of you, or when you're trying to eat healthily and someone keeps tempting you with junk food."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It can be surprising how ravenous you can feel when you're hungry, and how satisfying even a small amount of food can be in satisfying that craving."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The delicious aroma of freshly baked bread or other foods when you're hungry and your sense of smell is heightened."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The physical sensation of hunger pangs in your stomach, and the sense of relief and satisfaction when you finally eat something and the hunger dissipates."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to others that comes from sharing a meal when you're hungry, and the sense of community and togetherness that can be fostered by breaking bread together."
+            ]
+        }
+    }
+}

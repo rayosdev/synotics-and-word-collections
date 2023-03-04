@@ -1,0 +1,90 @@
+{
+    "english": {
+        "word": "village",
+        "examples": [
+            "She grew up in a small village.",
+            "The village had a population of only 500 people."
+        ],
+        "gender": [],
+        "trick-words": [
+            "town",
+            "hamlet",
+            "settlement",
+            "community",
+            "villagescape"
+        ]
+    },
+    "portuguese": {
+        "word": "aldeia",
+        "examples": [
+            "Ela cresceu em uma pequena aldeia.",
+            "A aldeia tinha uma população de apenas 500 pessoas."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "povoado",
+            "vilarejo",
+            "povoação",
+            "comunidade",
+            "aldeola"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the scarecrow win an award? Because he was outstanding in his field - which happened to be a small village."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling sad and nostalgic for a simpler time and a sense of community that can be lost in larger, more urban areas."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling angry and frustrated with the neglect and lack of investment in rural areas, leading to declining populations, services and opportunities."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It can be surprising to learn about the rich history and culture of some small villages, with unique traditions and customs that have been preserved over generations."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of freshly baked bread or a wood fire burning in a quaint village can evoke feelings of warmth and comfort."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The tactile experience of walking on cobbled streets or touching the weathered stones of ancient buildings can create a sense of connection to the past."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to nature and the land when you see fields of crops, farm animals and wildflowers growing on the outskirts of a small village."
+            ]
+        }
+    }
+}

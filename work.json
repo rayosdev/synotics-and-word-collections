@@ -1,0 +1,88 @@
+{
+    "english": {
+        "word": "work",
+        "examples": [
+            "She goes to work every day.",
+            "He works as a software engineer."
+        ],
+        "gender": [],
+        "trick-words": [
+            "job",
+            "employment",
+            "occupation",
+            "task",
+            "duty"
+        ]
+    },
+    "portuguese": {
+        "word": "trabalho",
+        "examples": [
+            "Ela vai ao trabalho todos os dias.",
+            "Ele trabalha como engenheiro de software."
+        ],
+        "gender": [],
+        "trick-words": [
+            "emprego",
+            "ocupação",
+            "tarefa",
+            "dever",
+            "função"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the computer go to the doctor? Because it had a virus!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Working long hours without a break can lead to burnout and decreased job satisfaction."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling frustrated with a difficult project at work can lead to feelings of anger and stress."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Being recognized for a job well done and receiving a promotion can be a surprising and fulfilling experience at work."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of freshly brewed coffee in the office break room."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of accomplishment after a long day of productive work."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to colleagues and a sense of teamwork while working on a group project."
+            ]
+        }
+    }
+}

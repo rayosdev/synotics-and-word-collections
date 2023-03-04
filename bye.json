@@ -1,0 +1,88 @@
+{
+    "english": {
+        "word": "bye",
+        "examples": [
+            "Goodbye, see you later!",
+            "He waved bye as he drove away."
+        ],
+        "gender": [],
+        "trick-words": [
+            "farewell",
+            "adieu",
+            "see ya",
+            "so long",
+            "adios"
+        ]
+    },
+    "portuguese": {
+        "word": "tchau",
+        "examples": [
+            "Tchau, até mais!",
+            "Ele acenou tchau ao partir de carro."
+        ],
+        "gender": [],
+        "trick-words": [
+            "adeus",
+            "até breve",
+            "até logo",
+            "despedida",
+            "xau"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "interjection"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why don't scientists trust atoms? Because they make up everything! Bye, see you later alligator."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling sad and wistful as you say 'bye' to a friend or loved one who's moving away or leaving for an extended period of time."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling angry and resentful when someone says 'bye' with a tone of sarcasm or insincerity, and feeling like their farewell is more of an insult than a friendly gesture."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It can be surprising how emotional saying 'bye' can be, especially if you're not sure when you'll see the person again, or if you've been through a lot together and are parting ways."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The olfactory experience of the fresh scent of laundry or soap as you say 'bye' to someone and leave their house or workplace."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The tactile experience of a warm hug or handshake as you say 'bye' to someone you care about, and feeling the physical connection and sense of intimacy that comes from that contact."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to others that comes from saying 'bye' and feeling like you've made a meaningful connection with someone, even if it's just a brief encounter or chance meeting."
+            ]
+        }
+    }
+}

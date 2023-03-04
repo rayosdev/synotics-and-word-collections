@@ -1,0 +1,90 @@
+{
+    "english": {
+        "word": "woman",
+        "examples": [
+            "She's a strong and independent woman.",
+            "The woman in the red dress is my sister."
+        ],
+        "gender": [],
+        "trick-words": [
+            "female",
+            "lady",
+            "girl",
+            "person",
+            "feminine"
+        ]
+    },
+    "portuguese": {
+        "word": "mulher",
+        "examples": [
+            "Ela é uma mulher forte e independente.",
+            "A mulher do vestido vermelho é minha irmã."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "fêmea",
+            "senhora",
+            "garota",
+            "pessoa",
+            "feminino"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the woman bring lipstick to the courtroom? She wanted to make up her case!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The pervasive experience of sexism and misogyny can lead to feelings of sadness and frustration for many women."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling angry and motivated to create change in the face of gender inequality and discrimination."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It can be surprising and empowering to discover the many historical achievements of women throughout history."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The scent of fresh flowers or perfume can be associated with femininity and womanhood."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of a warm embrace from a loved one can bring a sense of comfort and connection to other women."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to other women and shared experiences of sexism and discrimination can be found in women's groups and support networks."
+            ]
+        }
+    }
+}

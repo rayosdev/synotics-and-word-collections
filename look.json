@@ -1,0 +1,91 @@
+{
+    "english": {
+        "word": "look",
+        "examples": [
+            "She gave him a curious look.",
+            "He looked out the window."
+        ],
+        "gender": [],
+        "trick-words": [
+            "gaze",
+            "stare",
+            "glance",
+            "observe",
+            "peek"
+        ]
+    },
+    "portuguese": {
+        "word": "olhar",
+        "examples": [
+            "Ela lhe deu um olhar curioso.",
+            "Ele olhou pela janela."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "mirar",
+            "observar",
+            "contemplar",
+            "fitar",
+            "espiar"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the tomato turn red? Because it saw the salad dressing! (You gotta have a sharp look to catch that one.)"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling sad and helpless as you watch someone you love suffer and decline, unable to do anything to help them."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling angry and frustrated at someone who refuses to listen or acknowledge your perspective, or who dismisses your concerns without a second look."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It can be surprising to realize how much you can learn and discover about yourself and the world by taking a closer look at the people, places, and things around you."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The olfactory experience of taking a deep sniff and discovering the complex and subtle aromas of different foods, flowers, and environments."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The tactile experience of touching different textures and surfaces, from smooth glass to rough sandpaper."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to others and the world around you that comes from truly seeing and understanding the people and places you encounter."
+            ]
+        }
+    }
+}
