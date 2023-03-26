@@ -1,0 +1,89 @@
+{
+    "english": {
+        "word": "after",
+        "examples": [
+            "Let's go to the movies after dinner.",
+            "He became famous after winning the championship."
+        ],
+        "gender": [],
+        "trick-words": [
+            "subsequent",
+            "following",
+            "posterior",
+            "later",
+            "then"
+        ]
+    },
+    "portuguese": {
+        "word": "depois",
+        "examples": [
+            "Vamos ao cinema depois do jantar.",
+            "Ele ficou famoso depois de ganhar o campeonato."
+        ],
+        "gender": [],
+        "trick-words": [
+            "posterior",
+            "seguinte",
+            "subsequente",
+            "mais tarde",
+            "então"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "preposition",
+        "adverb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the tomato turn red? Because it saw the salad dressing! (When asked what you're doing after work.)"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling sad and lonely after a breakup, or after losing someone you love."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling angry and frustrated after a difficult conversation or confrontation, or after a negative experience."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It can be surprising how quickly time flies after an enjoyable experience, and how the memories of that experience can linger long after it's over."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The lingering scent of a favorite perfume or cologne after someone has left the room."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The physical sensation of tiredness and fatigue after a long day or a difficult workout, and the feeling of relief when you finally get to rest."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to others that comes from sharing a common experience, and the sense of camaraderie and mutual understanding that can arise after a challenging situation or event."
+            ]
+        }
+    }
+}

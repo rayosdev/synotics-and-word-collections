@@ -2,23 +2,23 @@
     "english": {
         "word": "heat",
         "examples": [
-            "The heat of the sun was unbearable.",
-            "I turned up the heat to warm up the room."
+            "I can't stand the heat in this room.",
+            "The heat of the sun made her feel drowsy."
         ],
         "gender": [],
         "trick-words": [
-            "warmth",
             "temperature",
-            "hotness",
-            "boiling point",
-            "fervor"
+            "warmth",
+            "fire",
+            "fever",
+            "radiance"
         ]
     },
     "portuguese": {
         "word": "calor",
         "examples": [
-            "O calor do sol estava insuportável.",
-            "Eu aumentei o calor para aquecer o quarto."
+            "Eu não aguento o calor nesse quarto.",
+            "O calor do sol a deixou sonolenta."
         ],
         "gender": [
             "masculine"
@@ -26,9 +26,9 @@
         "trick-words": [
             "temperatura",
             "aquecimento",
-            "quente",
-            "ebulição",
-            "fervor"
+            "fogo",
+            "febre",
+            "brilho"
         ]
     },
     "progress": {
@@ -36,55 +36,56 @@
         "gender-memory": 0.5
     },
     "type": [
-        "noun"
+        "noun",
+        "verb"
     ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-    "english": {
-        "word": "heat",
-        "examples": [
-            "The heat of the sun was unbearable.",
-            "I turned up the heat to warm up the room."
-        ],
-        "gender": [],
-        "trick-words": [
-            "warmth",
-            "temperature",
-            "hotness",
-            "boiling point",
-            "fervor"
-        ]
-    },
-    "portuguese": {
-        "word": "calor",
-        "examples": [
-            "O calor do sol estava insuportável.",
-            "Eu aumentei o calor para aquecer o quarto."
-        ],
-        "gender": [
-            "masculine"
-        ],
-        "trick-words": [
-            "temperatura",
-            "aquecimento",
-            "quente",
-            "ebulição",
-            "fervor"
-        ]
-    },
-    "progress": {
-        "memory": 0.5,
-        "gender-memory": 0.5
-    },
-    "type": [
-        "noun"
-    ],
-    "dates": {
-        "discover-date": "",
-        "next-review": "",
-        "last-reviewed": ""
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the boy take a ladder to school? Because he wanted to go to high school! (When asked why it's so hot outside.)"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of sadness and loss after a fire or other disaster that destroys homes and lives."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling angry and frustrated after being stuck in traffic on a hot day, or after dealing with broken air conditioning."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It can be surprising how quickly the temperature can change during a heatwave, and how it can impact our health and well-being."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of sweat and sunscreen during a hot summer day, or the aroma of cooking food on a hot stove."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The physical sensation of warmth and discomfort when standing in direct sunlight, or the relief of jumping into a cool swimming pool."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to nature that comes from experiencing the beauty and power of the sun, and the shared experience of trying to beat the heat with friends and family."
+            ]
+        }
     }
 }

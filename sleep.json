@@ -1,0 +1,93 @@
+{
+    "english": {
+        "word": "sleep",
+        "examples": [
+            "I need to get some sleep.",
+            "She fell asleep on the couch."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "rest",
+            "nap",
+            "doze",
+            "slumber",
+            "dream"
+        ]
+    },
+    "portuguese": {
+        "word": "sono",
+        "examples": [
+            "Eu preciso dormir um pouco.",
+            "Ela adormeceu no sofá."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "descanso",
+            "cochilo",
+            "dormida",
+            "letargo",
+            "sonhar"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "tired": {
+            "user-made": [],
+            "suggested": [
+                "I feel so tired, all I want to do is sleep."
+            ]
+        },
+        "bed": {
+            "user-made": [],
+            "suggested": [
+                "I can't wait to crawl into my bed and sleep."
+            ]
+        },
+        "rest": {
+            "user-made": [],
+            "suggested": [
+                "I need to rest my mind and body, a good night's sleep is all I need."
+            ]
+        },
+        "nap": {
+            "user-made": [],
+            "suggested": [
+                "I'm going to take a quick nap, I'll be back in half an hour."
+            ]
+        },
+        "slumber": {
+            "user-made": [],
+            "suggested": [
+                "I'm looking forward to a peaceful slumber tonight."
+            ]
+        },
+        "dream": {
+            "user-made": [],
+            "suggested": [
+                "I can't wait to dream about all the adventures I'll have tomorrow."
+            ]
+        },
+        "snooze": {
+            "user-made": [],
+            "suggested": [
+                "I hit the snooze button so many times this morning, I should have just slept in."
+            ]
+        }
+    }
+}

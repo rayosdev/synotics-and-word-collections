@@ -1,64 +1,90 @@
 {
-	"english": {
-		"word": "cupboard",
-		"examples": [
-			"I keep my dishes in the cupboard above the sink.",
-			"The cupboard was empty, except for a few cans of soup."
-		],
-		"gender": "",
-		"trick-words": ["cabinet", "pantry", "closet", "storage"]
-	},
-	"other languages": {
-		"word": "",
-		"examples": [],
-		"gender": "",
-		"trick-words": []
-	},
-	"progress": {
-		"memory": 0
-	},
-	"type": "noun",
-	"dates": {
-		"discover-date": "",
-		"next-review": "",
-		"last-reviewed": ""
-	},
-	"synonyms": {
-		"funny": {
-			"user-made": [],
-			"suggested": [
-				"Why did the cupboard feel lonely? Because all of its friends were in the cabinet"
-			]
-		},
-		"sad": {
-			"user-made": [],
-			"suggested": [
-				"The cupboard was once filled with memories, but now it stood empty and forgotten."
-			]
-		},
-		"aggravating": {
-			"user-made": [],
-			"suggested": [
-				"Trying to fit all your dishes in a small cupboard can be a real pain"
-			]
-		},
-		"surprising": {
-			"user-made": [],
-			"suggested": [
-				"When I opened the cupboard, I found a hidden stash of snacks."
-			]
-		},
-		"smell": {
-			"user-made": [],
-			"suggested": ["The musty smell of an old cupboard"]
-		},
-		"touch": {
-			"user-made": [],
-			"suggested": ["The rough texture of a wooden cupboard"]
-		},
-		"connection": {
-			"user-made": [],
-			"suggested": ["The connection of family memories stored in a cupboard"]
-		}
-	}
+    "english": {
+        "word": "cupboard",
+        "examples": [
+            "I keep my dishes in the cupboard.",
+            "There's a secret compartment in the cupboard."
+        ],
+        "gender": [],
+        "trick-words": [
+            "cabinet",
+            "wardrobe",
+            "pantry",
+            "hutch",
+            "bookcase"
+        ]
+    },
+    "portuguese": {
+        "word": "armário",
+        "examples": [
+            "Eu guardo minha louça no armário.",
+            "Há um compartimento secreto no armário."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "gabinete",
+            "guarda-roupa",
+            "despensa",
+            "gaiola",
+            "estante"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the cupboard go to the doctor? Because it had a cabinet cough!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of sadness and loss when cleaning out a loved one's cupboard after they have passed away."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Feeling angry and frustrated when you can't find something you need in a messy and disorganized cupboard."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It can be surprising how much stuff you can fit into a well-organized and space-saving cupboard, or the secrets that can be uncovered when cleaning out an old cupboard."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of old wood and varnish in a vintage cupboard, or the aroma of spices and herbs stored in a kitchen cupboard."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The physical sensation of touching the smooth surface of a freshly painted cupboard, or the rough texture of an old wooden one."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to the past that can be felt when opening an antique cupboard, or the sense of pride and accomplishment when successfully organizing and decluttering a cluttered cupboard."
+            ]
+        }
+    }
 }
