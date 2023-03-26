@@ -12,7 +12,8 @@
 		"trick-words": ["roupa", "roupas", "vestuário", "roupagem", "rouparia"]
 	},
 	"progress": {
-		"memory": 0.5
+		"memory": 0.0,
+		"gender-memory": 0.0
 	},
 	"type": "noun",
 	"dates": {
