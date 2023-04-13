@@ -1,21 +1,45 @@
 {
 	"english": {
 		"word": "grass",
-		"examples": ["The grass is always greener on the other side of the fence.", "He lay down on the grass and looked up at the sky."],
-		"gender": ["neuter"],
-		"trick-words": ["lawn", "turf", "meadow", "sod", "pasture"]
+		"examples": [
+			"The grass is always greener on the other side of the fence.",
+			"He lay down on the grass and looked up at the sky."
+		],
+		"gender": [
+			"neuter"
+		],
+		"trick-words": [
+			"lawn",
+			"turf",
+			"meadow",
+			"sod",
+			"pasture"
+		]
 	},
 	"portuguese": {
 		"word": "grama",
-		"examples": ["A grama é sempre mais verde do outro lado da cerca.", "Ele deitou-se na grama e olhou para o céu."],
-		"gender": ["feminine"],
-		"trick-words": ["relva", "prado", "jardim", "campo", "herba"]
+		"examples": [
+			"A grama é sempre mais verde do outro lado da cerca.",
+			"Ele deitou-se na grama e olhou para o céu."
+		],
+		"gender": [
+			"feminine"
+		],
+		"trick-words": [
+			"relva",
+			"prado",
+			"jardim",
+			"campo",
+			"herba"
+		]
 	},
 	"progress": {
 		"memory": 0.5,
 		"gender-memory": 0.5
 	},
-	"type": ["noun"],
+	"type": [
+		"noun"
+	],
 	"dates": {
 		"discover-date": "",
 		"next-review": "",
@@ -24,31 +48,45 @@
 	"synonyms": {
 		"funny": {
 			"user-made": [],
-			"suggested": ["Why did the grasshopper not want to play in the grass? It was too hopper."]
+			"suggested": [
+				"Why did the grasshopper not want to play in the grass? It was too hopper."
+			]
 		},
 		"sad": {
 			"user-made": [],
-			"suggested": ["The grass always looks greener on the other side, but it's just as hard to mow."]
+			"suggested": [
+				"The grass always looks greener on the other side, but it's just as hard to mow."
+			]
 		},
 		"angry": {
 			"user-made": [],
-			"suggested": ["Why is the grass always greener on the other side? Because it's fertilized by all the BS over here."]
+			"suggested": [
+				"Why is the grass always greener on the other side? Because it's fertilized by all the BS over here."
+			]
 		},
 		"surprising": {
 			"user-made": [],
-			"suggested": ["The grass is always greener on the other side, but have you ever thought about how much pollution is on the other side of the fence?"]
+			"suggested": [
+				"The grass is always greener on the other side, but have you ever thought about how much pollution is on the other side of the fence?"
+			]
 		},
 		"smell": {
 			"user-made": [],
-			"suggested": ["The smell of freshly cut grass."]
+			"suggested": [
+				"The smell of freshly cut grass."
+			]
 		},
 		"touch": {
 			"user-made": [],
-			"suggested": ["The feeling of the soft grass under your feet."]
+			"suggested": [
+				"The feeling of the soft grass under your feet."
+			]
 		},
 		"connection": {
 			"user-made": [],
-			"suggested": ["The connection to nature and the earth when you look at a lush green lawn."]
+			"suggested": [
+				"The connection to nature and the earth when you look at a lush green lawn."
+			]
 		}
 	}
 }
