@@ -1,0 +1,97 @@
+{
+    "english": {
+        "word": "across",
+        "examples": [
+            "He walked across the street.",
+            "The bridge spans across the river."
+        ],
+        "type": [
+            "preposition"
+        ],
+        "trick-words": [
+            "over",
+            "beyond",
+            "through",
+            "along"
+        ],
+        "related-words": [
+            "cross",
+            "across from",
+            "across-the-board"
+        ]
+    },
+    "portuguese": {
+        "word": "através",
+        "examples": [
+            "Ele atravessou a rua.",
+            "A ponte atravessa o rio."
+        ],
+        "type": [
+            "preposição"
+        ],
+        "trick-words": [
+            "por cima",
+            "além",
+            "através de",
+            "ao longo de"
+        ],
+        "related-words": [
+            "atravessar",
+            "do outro lado",
+            "abrangente"
+        ]
+    },
+    "progress": {
+        "memory": 0.6,
+        "type-memory": 0.4
+    },
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the chicken cross the road? To get to the other side."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "We may be far apart, but we will always have the memories of the adventures we had together across the country."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why does traffic always seem to be at a standstill when you need to cross the street?"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "I was surprised to see how many different cultures and people lived across the city when I moved here."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of the ocean air as you walk across the beach."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of the hot sand on your feet as you walk across the beach."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "We may be from different parts of the world, but we can all connect and understand each other across cultures and languages."
+            ]
+        }
+    }
+}

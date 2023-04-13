@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "age",
+        "examples": [
+            "She doesn't look her age.",
+            "He retired at the age of 65."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "time",
+            "years",
+            "generation",
+            "lifetime",
+            "epoch"
+        ]
+    },
+    "portuguese": {
+        "word": "idade",
+        "examples": [
+            "Ela não aparenta a idade que tem.",
+            "Ele se aposentou aos 65 anos de idade."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "tempo",
+            "anos",
+            "geração",
+            "vida",
+            "época"
+        ]
+    },
+    "progress": {
+        "memory": 0.3,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the man start walking backwards? He wanted to feel young again."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Growing old is mandatory, but growing up is optional."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Age discrimination is a serious problem in many industries."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "At 70 years old, Tina Turner still puts on an amazing show. Age is just a number."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of mothballs and musty books reminds me of my grandmother's age."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "As we age, our skin becomes thinner and more delicate."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "As we age, our relationships and connections with others become more important than ever before."
+            ]
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "english": {
+        "word": "about",
+        "examples": [
+            "I'm thinking about going to the store.",
+            "Can you tell me more about the project?"
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "around",
+            "approximately",
+            "concerning",
+            "regarding",
+            "nearby"
+        ]
+    },
+    "portuguese": {
+        "word": "sobre",
+        "examples": [
+            "Estou pensando em ir à loja.",
+            "Você pode me contar mais sobre o projeto?"
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "ao redor",
+            "aproximadamente",
+            "relativo a",
+            "referente a",
+            "próximo"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "preposition",
+        "adverb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "regarding": {
+            "user-made": [],
+            "suggested": [
+                "Let's talk regarding the matter at hand."
+            ]
+        },
+        "concerning": {
+            "user-made": [],
+            "suggested": [
+                "The article was concerning the current political climate."
+            ]
+        },
+        "related": {
+            "user-made": [],
+            "suggested": [
+                "The book is related to the topic we were discussing earlier."
+            ]
+        },
+        "around": {
+            "user-made": [],
+            "suggested": [
+                "There's a lot of excitement around the new product launch."
+            ]
+        },
+        "on the subject of": {
+            "user-made": [],
+            "suggested": [
+                "On the subject of climate change, we need to take action."
+            ]
+        },
+        "connected to": {
+            "user-made": [],
+            "suggested": [
+                "The movie is connected to the book it was adapted from."
+            ]
+        },
+        "pertaining to": {
+            "user-made": [],
+            "suggested": [
+                "The report is pertaining to the financial performance of the company."
+            ]
+        }
+    }
+}

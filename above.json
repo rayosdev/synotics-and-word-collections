@@ -1,0 +1,111 @@
+{
+    "english": {
+        "word": "above",
+        "examples": [
+            "The sun is above the clouds.",
+            "The picture hangs above the sofa."
+        ],
+        "part-of-speech": [
+            "preposition",
+            "adverb"
+        ],
+        "synonyms": [
+            "over",
+            "on top of",
+            "higher than"
+        ],
+        "antonyms": [
+            "below",
+            "under"
+        ],
+        "trick-words": [
+            "over",
+            "upstairs",
+            "top",
+            "ceiling",
+            "sky"
+        ]
+    },
+    "portuguese": {
+        "word": "acima",
+        "examples": [
+            "O sol está acima das nuvens.",
+            "A imagem está pendurada acima do sofá."
+        ],
+        "part-of-speech": [
+            "preposição",
+            "advérbio"
+        ],
+        "synonyms": [
+            "sobre",
+            "em cima de",
+            "mais alto que"
+        ],
+        "antonyms": [
+            "abaixo",
+            "embaixo"
+        ],
+        "trick-words": [
+            "sobre",
+            "em cima",
+            "superior",
+            "teto",
+            "céu"
+        ]
+    },
+    "progress": {
+        "memory": 0.7
+    },
+    "type": [
+        "word"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why was the math book sad? Because it had too many problems and not enough solutions... like the bird who flew too high and hit the ceiling, he was above his limit!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes we feel like we're stuck in a hole, but remember, the sky is always above us."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "It's frustrating when people think they're above the rules and can do whatever they want."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that Mount Everest is not the tallest mountain above sea level? It's actually Mauna Kea in Hawaii."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The fresh smell of pine needles and sap in the air when you're hiking above the treeline."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of weightlessness when you jump off a diving board and briefly hover above the water."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Looking up at the stars above us can remind us of how small we are in the grand scheme of things, and connect us to the vastness of the universe."
+            ]
+        }
+    }
+}

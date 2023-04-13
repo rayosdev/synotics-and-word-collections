@@ -1,0 +1,90 @@
+{
+    "english": {
+        "word": "action",
+        "examples": [
+            "We need to take action to solve this problem.",
+            "The movie is full of action scenes."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "activity",
+            "event",
+            "performance",
+            "behavior"
+        ]
+    },
+    "portuguese": {
+        "word": "ação",
+        "examples": [
+            "Precisamos tomar uma ação para resolver esse problema.",
+            "O filme está cheio de cenas de ação."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "atividade",
+            "evento",
+            "performance",
+            "comportamento"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "happy": {
+            "user-made": [],
+            "suggested": [
+                "Taking action towards your goals can bring a sense of fulfillment and happiness."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling stuck and unable to take action can lead to a sense of sadness and hopelessness."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Frustration can build up when there is a lack of action or progress towards a desired outcome."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes the smallest actions can have the biggest impact."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of action - the scent of sweat and hard work."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of action - the rush of adrenaline and the satisfaction of a job well done."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Taking action towards a common goal can foster a sense of connection and teamwork."
+            ]
+        }
+    }
+}
