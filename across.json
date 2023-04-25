@@ -2,49 +2,45 @@
     "english": {
         "word": "across",
         "examples": [
-            "He walked across the street.",
-            "The bridge spans across the river."
+            "I walked across the bridge.",
+            "The ball rolled across the field."
         ],
-        "type": [
-            "preposition"
+        "gender": [
+            "neuter"
         ],
         "trick-words": [
             "over",
-            "beyond",
             "through",
-            "along"
-        ],
-        "related-words": [
-            "cross",
-            "across from",
-            "across-the-board"
+            "beyond",
+            "crosswise",
+            "transverse"
         ]
     },
     "portuguese": {
         "word": "através",
         "examples": [
-            "Ele atravessou a rua.",
-            "A ponte atravessa o rio."
+            "Eu caminhei através da ponte.",
+            "A bola rolou através do campo."
         ],
-        "type": [
-            "preposição"
+        "gender": [
+            "masculine"
         ],
         "trick-words": [
-            "por cima",
             "além",
-            "através de",
-            "ao longo de"
-        ],
-        "related-words": [
-            "atravessar",
             "do outro lado",
-            "abrangente"
+            "de um lado para outro",
+            "transversalmente",
+            "cruzado"
         ]
     },
     "progress": {
-        "memory": 0.6,
-        "type-memory": 0.4
+        "memory": 0.5,
+        "gender-memory": 0.5
     },
+    "type": [
+        "preposition",
+        "adverb"
+    ],
     "dates": {
         "discover-date": "",
         "next-review": "",
@@ -54,43 +50,43 @@
         "funny": {
             "user-made": [],
             "suggested": [
-                "Why did the chicken cross the road? To get to the other side."
+                "Why did the chicken cross the playground? To get to the other slide."
             ]
         },
         "sad": {
             "user-made": [],
             "suggested": [
-                "We may be far apart, but we will always have the memories of the adventures we had together across the country."
+                "I miss my friend who lives across the country. It's hard to stay connected when we're so far apart."
             ]
         },
         "angry": {
             "user-made": [],
             "suggested": [
-                "Why does traffic always seem to be at a standstill when you need to cross the street?"
+                "I can't believe how dangerous it is to cross the street in this city. The drivers are so reckless!"
             ]
         },
         "surprising": {
             "user-made": [],
             "suggested": [
-                "I was surprised to see how many different cultures and people lived across the city when I moved here."
+                "Did you know that the shortest distance across the Atlantic Ocean is actually closer to Newfoundland, Canada than it is to Ireland?"
             ]
         },
         "smell": {
             "user-made": [],
             "suggested": [
-                "The smell of the ocean air as you walk across the beach."
+                "The salty smell of the ocean as you stand on the beach and look across the water."
             ]
         },
         "touch": {
             "user-made": [],
             "suggested": [
-                "The feeling of the hot sand on your feet as you walk across the beach."
+                "The feeling of the wind in your hair as you ride a bicycle across a wide-open space."
             ]
         },
         "connection": {
             "user-made": [],
             "suggested": [
-                "We may be from different parts of the world, but we can all connect and understand each other across cultures and languages."
+                "Crossing a bridge can be a powerful metaphor for overcoming challenges in life. We may face obstacles, but we can find a way to cross them and reach the other side."
             ]
         }
     }

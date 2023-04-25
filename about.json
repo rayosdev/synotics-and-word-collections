@@ -2,8 +2,8 @@
     "english": {
         "word": "about",
         "examples": [
-            "I'm thinking about going to the store.",
-            "Can you tell me more about the project?"
+            "I'm thinking about going to the gym tonight.",
+            "Let's talk about something else."
         ],
         "gender": [
             "neuter"
@@ -13,24 +13,24 @@
             "approximately",
             "concerning",
             "regarding",
-            "nearby"
+            "on the subject of"
         ]
     },
     "portuguese": {
         "word": "sobre",
         "examples": [
-            "Estou pensando em ir à loja.",
-            "Você pode me contar mais sobre o projeto?"
+            "Estou pensando em ir à academia esta noite.",
+            "Vamos falar sobre outra coisa."
         ],
         "gender": [
             "masculine"
         ],
         "trick-words": [
-            "ao redor",
-            "aproximadamente",
+            "acerca de",
+            "a respeito de",
             "relativo a",
-            "referente a",
-            "próximo"
+            "em torno de",
+            "sobre o assunto de"
         ]
     },
     "progress": {
@@ -47,46 +47,46 @@
         "last-reviewed": ""
     },
     "synonyms": {
-        "regarding": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "Let's talk regarding the matter at hand."
+                "What did the grape say when it got stepped on? Nothing, it just let out a little wine about it."
             ]
         },
-        "concerning": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "The article was concerning the current political climate."
+                "I don't know what to do about the situation. It's making me feel really helpless."
             ]
         },
-        "related": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "The book is related to the topic we were discussing earlier."
+                "I'm so tired of hearing about politics all the time. Can we talk about something else?"
             ]
         },
-        "around": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "There's a lot of excitement around the new product launch."
+                "Did you know that the word 'about' is derived from the Old English word 'abutan', meaning 'around' or 'surrounding'?"
             ]
         },
-        "on the subject of": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "On the subject of climate change, we need to take action."
+                "The smell of freshly baked cookies reminds me of all the good memories I have about my childhood."
             ]
         },
-        "connected to": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "The movie is connected to the book it was adapted from."
+                "I have mixed feelings about the texture of avocado. Some days I love it, other days it's just too slimy."
             ]
         },
-        "pertaining to": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "The report is pertaining to the financial performance of the company."
+                "There's something comforting about being around people who understand you and know everything about you."
             ]
         }
     }

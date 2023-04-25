@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "activity",
+        "examples": [
+            "The children enjoyed the outdoor activity.",
+            "Regular physical activity is important for good health."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "action",
+            "pursuit",
+            "occupation",
+            "pastime",
+            "task"
+        ]
+    },
+    "portuguese": {
+        "word": "atividade",
+        "examples": [
+            "As crianças gostaram da atividade ao ar livre.",
+            "A atividade física regular é importante para uma boa saúde."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "ação",
+            "empreendimento",
+            "ocupação",
+            "passatempo",
+            "tarefa"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "I'm not lazy, I'm just conserving my energy for more important activities, like napping."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "I used to love doing outdoor activities with my dad, but now that he's gone, it just doesn't feel the same anymore."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "It's so frustrating when I see people engaging in illegal activities and getting away with it, while others get punished for minor offenses."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that listening to music can actually improve your performance during physical activities?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of chlorine at the pool reminds me of all the fun summer activities I used to do as a kid."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "There's something satisfying about the feeling of finishing a physical activity and having sore muscles afterwards."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Joining a club or group that shares your interests is a great way to meet new people and participate in activities you enjoy."
+            ]
+        }
+    }
+}

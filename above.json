@@ -2,62 +2,44 @@
     "english": {
         "word": "above",
         "examples": [
-            "The sun is above the clouds.",
-            "The picture hangs above the sofa."
+            "The sun is above the horizon.",
+            "Please write your name above the line."
         ],
-        "part-of-speech": [
-            "preposition",
-            "adverb"
-        ],
-        "synonyms": [
-            "over",
-            "on top of",
-            "higher than"
-        ],
-        "antonyms": [
-            "below",
-            "under"
+        "gender": [
+            "neuter"
         ],
         "trick-words": [
             "over",
-            "upstairs",
-            "top",
-            "ceiling",
-            "sky"
+            "on top of",
+            "higher than",
+            "upward of",
+            "beyond"
         ]
     },
     "portuguese": {
         "word": "acima",
         "examples": [
-            "O sol está acima das nuvens.",
-            "A imagem está pendurada acima do sofá."
+            "O sol está acima do horizonte.",
+            "Por favor, escreva seu nome acima da linha."
         ],
-        "part-of-speech": [
-            "preposição",
-            "advérbio"
-        ],
-        "synonyms": [
-            "sobre",
-            "em cima de",
-            "mais alto que"
-        ],
-        "antonyms": [
-            "abaixo",
-            "embaixo"
+        "gender": [
+            "masculine"
         ],
         "trick-words": [
             "sobre",
-            "em cima",
-            "superior",
-            "teto",
-            "céu"
+            "em cima de",
+            "mais alto que",
+            "superior a",
+            "além de"
         ]
     },
     "progress": {
-        "memory": 0.7
+        "memory": 0.5,
+        "gender-memory": 0.5
     },
     "type": [
-        "word"
+        "preposition",
+        "adverb"
     ],
     "dates": {
         "discover-date": "",
@@ -68,43 +50,43 @@
         "funny": {
             "user-made": [],
             "suggested": [
-                "Why was the math book sad? Because it had too many problems and not enough solutions... like the bird who flew too high and hit the ceiling, he was above his limit!"
+                "Why did the tomato turn red? Because it saw the salad dressing way up above."
             ]
         },
         "sad": {
             "user-made": [],
             "suggested": [
-                "Sometimes we feel like we're stuck in a hole, but remember, the sky is always above us."
+                "The clouds above me seem to mirror my own sense of gloom and heaviness."
             ]
         },
         "angry": {
             "user-made": [],
             "suggested": [
-                "It's frustrating when people think they're above the rules and can do whatever they want."
+                "The CEO's salary was way above what the average worker could ever hope to earn, leading to widespread employee discontent."
             ]
         },
         "surprising": {
             "user-made": [],
             "suggested": [
-                "Did you know that Mount Everest is not the tallest mountain above sea level? It's actually Mauna Kea in Hawaii."
+                "Did you know that birds can see ultraviolet light, which helps them navigate by detecting patterns in the sky and clouds above?"
             ]
         },
         "smell": {
             "user-made": [],
             "suggested": [
-                "The fresh smell of pine needles and sap in the air when you're hiking above the treeline."
+                "The crisp scent of fresh mountain air above the treeline."
             ]
         },
         "touch": {
             "user-made": [],
             "suggested": [
-                "The feeling of weightlessness when you jump off a diving board and briefly hover above the water."
+                "The thrill of being high up above the ground on a roller coaster or bungee jump."
             ]
         },
         "connection": {
             "user-made": [],
             "suggested": [
-                "Looking up at the stars above us can remind us of how small we are in the grand scheme of things, and connect us to the vastness of the universe."
+                "Looking up at the vast expanse of stars above can help put our own problems into perspective and remind us of our place in the universe."
             ]
         }
     }

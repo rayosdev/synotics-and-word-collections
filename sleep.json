@@ -3,7 +3,7 @@
         "word": "sleep",
         "examples": [
             "I need to get some sleep.",
-            "She fell asleep on the couch."
+            "He fell asleep during the movie."
         ],
         "gender": [
             "neuter"
@@ -13,24 +13,24 @@
             "nap",
             "doze",
             "slumber",
-            "dream"
+            "catnap"
         ]
     },
     "portuguese": {
         "word": "sono",
         "examples": [
-            "Eu preciso dormir um pouco.",
-            "Ela adormeceu no sofá."
+            "Preciso dormir um pouco.",
+            "Ele adormeceu durante o filme."
         ],
         "gender": [
             "masculine"
         ],
         "trick-words": [
+            "repouso",
             "descanso",
             "cochilo",
-            "dormida",
-            "letargo",
-            "sonhar"
+            "sonolência",
+            "soneca"
         ]
     },
     "progress": {
@@ -47,46 +47,46 @@
         "last-reviewed": ""
     },
     "synonyms": {
-        "tired": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "I feel so tired, all I want to do is sleep."
+                "I tried to come up with a joke about sleeping, but it was a snooze fest."
             ]
         },
-        "bed": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "I can't wait to crawl into my bed and sleep."
+                "Sleeping alone in a cold bed is one of the loneliest things a person can experience."
             ]
         },
-        "rest": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "I need to rest my mind and body, a good night's sleep is all I need."
+                "I'm so angry that my neighbor's dog won't stop barking and it's keeping me up all night. I need some sleep!"
             ]
         },
-        "nap": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "I'm going to take a quick nap, I'll be back in half an hour."
+                "Did you know that some animals, like dolphins and birds, can sleep with only one half of their brain at a time?"
             ]
         },
-        "slumber": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "I'm looking forward to a peaceful slumber tonight."
+                "The comforting smell of freshly washed sheets when you crawl into bed for a good night's sleep."
             ]
         },
-        "dream": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "I can't wait to dream about all the adventures I'll have tomorrow."
+                "The feeling of sinking into a soft, plush mattress after a long day."
             ]
         },
-        "snooze": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "I hit the snooze button so many times this morning, I should have just slept in."
+                "Getting enough sleep is essential for both physical and mental health. When we sleep, our body and mind are able to rest and rejuvenate, allowing us to be our best selves during the day."
             ]
         }
     }
