@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "adult",
+        "examples": [
+            "Only adults are allowed in the casino.",
+            "She's an adult now, so she can make her own decisions."
+        ],
+        "gender": [
+            "neutral"
+        ],
+        "trick-words": [
+            "mature",
+            "grown-up",
+            "elderly",
+            "ripe",
+            "fully-grown"
+        ]
+    },
+    "portuguese": {
+        "word": "adulto",
+        "examples": [
+            "Apenas adultos são permitidos no cassino.",
+            "Ela é adulta agora, então pode tomar suas próprias decisões."
+        ],
+        "gender": [
+            "masculine",
+            "feminine"
+        ],
+        "trick-words": [
+            "maduro",
+            "crescido",
+            "idoso",
+            "madura",
+            "plenamente desenvolvido"
+        ]
+    },
+    "progress": {
+        "memory": 0.6,
+        "gender-memory": 0.4
+    },
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the adult go to bed early? Because they wanted to have a dream of being a kid again!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Being an adult means having to make tough decisions and dealing with tough situations."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Some people act like adults but have the emotional maturity of a child."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the human brain doesn't fully mature until around the age of 25? That's why some people say they still feel like a kid even when they're technically an adult."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of coffee in the morning is one of the many perks of being an adult."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of being responsible and in control of your life as an adult."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "As an adult, you have the opportunity to connect with people from all walks of life and make meaningful relationships."
+            ]
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "afternoon",
+        "examples": [
+            "Let's meet for lunch tomorrow afternoon.",
+            "She spent the afternoon reading in the park."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "evening",
+            "morning",
+            "daytime",
+            "midday",
+            "dusk"
+        ]
+    },
+    "spanish": {
+        "word": "tarde",
+        "examples": [
+            "Nos vemos para almorzar mañana por la tarde.",
+            "Pasó la tarde leyendo en el parque."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "mañana",
+            "noche",
+            "mediodía",
+            "anochecer",
+            "amanecer"
+        ]
+    },
+    "progress": {
+        "memory": 0.6,
+        "gender-memory": 0.4
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "relaxing": {
+            "user-made": [],
+            "suggested": [
+                "Spending a lazy afternoon on the porch, sipping iced tea and reading a good book."
+            ]
+        },
+        "productive": {
+            "user-made": [],
+            "suggested": [
+                "Making the most of your afternoon by tackling that project you've been putting off for weeks."
+            ]
+        },
+        "nostalgic": {
+            "user-made": [],
+            "suggested": [
+                "Remembering the lazy afternoons of your childhood, spent playing outside with friends."
+            ]
+        },
+        "energizing": {
+            "user-made": [],
+            "suggested": [
+                "Going for a run or bike ride on a beautiful afternoon to get your blood pumping."
+            ]
+        },
+        "scenic": {
+            "user-made": [],
+            "suggested": [
+                "Taking a leisurely drive on a scenic afternoon, enjoying the beautiful views."
+            ]
+        },
+        "sunny": {
+            "user-made": [],
+            "suggested": [
+                "Soaking up the sun on a warm afternoon, feeling the warmth on your skin."
+            ]
+        },
+        "quiet": {
+            "user-made": [],
+            "suggested": [
+                "Enjoying the peacefulness of a quiet afternoon, with nothing to do but relax."
+            ]
+        }
+    }
+}

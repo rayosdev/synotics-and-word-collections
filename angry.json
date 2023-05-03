@@ -1,0 +1,131 @@
+{
+    "english": {
+        "word": "angry",
+        "examples": [
+            "She was so angry that she threw the book across the room.",
+            "He gets angry when someone interrupts him."
+        ],
+        "part-of-speech": [
+            "adjective"
+        ],
+        "synonyms": [
+            "mad",
+            "irritated",
+            "furious",
+            "enraged"
+        ],
+        "antonyms": [
+            "calm",
+            "happy",
+            "pleased",
+            "satisfied"
+        ]
+    },
+    "spanish": {
+        "word": "enojado",
+        "examples": [
+            "Ella estaba tan enojada que lanzó el libro al otro lado de la habitación.",
+            "Se pone enojado cuando alguien lo interrumpe."
+        ],
+        "part-of-speech": [
+            "adjetivo"
+        ],
+        "synonyms": [
+            "furioso",
+            "indignado",
+            "exasperado",
+            "irritado"
+        ],
+        "antonyms": [
+            "calmado",
+            "feliz",
+            "contento",
+            "satisfecho"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "synonyms-memory": 0.7,
+        "antonyms-memory": 0.6
+    },
+    "type": [
+        "emotional"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "mad": {
+            "user-made": [],
+            "suggested": [
+                "furious",
+                "enraged",
+                "livid",
+                "irate",
+                "incensed"
+            ]
+        },
+        "frustrated": {
+            "user-made": [],
+            "suggested": [
+                "annoyed",
+                "irritated",
+                "displeased",
+                "exasperated",
+                "aggravated"
+            ]
+        },
+        "upset": {
+            "user-made": [],
+            "suggested": [
+                "distressed",
+                "hurt",
+                "angst-ridden",
+                "disappointed",
+                "heartbroken"
+            ]
+        },
+        "violent": {
+            "user-made": [],
+            "suggested": [
+                "furious",
+                "intense",
+                "raging",
+                "tempestuous",
+                "stormy"
+            ]
+        },
+        "outraged": {
+            "user-made": [],
+            "suggested": [
+                "infuriated",
+                "scandalized",
+                "incensed",
+                "enraged",
+                "angered"
+            ]
+        },
+        "irritated": {
+            "user-made": [],
+            "suggested": [
+                "annoyed",
+                "aggravated",
+                "exasperated",
+                "bothered",
+                "peeved"
+            ]
+        },
+        "furious": {
+            "user-made": [],
+            "suggested": [
+                "enraged",
+                "livid",
+                "incensed",
+                "indignant",
+                "fuming"
+            ]
+        }
+    }
+}

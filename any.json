@@ -1,0 +1,147 @@
+{
+    "english": {
+        "word": "anything",
+        "examples": [
+            "You can ask me anything you want.",
+            "I'm not hungry, I'll eat anything."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "everything",
+            "something",
+            "nothing",
+            "anyone",
+            "anybody"
+        ]
+    },
+    "portuguese": {
+        "word": "qualquer coisa",
+        "examples": [
+            "Você pode me perguntar qualquer coisa que quiser.",
+            "Não estou com fome, eu como qualquer coisa."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "tudo",
+            "algo",
+            "nada",
+            "qualquer um",
+            "qualquer pessoa"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "pronoun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "general": {
+            "user-made": [],
+            "suggested": [
+                "whatever",
+                "whichever",
+                "anybody",
+                "anyone",
+                "anything",
+                "whatever you like",
+                "take your pick",
+                "the choice is yours",
+                "either one"
+            ]
+        },
+        "affirmative": {
+            "user-made": [],
+            "suggested": [
+                "absolutely",
+                "certainly",
+                "of course",
+                "definitely",
+                "indeed",
+                "sure",
+                "yes",
+                "you bet",
+                "without a doubt"
+            ]
+        },
+        "negative": {
+            "user-made": [],
+            "suggested": [
+                "none",
+                "nothing",
+                "no one",
+                "nobody",
+                "neither",
+                "nowhere",
+                "not a single one",
+                "not one",
+                "not any"
+            ]
+        },
+        "quantity": {
+            "user-made": [],
+            "suggested": [
+                "some",
+                "many",
+                "few",
+                "a few",
+                "several",
+                "plenty",
+                "a lot of",
+                "lots of",
+                "enough"
+            ]
+        },
+        "permission": {
+            "user-made": [],
+            "suggested": [
+                "feel free",
+                "go ahead",
+                "you're welcome to",
+                "take your time",
+                "do as you please",
+                "it's up to you",
+                "have at it",
+                "make yourself at home",
+                "be my guest"
+            ]
+        },
+        "negation": {
+            "user-made": [],
+            "suggested": [
+                "none whatsoever",
+                "absolutely not",
+                "by no means",
+                "under no circumstances",
+                "not at all",
+                "no way",
+                "never",
+                "not ever",
+                "no chance"
+            ]
+        },
+        "comparison": {
+            "user-made": [],
+            "suggested": [
+                "either way",
+                "both",
+                "whichever is better",
+                "either one works",
+                "take your pick",
+                "any of them will do",
+                "whatever you like",
+                "it doesn't matter which"
+            ]
+        }
+    }
+}

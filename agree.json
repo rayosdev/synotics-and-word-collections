@@ -1,0 +1,110 @@
+{
+    "english": {
+        "word": "agree",
+        "examples": [
+            "I agree with you.",
+            "Let's agree to disagree."
+        ],
+        "part-of-speech": [
+            "verb"
+        ],
+        "synonyms": [
+            "concur",
+            "assent",
+            "accede",
+            "consent"
+        ],
+        "antonyms": [
+            "disagree",
+            "dissent",
+            "contradict"
+        ],
+        "related-words": [
+            "agreement",
+            "agreeable",
+            "agreeably"
+        ]
+    },
+    "spanish": {
+        "word": "acuerdo",
+        "examples": [
+            "Estoy de acuerdo contigo.",
+            "Vamos a estar de acuerdo en no estar de acuerdo."
+        ],
+        "part-of-speech": [
+            "sustantivo"
+        ],
+        "synonyms": [
+            "concordar",
+            "admitir",
+            "aceptar"
+        ],
+        "antonyms": [
+            "discrepar",
+            "no estar de acuerdo",
+            "contradecir"
+        ],
+        "related-words": [
+            "acuerdo",
+            "acordar",
+            "acorde"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "synonyms-memory": 0.7,
+        "antonyms-memory": 0.6
+    },
+    "type": [
+        "action"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "happy": {
+            "user-made": [],
+            "suggested": [
+                "When everyone agrees, it's a great feeling."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "I wish we could all just agree sometimes."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why can't you just agree with me for once?"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It's surprising when people from different backgrounds can agree on something."
+            ]
+        },
+        "annoyed": {
+            "user-made": [],
+            "suggested": [
+                "It's so annoying when people just agree to avoid conflict."
+            ]
+        },
+        "relieved": {
+            "user-made": [],
+            "suggested": [
+                "I'm so relieved we finally agree on this."
+            ]
+        },
+        "proud": {
+            "user-made": [],
+            "suggested": [
+                "I'm proud of us for being able to agree despite our differences."
+            ]
+        }
+    }
+}

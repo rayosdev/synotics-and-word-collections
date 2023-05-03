@@ -1,0 +1,86 @@
+{
+    "english": {
+        "word": "anything",
+        "examples": [
+            "You can ask me anything you want.",
+            "I'm not hungry, I'll eat anything."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "everything",
+            "something",
+            "nothing",
+            "anyone",
+            "anybody"
+        ]
+    },
+    "portuguese": {
+        "word": "qualquer coisa",
+        "examples": [
+            "Você pode me perguntar qualquer coisa que quiser.",
+            "Não estou com fome, eu como qualquer coisa."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "tudo",
+            "algo",
+            "nada",
+            "qualquer um",
+            "qualquer pessoa"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "pronoun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "interesting": {
+            "user-made": [],
+            "suggested": [
+                "Anything can happen if you let it!"
+            ]
+        },
+        "hopeful": {
+            "user-made": [],
+            "suggested": [
+                "Anything is possible if you believe in yourself."
+            ]
+        },
+        "curious": {
+            "user-made": [],
+            "suggested": [
+                "Is there anything that you've always wanted to try but haven't yet?"
+            ]
+        },
+        "flexibility": {
+            "user-made": [],
+            "suggested": [
+                "Anything can be achieved with hard work and dedication."
+            ]
+        },
+        "uncertainty": {
+            "user-made": [],
+            "suggested": [
+                "Anything could happen in the future, so it's important to live in the present."
+            ]
+        },
+        "limitless": {
+            "user-made": [],
+            "suggested": [
+                "Anything is possible with an open mind and a willingness to learn."
+            ]
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+	"english": {
+		"word": "all",
+		"examples": ["All the students in the class passed the exam.", "I have read all the books in the library."],
+		"gender": ["neuter"],
+		"trick-words": ["every", "each", "whole", "entire", "total"]
+	},
+	"portuguese": {
+		"word": "todos",
+		"examples": ["Todos os alunos da turma passaram no exame.", "Eu li todos os livros da biblioteca."],
+		"gender": ["masculine"],
+		"trick-words": ["cada", "inteiro", "completo", "total"]
+	},
+	"progress": {
+		"memory": 0.6,
+		"gender-memory": 0.4
+	},
+	"type": ["pronoun", "determiner"],
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+    "synonyms": {
+        "inclusive": {
+            "user-made": [],
+            "suggested": ["Everybody", "Every single one", "Each and every", "The whole lot", "The entirety"]
+        },
+        "exhaustive": {
+            "user-made": [],
+            "suggested": ["Everything", "The whole shebang", "The entire enchilada", "All things", "The whole kit and caboodle"]
+        },
+        "universal": {
+            "user-made": [],
+            "suggested": ["Everywhere", "At all times", "All over the place", "In every instance", "In every case"]
+        },
+        "omnipresent": {
+            "user-made": [],
+            "suggested": ["Ubiquitous", "Ever-present", "All-encompassing", "All-pervading", "All-embracing"]
+        },
+        "totality": {
+            "user-made": [],
+            "suggested": ["The whole", "The totality", "The entirety", "The aggregate", "The sum total"]
+        },
+        "completely": {
+            "user-made": [],
+            "suggested": ["Wholly", "Entirely", "Fully", "Absolutely", "Totally"]
+        },
+        "every": {
+            "user-made": [],
+            "suggested": ["Each", "Every single", "All the", "The whole", "The entire"]
+        }
+    }
+}

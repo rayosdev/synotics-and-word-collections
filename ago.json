@@ -1,0 +1,104 @@
+{
+    "english": {
+        "word": "ago",
+        "examples": [
+            "He left the company two years ago.",
+            "I saw her a week ago at the party.",
+            "The concert happened five months ago."
+        ],
+        "part-of-speech": [
+            "adverb"
+        ],
+        "synonyms": [
+            "before",
+            "previously",
+            "formerly"
+        ],
+        "antonyms": [
+            "later",
+            "since",
+            "after"
+        ],
+        "trick-words": [
+            "age",
+            "agog",
+            "agogic"
+        ]
+    },
+    "spanish": {
+        "word": "hace",
+        "examples": [
+            "Él dejó la compañía hace dos años.",
+            "La vi hace una semana en la fiesta.",
+            "El concierto sucedió hace cinco meses."
+        ],
+        "part-of-speech": [
+            "adverb"
+        ],
+        "synonyms": [
+            "antes",
+            "previamente",
+            "anteriormente"
+        ],
+        "antonyms": [
+            "después",
+            "desde",
+            "más tarde"
+        ],
+        "trick-words": [
+            "hacer",
+            "acerca de",
+            "hacha"
+        ]
+    },
+    "progress": {
+        "memory": 0.8
+    },
+    "type": [
+        "time"
+    ],
+    "synonyms": {
+        "nostalgic": {
+            "user-made": [],
+            "suggested": [
+                "Do you remember the days of yore? That was ages ago."
+            ]
+        },
+        "impatient": {
+            "user-made": [],
+            "suggested": [
+                "I cannot wait for the new season of my favorite show to come out. It feels like it was ages ago that I last watched it."
+            ]
+        },
+        "curious": {
+            "user-made": [],
+            "suggested": [
+                "What was life like centuries ago?"
+            ]
+        },
+        "reflective": {
+            "user-made": [],
+            "suggested": [
+                "Looking back at how things were ten years ago, it's amazing to see how much has changed."
+            ]
+        },
+        "disbelief": {
+            "user-made": [],
+            "suggested": [
+                "It's hard to believe that it was only a few months ago when we could travel freely without any restrictions."
+            ]
+        },
+        "regretful": {
+            "user-made": [],
+            "suggested": [
+                "If only I had taken that opportunity when it was presented to me. That was many years ago."
+            ]
+        },
+        "nostalgia": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of nostalgia that comes over me when I think about my childhood home, which I left long ago."
+            ]
+        }
+    }
+}

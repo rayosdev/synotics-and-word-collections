@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "arm",
+        "examples": [
+            "He broke his arm playing football.",
+            "She had a tattoo on her arm."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "forearm",
+            "upper arm",
+            "shoulder",
+            "elbow",
+            "wrist"
+        ]
+    },
+    "spanish": {
+        "word": "brazo",
+        "examples": [
+            "Se fracturó el brazo jugando fútbol.",
+            "Tenía un tatuaje en el brazo."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "antebrazo",
+            "bíceps",
+            "hombro",
+            "codo",
+            "muñeca"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "limb": {
+            "user-made": [],
+            "suggested": [
+                "My arm is aching after that workout."
+            ]
+        },
+        "weapon": {
+            "user-made": [],
+            "suggested": [
+                "The gunman pointed his arm towards the store clerk."
+            ]
+        },
+        "support": {
+            "user-made": [],
+            "suggested": [
+                "I need a strong arm to help me move this couch."
+            ]
+        },
+        "embrace": {
+            "user-made": [],
+            "suggested": [
+                "He wrapped his arms around her and pulled her close."
+            ]
+        },
+        "military": {
+            "user-made": [],
+            "suggested": [
+                "She's currently serving in the army, but hopes to be discharged as soon as her arm heals."
+            ]
+        },
+        "measurement": {
+            "user-made": [],
+            "suggested": [
+                "He measured the room's width by extending his arms."
+            ]
+        },
+        "control": {
+            "user-made": [],
+            "suggested": [
+                "The company has a strong arm in the market, thanks to its innovative products."
+            ]
+        }
+    }
+}

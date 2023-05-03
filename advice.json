@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "advice",
+        "examples": [
+            "I need some advice on how to proceed with my project.",
+            "Thanks for the advice, I'll take it into consideration."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "recommendation",
+            "guidance",
+            "counsel",
+            "suggestion",
+            "tip"
+        ]
+    },
+    "spanish": {
+        "word": "consejo",
+        "examples": [
+            "Necesito un consejo sobre cómo proceder con mi proyecto.",
+            "Gracias por el consejo, lo tendré en cuenta."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "recomendación",
+            "orientación",
+            "asesoramiento",
+            "sugerencia",
+            "pista"
+        ]
+    },
+    "progress": {
+        "memory": 0.4,
+        "gender-memory": 0.3
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "helpful": {
+            "user-made": [],
+            "suggested": [
+                "Good advice is like a tightrope walker, it requires balance."
+            ]
+        },
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Advice is like snow, the softer it falls, the longer it dwells upon and the deeper it sinks into the mind."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The best advice I ever got was to stay single."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do people ask for advice but never take it?"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "The worst advice I ever got was to follow my dreams."
+            ]
+        },
+        "wise": {
+            "user-made": [],
+            "suggested": [
+                "The best advice is not to give advice."
+            ]
+        },
+        "generic": {
+            "user-made": [],
+            "suggested": [
+                "The best advice is often the simplest: just be yourself."
+            ]
+        }
+    }
+}

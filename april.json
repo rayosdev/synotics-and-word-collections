@@ -1,0 +1,81 @@
+{
+    "english": {
+        "word": "April",
+        "examples": [
+            "April showers bring May flowers.",
+            "My birthday is in April."
+        ],
+        "origin": "From Latin 'Aprillis' meaning 'to open', possibly referring to the opening of buds and blossoms in spring.",
+        "trick-words": [
+            "May",
+            "June",
+            "July",
+            "August",
+            "September"
+        ]
+    },
+    "spanish": {
+        "word": "abril",
+        "examples": [
+            "Abril es el cuarto mes del año.",
+            "En abril comienza la primavera."
+        ],
+        "origin": "Del latín 'Aprillis', que significa 'abrir', posiblemente haciendo referencia a la apertura de los brotes y las flores en primavera.",
+        "trick-words": [
+            "mayo",
+            "junio",
+            "julio",
+            "agosto",
+            "septiembre"
+        ]
+    },
+    "progress": {
+        "memory": 0.3
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "spring": {
+            "user-made": [],
+            "suggested": [
+                "April showers bring May flowers."
+            ]
+        },
+        "month": {
+            "user-made": [],
+            "suggested": [
+                "April is the fourth month of the year."
+            ]
+        },
+        "taxes": {
+            "user-made": [],
+            "suggested": [
+                "In the US, tax day is usually on April 15th."
+            ]
+        },
+        "weather": {
+            "user-made": [],
+            "suggested": [
+                "April can be a rainy month."
+            ]
+        },
+        "Easter": {
+            "user-made": [],
+            "suggested": [
+                "Easter is often celebrated in April."
+            ]
+        },
+        "renewal": {
+            "user-made": [],
+            "suggested": [
+                "April is a time of renewal and new beginnings."
+            ]
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "english": {
+        "word": "add",
+        "examples": [
+            "Can you add these numbers together?",
+            "Please add your name to the list.",
+            "I need to add some more salt to the soup."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "plus",
+            "sum",
+            "total",
+            "combine",
+            "include"
+        ]
+    },
+    "portuguese": {
+        "word": "adicionar",
+        "examples": [
+            "Você pode somar esses números?",
+            "Por favor, adicione seu nome à lista.",
+            "Eu preciso adicionar mais sal na sopa."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "soma",
+            "total",
+            "combinar",
+            "incluir"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the math book look so sad? Because it had too many problems to 'add' up."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "I wish I could add more hours to the day."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I can't believe they want to add more work to my already busy schedule."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know you can add vinegar to your laundry to remove stubborn stains?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "I love the smell of cookies baking in the oven, especially when you add cinnamon to the recipe."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "Adding a layer of soft fur to your jacket can make it much warmer and more comfortable."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Adding personal touches to your home decor can make it feel more like a reflection of your personality and style."
+            ]
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "english": {
+        "word": "actor",
+        "examples": [
+            "She's a talented actor who has appeared in many movies and TV shows.",
+            "The play had a great cast of actors."
+        ],
+        "gender": [
+            "masculine",
+            "feminine"
+        ],
+        "trick-words": [
+            "performer",
+            "thespian",
+            "dramatist",
+            "player",
+            "entertainer"
+        ]
+    },
+    "portuguese": {
+        "word": "ator",
+        "examples": [
+            "Ela é uma atriz talentosa que já apareceu em muitos filmes e programas de TV.",
+            "A peça tinha um ótimo elenco de atores."
+        ],
+        "gender": [
+            "masculine",
+            "feminine"
+        ],
+        "trick-words": [
+            "intérprete",
+            "dramaturgo",
+            "artista cênico",
+            "encenador",
+            "entretenedor"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the tomato turn red? Because it saw the action-packed ketchup!",
+                "I told my wife she was drawing her eyebrows too high. She looked surprised. Now that's what I call action."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "I used to be the life of the party, but now I just watch the action from the sidelines.",
+                "I miss the days when my life was full of action and adventure."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do action movies always have to be so loud? I can't even hear myself think!",
+                "I hate it when people talk about taking action but never actually do anything about it."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that taking action can actually reduce stress and anxiety?",
+                "There's a form of meditation called 'Action Meditation' where you focus on the present moment while performing a physical activity."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of gunpowder and explosions in an action movie.",
+                "The scent of sweat and adrenaline during a high-intensity action sequence."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The sensation of your heart pounding in your chest during an intense action scene.",
+                "The feeling of the wind rushing past you as you take action."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Taking action for a cause you believe in can help you connect with like-minded individuals and create positive change.",
+                "Acting on your values and principles can help you feel a sense of purpose and connection to something greater than yourself."
+            ]
+        }
+    }
+}

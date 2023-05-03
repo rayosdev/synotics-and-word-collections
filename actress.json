@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "actress",
+        "examples": [
+            "She won an award for best actress in a leading role.",
+            "Many actresses have spoken out about inequality in Hollywood."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "actor",
+            "performer",
+            "artist",
+            "star",
+            "celebrity"
+        ]
+    },
+    "spanish": {
+        "word": "actriz",
+        "examples": [
+            "Ella ganó un premio por mejor actriz protagonista.",
+            "Muchas actrices han hablado sobre la desigualdad en Hollywood."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "actora",
+            "artista",
+            "intérprete",
+            "estrella",
+            "celebridad"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.9
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the actress refuse to date the dictionary? She found out he had too many definitions of the word 'love'."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Being an actress is like being a chameleon. You have to constantly change who you are to fit the role, and sometimes you forget who you really are."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do people assume that actresses are all divas? It's disrespectful and untrue."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the first recorded female actress was in ancient Greece in the 5th century BCE?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of the greasepaint and the roar of the crowd. That's what being an actress is all about."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feel of the stage beneath your feet, and the adrenaline rush of performing in front of a live audience. Nothing compares to it."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "As an actress, you have the ability to connect with people on a deep emotional level and bring characters to life in a way that touches their hearts."
+            ]
+        }
+    }
+}

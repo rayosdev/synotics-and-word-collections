@@ -1,0 +1,98 @@
+{
+    "english": {
+        "word": "air",
+        "examples": [
+            "The air was thick with smoke.",
+            "She opened the window to let in some fresh air."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "atmosphere",
+            "oxygen",
+            "breath",
+            "wind",
+            "ventilation"
+        ]
+    },
+    "portuguese": {
+        "word": "ar",
+        "examples": [
+            "O ar estava carregado de fumaça.",
+            "Ela abriu a janela para deixar entrar um pouco de ar fresco."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "atmosfera",
+            "oxigênio",
+            "respiração",
+            "vento",
+            "ventilação"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "quality": {
+            "user-made": [],
+            "suggested": [
+                "Fresh air",
+                "Clean air",
+                "Polluted air"
+            ]
+        },
+        "movement": {
+            "user-made": [],
+            "suggested": [
+                "Air currents",
+                "Airflow",
+                "Air pressure"
+            ]
+        },
+        "vacation": {
+            "user-made": [],
+            "suggested": [
+                "Air travel",
+                "Airline tickets",
+                "Airports"
+            ]
+        },
+        "breath": {
+            "user-made": [],
+            "suggested": [
+                "Take a deep breath of fresh air",
+                "Breathe in the crisp air",
+                "Hold your breath underwater"
+            ]
+        },
+        "music": {
+            "user-made": [],
+            "suggested": [
+                "Air guitar",
+                "Air drums",
+                "Air piano"
+            ]
+        },
+        "space": {
+            "user-made": [],
+            "suggested": [
+                "Airplane cabin",
+                "Airlock",
+                "Airship"
+            ]
+        }
+    }
+}

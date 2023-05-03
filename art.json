@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "art",
+        "examples": [
+            "She studied art in college.",
+            "The museum has a collection of modern art."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "painting",
+            "sculpture",
+            "design",
+            "music",
+            "theater"
+        ]
+    },
+    "portuguese": {
+        "word": "arte",
+        "examples": [
+            "Ela estudou arte na faculdade.",
+            "O museu tem uma coleção de arte moderna."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "pintura",
+            "escultura",
+            "design",
+            "música",
+            "teatro"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "beauty": {
+            "user-made": [],
+            "suggested": [
+                "Art is the beauty of life."
+            ]
+        },
+        "creativity": {
+            "user-made": [],
+            "suggested": [
+                "Art is the expression of the imagination."
+            ]
+        },
+        "inspiration": {
+            "user-made": [],
+            "suggested": [
+                "Art is the inspiration that allows us to see the world in a new way."
+            ]
+        },
+        "skill": {
+            "user-made": [],
+            "suggested": [
+                "Art is the combination of talent and skill."
+            ]
+        },
+        "emotion": {
+            "user-made": [],
+            "suggested": [
+                "Art is the expression of human emotion."
+            ]
+        },
+        "communication": {
+            "user-made": [],
+            "suggested": [
+                "Art is a form of communication that transcends language barriers."
+            ]
+        },
+        "interpretation": {
+            "user-made": [],
+            "suggested": [
+                "Art is open to interpretation and can be viewed differently by each individual."
+            ]
+        }
+    }
+}

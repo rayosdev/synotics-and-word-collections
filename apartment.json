@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "apartment",
+        "examples": [
+            "She lives in a small apartment in the city.",
+            "The apartment was fully furnished when she moved in."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "flat",
+            "condominium",
+            "studio",
+            "unit",
+            "loft"
+        ]
+    },
+    "spanish": {
+        "word": "apartamento",
+        "examples": [
+            "Ella vive en un apartamento pequeño en la ciudad.",
+            "El apartamento estaba completamente amueblado cuando ella se mudó."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "piso",
+            "departamento",
+            "vivienda",
+            "habitación",
+            "casa"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "home": {
+            "user-made": [],
+            "suggested": [
+                "An apartment can be someone's home."
+            ]
+        },
+        "residence": {
+            "user-made": [],
+            "suggested": [
+                "An apartment is a type of residence."
+            ]
+        },
+        "flat": {
+            "user-made": [],
+            "suggested": [
+                "In some countries, an apartment is called a flat."
+            ]
+        },
+        "unit": {
+            "user-made": [],
+            "suggested": [
+                "An apartment can be referred to as a housing unit."
+            ]
+        },
+        "dwelling": {
+            "user-made": [],
+            "suggested": [
+                "An apartment is a type of dwelling."
+            ]
+        },
+        "complex": {
+            "user-made": [],
+            "suggested": [
+                "An apartment complex can contain multiple units."
+            ]
+        },
+        "living": {
+            "user-made": [],
+            "suggested": [
+                "An apartment provides living space."
+            ]
+        }
+    }
+}

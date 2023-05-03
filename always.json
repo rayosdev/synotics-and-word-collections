@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "always",
+        "examples": [
+            "She always wakes up early.",
+            "He always keeps his promises."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "constantly",
+            "forever",
+            "eternally",
+            "perpetually",
+            "incessantly"
+        ]
+    },
+    "portuguese": {
+        "word": "sempre",
+        "examples": [
+            "Ela sempre acorda cedo.",
+            "Ele sempre cumpre suas promessas."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "sempre",
+            "eternamente",
+            "constantemente",
+            "incessantemente",
+            "perpetuamente"
+        ]
+    },
+    "progress": {
+        "memory": 0.6,
+        "gender-memory": 0.7
+    },
+    "type": [
+        "adverb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "happy": {
+            "user-made": [],
+            "suggested": [
+                "Always look on the bright side of life!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Why does it always rain on me?"
+            ]
+        },
+        "frustrated": {
+            "user-made": [],
+            "suggested": [
+                "It always seems like things never go my way."
+            ]
+        },
+        "hopeful": {
+            "user-made": [],
+            "suggested": [
+                "Always believe that something wonderful is about to happen."
+            ]
+        },
+        "reliable": {
+            "user-made": [],
+            "suggested": [
+                "You can always count on me."
+            ]
+        },
+        "enduring": {
+            "user-made": [],
+            "suggested": [
+                "Love always finds a way."
+            ]
+        },
+        "constant": {
+            "user-made": [],
+            "suggested": [
+                "The only thing that is always true is change."
+            ]
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "english": {
+        "word": "again",
+        "examples": [
+            "I need to read this chapter again to understand it better.",
+            "He promised to never do it again."
+        ],
+        "part-of-speech": [
+            "adverb"
+        ],
+        "synonyms": [
+            "once more",
+            "anew",
+            "repeatedly",
+            "recurrently",
+            "further"
+        ],
+        "antonyms": [
+            "never",
+            "once",
+            "previously"
+        ],
+        "phrases": [
+            "time and again",
+            "over and over again",
+            "again and again"
+        ],
+        "related-words": [
+            "repeat",
+            "renew",
+            "reiterate",
+            "recycle",
+            "revive"
+        ]
+    },
+    "spanish": {
+        "word": "de nuevo",
+        "examples": [
+            "Necesito leer este capítulo de nuevo para entenderlo mejor.",
+            "Prometió que nunca lo haría de nuevo."
+        ],
+        "part-of-speech": [
+            "adverbio"
+        ],
+        "synonyms": [
+            "otra vez",
+            "nuevamente",
+            "repetidamente",
+            "recurrentemente",
+            "además"
+        ],
+        "antonyms": [
+            "nunca",
+            "una vez",
+            "previamente"
+        ],
+        "phrases": [
+            "una y otra vez",
+            "repetidamente",
+            "varias veces"
+        ],
+        "related-words": [
+            "repetir",
+            "renovar",
+            "reiterar",
+            "reciclar",
+            "revivir"
+        ]
+    },
+    "progress": {
+        "memory": 0.6,
+        "accuracy": 0.9
+    },
+    "dates": {
+        "discover-date": "before 900; Middle English",
+        "next-review": "2024-01-01",
+        "last-reviewed": "2022-05-01"
+    },
+    "synonyms": {
+        "excitement": {
+            "user-made": [],
+            "suggested": [
+                "I can't wait to do that again!"
+            ]
+        },
+        "annoyance": {
+            "user-made": [],
+            "suggested": [
+                "I can't believe I have to do this all over again!"
+            ]
+        },
+        "hope": {
+            "user-made": [],
+            "suggested": [
+                "Maybe we'll get it right again this time."
+            ]
+        },
+        "determination": {
+            "user-made": [],
+            "suggested": [
+                "I'll try again and again until I succeed."
+            ]
+        },
+        "surprise": {
+            "user-made": [],
+            "suggested": [
+                "I never thought I'd see that happen again."
+            ]
+        },
+        "nostalgia": {
+            "user-made": [],
+            "suggested": [
+                "I wish we could go back and experience that again."
+            ]
+        }
+    }
+}

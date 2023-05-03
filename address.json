@@ -1,0 +1,93 @@
+{
+    "english": {
+        "word": "address",
+        "examples": [
+            "Please write your address on the envelope.",
+            "He gave a speech at the White House address."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "location",
+            "residence",
+            "domicile",
+            "place",
+            "street"
+        ]
+    },
+    "portuguese": {
+        "word": "endereço",
+        "examples": [
+            "Por favor escreva seu endereço no envelope.",
+            "Ele deu um discurso no endereço da Casa Branca."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "morada",
+            "localização",
+            "rua",
+            "casa",
+            "domicílio"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "formal": {
+            "user-made": [],
+            "suggested": [
+                "Please provide your current address for our records."
+            ]
+        },
+        "informal": {
+            "user-made": [],
+            "suggested": [
+                "Where do you live? What's your address?"
+            ]
+        },
+        "change": {
+            "user-made": [],
+            "suggested": [
+                "I need to update my address with the post office."
+            ]
+        },
+        "delivery": {
+            "user-made": [],
+            "suggested": [
+                "The delivery driver couldn't find the correct address."
+            ]
+        },
+        "internet": {
+            "user-made": [],
+            "suggested": [
+                "I found your address on the internet."
+            ]
+        },
+        "identity": {
+            "user-made": [],
+            "suggested": [
+                "Your address can help confirm your identity."
+            ]
+        },
+        "confidential": {
+            "user-made": [],
+            "suggested": [
+                "Please keep my address confidential."
+            ]
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "animal",
+        "examples": [
+            "The zoo has many exotic animals from around the world.",
+            "I'm a huge animal lover."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "creature",
+            "beast",
+            "critter",
+            "living thing",
+            "organism"
+        ]
+    },
+    "portuguese": {
+        "word": "animal",
+        "examples": [
+            "O zoológico tem muitos animais exóticos de todo o mundo.",
+            "Eu sou um grande amante dos animais."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "criatura",
+            "besta",
+            "bicho",
+            "coisa viva",
+            "organismo"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "cute": {
+            "user-made": [],
+            "suggested": [
+                "Puppies and kittens are such cute animals."
+            ]
+        },
+        "wild": {
+            "user-made": [],
+            "suggested": [
+                "The African savanna is home to many wild animals, such as lions, zebras, and giraffes."
+            ]
+        },
+        "pet": {
+            "user-made": [],
+            "suggested": [
+                "Dogs and cats are popular choices for pets, but some people keep more exotic animals like snakes or parrots."
+            ]
+        },
+        "endangered": {
+            "user-made": [],
+            "suggested": [
+                "Many species of animals are considered endangered, such as the black rhinoceros and the snow leopard."
+            ]
+        },
+        "intelligent": {
+            "user-made": [],
+            "suggested": [
+                "Dolphins and chimpanzees are known for their high level of intelligence among animals."
+            ]
+        },
+        "domesticated": {
+            "user-made": [],
+            "suggested": [
+                "Domesticated animals like cows, pigs, and chickens are raised for food and other products."
+            ]
+        },
+        "mammal": {
+            "user-made": [],
+            "suggested": [
+                "Whales, dolphins, and humans are all mammals, which means they nurse their young with milk."
+            ]
+        }
+    }
+}

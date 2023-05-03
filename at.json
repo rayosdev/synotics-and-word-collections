@@ -1,0 +1,138 @@
+{
+    "english": {
+        "word": "at",
+        "examples": [
+            "I'm at the store.",
+            "The party is at 8 PM."
+        ],
+        "part-of-speech": [
+            "preposition"
+        ],
+        "synonyms": [
+            "in",
+            "on",
+            "near",
+            "by",
+            "within"
+        ],
+        "antonyms": [
+            "away from",
+            "remote from",
+            "distant from"
+        ],
+        "trick-words": [
+            "atop",
+            "around",
+            "alongside",
+            "attain",
+            "attach"
+        ]
+    },
+    "spanish": {
+        "word": "en",
+        "examples": [
+            "Estoy en la tienda.",
+            "La fiesta es a las 8 PM."
+        ],
+        "part-of-speech": [
+            "preposición"
+        ],
+        "synonyms": [
+            "a",
+            "ante",
+            "con",
+            "de",
+            "desde"
+        ],
+        "antonyms": [
+            "fuera de",
+            "lejos de",
+            "alejado de"
+        ],
+        "trick-words": [
+            "encima de",
+            "alrededor",
+            "junto a",
+            "alcanzar",
+            "adjuntar"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "synonym-memory": 0.6,
+        "antonym-memory": 0.5
+    },
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "english": {
+        "word": "at",
+        "examples": [
+            "I'm at the store.",
+            "The party is at 8 PM."
+        ],
+        "part-of-speech": [
+            "preposition"
+        ],
+        "synonyms": [
+            "in",
+            "on",
+            "near",
+            "by",
+            "within"
+        ],
+        "antonyms": [
+            "away from",
+            "remote from",
+            "distant from"
+        ],
+        "trick-words": [
+            "atop",
+            "around",
+            "alongside",
+            "attain",
+            "attach"
+        ]
+    },
+    "spanish": {
+        "word": "en",
+        "examples": [
+            "Estoy en la tienda.",
+            "La fiesta es a las 8 PM."
+        ],
+        "part-of-speech": [
+            "preposición"
+        ],
+        "synonyms": [
+            "a",
+            "ante",
+            "con",
+            "de",
+            "desde"
+        ],
+        "antonyms": [
+            "fuera de",
+            "lejos de",
+            "alejado de"
+        ],
+        "trick-words": [
+            "encima de",
+            "alrededor",
+            "junto a",
+            "alcanzar",
+            "adjuntar"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "synonym-memory": 0.6,
+        "antonym-memory": 0.5
+    },
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    }
+}

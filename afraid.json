@@ -1,0 +1,105 @@
+{
+    "english": {
+        "word": "afraid",
+        "examples": [
+            "She was afraid of spiders.",
+            "He was afraid to speak in public."
+        ],
+        "part-of-speech": [
+            "adjective"
+        ],
+        "synonyms": [
+            "scared",
+            "frightened",
+            "terrified",
+            "panicked",
+            "nervous"
+        ],
+        "antonyms": [
+            "fearless",
+            "brave",
+            "confident",
+            "unafraid",
+            "fearless"
+        ]
+    },
+    "spanish": {
+        "word": "asustado",
+        "examples": [
+            "Ella tenía miedo de las arañas.",
+            "Él tenía miedo de hablar en público."
+        ],
+        "part-of-speech": [
+            "adjetivo"
+        ],
+        "synonyms": [
+            "atemorizado",
+            "asombrado",
+            "aterrado",
+            "acojonado",
+            "nervioso"
+        ],
+        "antonyms": [
+            "valiente",
+            "seguro",
+            "confiado",
+            "intrépido",
+            "audaz"
+        ]
+    },
+    "progress": {
+        "memory": 0.7
+    },
+    "type": [
+        "emotion"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why was the scarecrow afraid? Because it was outstanding in its field!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "I'm afraid of being alone forever."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I'm afraid that if I let my guard down, I'll get hurt again."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "I'm afraid of spiders, but did you know that some spiders are actually beneficial to the environment?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of fear is unmistakable."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of your heart pounding in your chest when you're afraid."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Being afraid is a universal human experience that connects us all."
+            ]
+        }
+    }
+}

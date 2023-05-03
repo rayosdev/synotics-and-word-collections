@@ -1,0 +1,115 @@
+{
+    "english": {
+        "word": "around",
+        "examples": [
+            "He walked around the block.",
+            "I'll be around if you need me."
+        ],
+        "part-of-speech": [
+            "adverb",
+            "preposition"
+        ],
+        "synonyms": [
+            "about",
+            "approximately",
+            "nearly",
+            "roughly",
+            "circa"
+        ],
+        "antonyms": [
+            "direct",
+            "straight"
+        ],
+        "trick-words": [
+            "surrounding",
+            "encircling",
+            "encompassing",
+            "peripheral",
+            "ambient"
+        ]
+    },
+    "spanish": {
+        "word": "alrededor",
+        "examples": [
+            "Caminó alrededor de la manzana.",
+            "Estaré por aquí si me necesitas."
+        ],
+        "part-of-speech": [
+            "adverbio",
+            "preposición"
+        ],
+        "synonyms": [
+            "aproximadamente",
+            "casi",
+            "cerca",
+            "alrededores",
+            "en torno a"
+        ],
+        "antonyms": [
+            "directo",
+            "recto"
+        ],
+        "trick-words": [
+            "circundante",
+            "envolvente",
+            "abarcativo",
+            "periférico",
+            "ambiental"
+        ]
+    },
+    "progress": {
+        "memory": 0.7
+    },
+    "type": [
+        "word"
+    ],
+    "dates": {
+        "discover-date": "before 900 AD",
+        "next-review": "2024-05-01",
+        "last-reviewed": "2022-05-01"
+    },
+    "synonyms": {
+        "about": {
+            "user-made": [],
+            "suggested": [
+                "Let's talk about what's been going on around here."
+            ]
+        },
+        "nearby": {
+            "user-made": [],
+            "suggested": [
+                "There's a great restaurant around the corner."
+            ]
+        },
+        "surrounding": {
+            "user-made": [],
+            "suggested": [
+                "The landscape around the mountain is breathtaking."
+            ]
+        },
+        "encircling": {
+            "user-made": [],
+            "suggested": [
+                "The belt around my waist is too tight."
+            ]
+        },
+        "approximate": {
+            "user-made": [],
+            "suggested": [
+                "I'll be around noon to pick you up."
+            ]
+        },
+        "present": {
+            "user-made": [],
+            "suggested": [
+                "I'm always around if you need me."
+            ]
+        },
+        "available": {
+            "user-made": [],
+            "suggested": [
+                "Is there anyone around who can give me a ride?"
+            ]
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "anyone",
+        "examples": [
+            "Anyone can learn to code with enough practice.",
+            "Is anyone going to the party tonight?"
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "somebody",
+            "everyone",
+            "nobody",
+            "some",
+            "any"
+        ]
+    },
+    "portuguese": {
+        "word": "alguém",
+        "examples": [
+            "Qualquer um pode aprender a programar com prática suficiente.",
+            "Alguém vai à festa hoje à noite?"
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "alguém",
+            "ninguém",
+            "algum",
+            "qualquer",
+            "todo"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "pronoun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "everyone": {
+            "user-made": [],
+            "suggested": [
+                "Everyone is welcome."
+            ]
+        },
+        "somebody": {
+            "user-made": [],
+            "suggested": [
+                "Somebody left their bag here, is it yours?"
+            ]
+        },
+        "somebody": {
+            "user-made": [],
+            "suggested": [
+                "Somebody must have eaten the last piece of cake."
+            ]
+        },
+        "anybody": {
+            "user-made": [],
+            "suggested": [
+                "Does anybody have a pen I can borrow?"
+            ]
+        },
+        "someone": {
+            "user-made": [],
+            "suggested": [
+                "Someone is knocking at the door."
+            ]
+        },
+        "anybody": {
+            "user-made": [],
+            "suggested": [
+                "Does anybody know the answer to this question?"
+            ]
+        },
+        "everybody": {
+            "user-made": [],
+            "suggested": [
+                "Everybody loves a good joke."
+            ]
+        }
+    }
+}

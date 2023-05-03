@@ -1,0 +1,101 @@
+{
+    "english": {
+        "word": "amazing",
+        "examples": [
+            "The view from the top of the mountain was absolutely amazing!",
+            "I had an amazing time at the concert last night."
+        ],
+        "part-of-speech": "adjective",
+        "synonyms": [
+            "astonishing",
+            "remarkable",
+            "incredible",
+            "wonderful",
+            "astounding"
+        ],
+        "antonyms": [
+            "unimpressive",
+            "boring",
+            "dull",
+            "ordinary",
+            "plain"
+        ]
+    },
+    "spanish": {
+        "word": "sorprendente",
+        "examples": [
+            "La vista desde la cima de la montaña era absolutamente sorprendente!",
+            "Me lo pasé sorprendentemente bien en el concierto de anoche."
+        ],
+        "part-of-speech": "adjetivo",
+        "synonyms": [
+            "asombroso",
+            "notable",
+            "increíble",
+            "maravilloso",
+            "asombroso"
+        ],
+        "antonyms": [
+            "poco impresionante",
+            "aburrido",
+            "soso",
+            "ordinario",
+            "simple"
+        ]
+    },
+    "progress": {
+        "memory": 0.7
+    },
+    "type": [
+        "descriptive"
+    ],
+    "dates": {
+        "discover-date": "15th century",
+        "next-review": "2024-06-01",
+        "last-reviewed": "2022-12-01"
+    },
+    "synonyms": {
+        "happy": {
+            "user-made": [],
+            "suggested": [
+                "It's amazing how a little sunshine can change your mood."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "It's amazing how much you can learn about yourself when you step outside of your comfort zone."
+            ]
+        },
+        "inspiring": {
+            "user-made": [],
+            "suggested": [
+                "Watching someone achieve their dreams is truly amazing."
+            ]
+        },
+        "awe": {
+            "user-made": [],
+            "suggested": [
+                "The Northern Lights are truly amazing."
+            ]
+        },
+        "good": {
+            "user-made": [],
+            "suggested": [
+                "A good book can transport you to an amazing world."
+            ]
+        },
+        "beautiful": {
+            "user-made": [],
+            "suggested": [
+                "The view from the top of the mountain was simply amazing."
+            ]
+        },
+        "impressive": {
+            "user-made": [],
+            "suggested": [
+                "The dedication and hard work of Olympic athletes is truly amazing."
+            ]
+        }
+    }
+}

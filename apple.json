@@ -1,0 +1,56 @@
+{
+    "english": {
+      "word": "apple",
+      "examples": ["I had an apple for breakfast.", "She baked an apple pie for dessert."],
+      "gender": ["neuter"],
+      "trick-words": ["fruit", "pear", "peach", "plum", "cherry"]
+    },
+    "portuguese": {
+      "word": "maçã",
+      "examples": ["Eu comi uma maçã no café da manhã.", "Ela fez uma torta de maçã para a sobremesa."],
+      "gender": ["feminine"],
+      "trick-words": ["fruta", "pera", "pêssego", "ameixa", "cereja"]
+    },
+    "progress": {
+      "memory": 0.5,
+      "gender-memory": 0.5
+    },
+    "type": ["noun"],
+    "dates": {
+      "discover-date": "",
+      "next-review": "",
+      "last-reviewed": ""
+    },
+        "synonyms": {
+          "crunchy": {
+            "user-made": [],
+            "suggested": ["That apple sounds so crunchy and delicious."]
+          },
+          "sweet": {
+            "user-made": [],
+            "suggested": ["The sweet taste of a ripe apple is hard to beat."]
+          },
+          "sour": {
+            "user-made": [],
+            "suggested": ["If you prefer a tangy flavor, try a Granny Smith apple."]
+          },
+          "juicy": {
+            "user-made": [],
+            "suggested": ["A perfectly ripe apple is so juicy and satisfying."]
+          },
+          "healthy": {
+            "user-made": [],
+            "suggested": ["An apple a day keeps the doctor away!"]
+          },
+          "fall": {
+            "user-made": [],
+            "suggested": ["Apples are a staple of the fall season."]
+          },
+          "pie": {
+            "user-made": [],
+            "suggested": ["Nothing beats a warm apple pie on a chilly day."]
+          }
+        }
+      }
+      
+  

@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "airport",
+        "examples": [
+            "I'm flying out of the airport tomorrow morning.",
+            "The airport is always crowded during the holiday season."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "airstrip",
+            "airfield",
+            "aviation center",
+            "aerodrome",
+            "landing strip"
+        ]
+    },
+    "portuguese": {
+        "word": "aeroporto",
+        "examples": [
+            "Eu vou voar do aeroporto amanhã de manhã.",
+            "O aeroporto sempre fica cheio durante a temporada de férias."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "aeródromo",
+            "pista de pouso",
+            "centro de aviação",
+            "aeroporto internacional",
+            "terminal"
+        ]
+    },
+    "progress": {
+        "memory": 0.3,
+        "gender-memory": 0.6
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "travel": {
+            "user-made": [],
+            "suggested": [
+                "The airport is the perfect place to begin an adventure."
+            ]
+        },
+        "flight": {
+            "user-made": [],
+            "suggested": [
+                "The airport is where dreams take flight."
+            ]
+        },
+        "busy": {
+            "user-made": [],
+            "suggested": [
+                "The airport is always bustling with activity."
+            ]
+        },
+        "exciting": {
+            "user-made": [],
+            "suggested": [
+                "The airport is full of excitement and anticipation."
+            ]
+        },
+        "destination": {
+            "user-made": [],
+            "suggested": [
+                "The airport is where journeys to new destinations begin."
+            ]
+        },
+        "security": {
+            "user-made": [],
+            "suggested": [
+                "The airport security line can be a bit of a hassle, but it's worth it for the adventure ahead."
+            ]
+        },
+        "connect": {
+            "user-made": [],
+            "suggested": [
+                "The airport is where people from all over the world connect and share their stories."
+            ]
+        }
+    }
+}

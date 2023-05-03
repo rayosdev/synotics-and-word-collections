@@ -1,0 +1,103 @@
+{
+    "english": {
+        "word": "also",
+        "examples": [
+            "I'll have the pizza and also a side salad.",
+            "She's an actress and also a singer."
+        ],
+        "part-of-speech": "adverb",
+        "synonyms": [
+            "too",
+            "as well",
+            "likewise",
+            "furthermore",
+            "moreover"
+        ],
+        "antonyms": [
+            "but",
+            "however",
+            "nevertheless",
+            "yet",
+            "although"
+        ]
+    },
+    "spanish": {
+        "word": "también",
+        "examples": [
+            "Voy a pedir la pizza y también una ensalada.",
+            "Ella es actriz y también cantante."
+        ],
+        "part-of-speech": "adverbio",
+        "synonyms": [
+            "igualmente",
+            "asimismo",
+            "además",
+            "encima",
+            "de igual modo"
+        ],
+        "antonyms": [
+            "pero",
+            "sin embargo",
+            "no obstante",
+            "aunque"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "synonyms-memory": 0.8,
+        "antonyms-memory": 0.5
+    },
+    "type": [
+        "connector",
+        "conjunction"
+    ],
+    "dates": {
+        "discover-date": "Unknown",
+        "next-review": "2023-06-01",
+        "last-reviewed": "2022-06-01"
+    },
+    "synonyms": {
+        "surprise": {
+            "user-made": [],
+            "suggested": [
+                "Did you also know that..."
+            ]
+        },
+        "addition": {
+            "user-made": [],
+            "suggested": [
+                "As an also, you might want to consider..."
+            ]
+        },
+        "agreement": {
+            "user-made": [],
+            "suggested": [
+                "I also think that..."
+            ]
+        },
+        "conclusion": {
+            "user-made": [],
+            "suggested": [
+                "Also, in conclusion..."
+            ]
+        },
+        "emphasis": {
+            "user-made": [],
+            "suggested": [
+                "I would also like to emphasize that..."
+            ]
+        },
+        "comparison": {
+            "user-made": [],
+            "suggested": [
+                "Also, when compared to..."
+            ]
+        },
+        "confirmation": {
+            "user-made": [],
+            "suggested": [
+                "That is also what I heard."
+            ]
+        }
+    }
+}

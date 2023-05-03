@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "autumn",
+        "examples": [
+            "The leaves turn red and gold in autumn.",
+            "Autumn is my favorite season."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "fall",
+            "harvest",
+            "season",
+            "equinox",
+            "foliage"
+        ]
+    },
+    "spanish": {
+        "word": "otoño",
+        "examples": [
+            "Las hojas se vuelven rojas y doradas en otoño.",
+            "El otoño es mi estación favorita."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "caída",
+            "cosecha",
+            "temporada",
+            "equinoccio",
+            "foliación"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.6
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "fall": {
+            "user-made": [],
+            "suggested": [
+                "The fall foliage during autumn is so beautiful."
+            ]
+        },
+        "harvest": {
+            "user-made": [],
+            "suggested": [
+                "Autumn is the season of harvest."
+            ]
+        },
+        "crisp": {
+            "user-made": [],
+            "suggested": [
+                "The air during autumn is so crisp."
+            ]
+        },
+        "cozy": {
+            "user-made": [],
+            "suggested": [
+                "I love to snuggle up with a good book during the cozy autumn evenings."
+            ]
+        },
+        "pumpkin": {
+            "user-made": [],
+            "suggested": [
+                "Pumpkin spice is the flavor of autumn."
+            ]
+        },
+        "sweater": {
+            "user-made": [],
+            "suggested": [
+                "I can finally wear my favorite sweater during autumn."
+            ]
+        },
+        "leaves": {
+            "user-made": [],
+            "suggested": [
+                "I love to go for a walk and crunch the leaves under my feet during autumn."
+            ]
+        }
+    }
+}
