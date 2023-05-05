@@ -1,0 +1,69 @@
+{
+	"english": {
+		"word": "boat",
+		"examples": ["We sailed on a boat along the river.", "He rowed the boat across the lake."],
+		"gender": ["neuter"],
+		"trick-words": ["ship", "yacht", "canoe", "kayak", "raft"]
+	},
+	"portuguese": {
+		"word": "barco",
+		"examples": ["Nós navegamos em um barco pelo rio.", "Ele remou o barco pelo lago."],
+		"gender": ["masculine"],
+		"trick-words": ["navio", "iate", "canoagem", "caiaque", "jangada"]
+	},
+	"progress": {
+		"memory": 0.5,
+		"gender-memory": 0.5
+	},
+	"type": ["noun"],
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+        "synonyms": {
+          "adventure": {
+            "user-made": [],
+            "suggested": [
+              "Boating is the perfect adventure for those who love the water.",
+              "A boat is a passport to adventure on the open sea."
+            ]
+          },
+          "relaxation": {
+            "user-made": [],
+            "suggested": [
+              "Boating is a great way to relax and unwind.",
+              "There's nothing more relaxing than spending a day on a boat."
+            ]
+          },
+          "luxury": {
+            "user-made": [],
+            "suggested": [
+              "Owning a boat is the ultimate luxury for those who love the water.",
+              "Boats are a symbol of luxury and status."
+            ]
+          },
+          "freedom": {
+            "user-made": [],
+            "suggested": [
+              "Boating gives you the freedom to explore the water on your own terms.",
+              "The feeling of freedom you get on a boat is unbeatable."
+            ]
+          },
+          "admiral": {
+            "user-made": [],
+            "suggested": [
+              "Being the captain of your own boat makes you feel like an admiral.",
+              "Every boat owner is the admiral of their own fleet."
+            ]
+          },
+          "fishing": {
+            "user-made": [],
+            "suggested": [
+              "Boating is the perfect way to get out on the water and do some fishing.",
+              "Fishing from a boat is a whole different experience than fishing from shore."
+            ]
+          }
+        }
+      }
+      

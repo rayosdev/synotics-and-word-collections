@@ -1,0 +1,56 @@
+{
+    "english": {
+        "word": "bad",
+        "examples": ["He had a bad cold.", "The movie got a bad review.", "She has a bad temper."],
+        "gender": ["neuter"],
+        "trick-words": ["terrible", "awful", "poor", "inferior", "negative"]
+    },
+    "spanish": {
+        "word": "malo",
+        "examples": ["Tiene un resfriado malo.", "La película recibió una mala crítica.", "Tiene un mal genio."],
+        "gender": ["masculine"],
+        "trick-words": ["pésimo", "horrible", "deficiente", "inferior", "negativo"]
+    },
+    "progress": {
+        "memory": 0.4,
+        "gender-memory": 0.2
+    },
+    "type": ["adjective"],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    
+        "synonyms": {
+            "unpleasant": {
+                "user-made": [],
+                "suggested": ["The food tasted bad."]
+            },
+            "poor": {
+                "user-made": [],
+                "suggested": ["The service at the restaurant was really bad."]
+            },
+            "inferior": {
+                "user-made": [],
+                "suggested": ["The quality of the product was bad."]
+            },
+            "negative": {
+                "user-made": [],
+                "suggested": ["The bad weather ruined our plans."]
+            },
+            "unfavorable": {
+                "user-made": [],
+                "suggested": ["The situation took a bad turn."]
+            },
+            "terrible": {
+                "user-made": [],
+                "suggested": ["I had a really bad day at work."]
+            },
+            "awful": {
+                "user-made": [],
+                "suggested": ["The traffic was so bad, I was stuck for hours."]
+            }
+        }
+    }
+    

@@ -1,0 +1,55 @@
+{
+	"english": {
+		"word": "black",
+		"examples": ["The cat is black.", "She wore a black dress to the party."],
+		"gender": ["neuter"],
+		"trick-words": ["dark", "ebony", "midnight", "charcoal", "obsidian"]
+	},
+	"portuguese": {
+		"word": "preto",
+		"examples": ["O gato é preto.", "Ela usou um vestido preto na festa."],
+		"gender": ["masculine"],
+		"trick-words": ["escuro", "negro", "carvão", "ebanizado", "carvoeiro"]
+	},
+	"progress": {
+		"memory": 0.5,
+		"gender-memory": 0.5
+	},
+	"type": ["adjective"],
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+        "synonyms": {
+            "dark": {
+                "user-made": [],
+                "suggested": ["The room was pitch black."]
+            },
+            "color": {
+                "user-made": [],
+                "suggested": ["The color black is often associated with power and sophistication."]
+            },
+            "depression": {
+                "user-made": [],
+                "suggested": ["He was feeling black and blue after the accident."]
+            },
+            "evil": {
+                "user-made": [],
+                "suggested": ["The villain was dressed all in black."]
+            },
+            "mystery": {
+                "user-made": [],
+                "suggested": ["The blackness of the night added to the mystery of the abandoned house."]
+            },
+            "void": {
+                "user-made": [],
+                "suggested": ["The black hole seemed to swallow everything around it."]
+            },
+            "cool": {
+                "user-made": [],
+                "suggested": ["That car looks sleek in black."]
+            }
+        }
+    }
+    

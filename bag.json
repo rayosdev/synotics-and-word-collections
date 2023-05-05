@@ -1,0 +1,64 @@
+{
+    "english": {
+        "word": "bag",
+        "examples": [
+            "She put her books in her backpack.",
+            "He carried a small bag with him.",
+            "The shopkeeper gave me a paper bag for my groceries."
+        ],
+        "gender": ["neuter"],
+        "trick-words": ["backpack", "sack", "pouch", "purse"]
+    },
+    "portuguese": {
+        "word": "saco",
+        "examples": [
+            "Ela colocou seus livros em sua mochila.",
+            "Ele carregava um saco pequeno consigo.",
+            "O dono da loja me deu um saco de papel para minhas compras."
+        ],
+        "gender": ["masculine"],
+        "trick-words": ["mochila", "bolsa", "carteira", "pasta"]
+    },
+    "progress": {
+        "memory": 0.6,
+        "gender-memory": 0.4
+    },
+    "type": ["noun"],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    
+        "synonyms": {
+            "handbag": {
+                "user-made": [],
+                "suggested": ["She always carries her handbag with her, no matter where she goes."]
+            },
+            "sack": {
+                "user-made": [],
+                "suggested": ["He filled the sack with groceries and headed back home."]
+            },
+            "backpack": {
+                "user-made": [],
+                "suggested": ["He always takes his backpack with him when he goes on hikes."]
+            },
+            "purse": {
+                "user-made": [],
+                "suggested": ["She rummaged through her purse for her keys."]
+            },
+            "luggage": {
+                "user-made": [],
+                "suggested": ["She struggled to carry her heavy luggage up the stairs."]
+            },
+            "tote": {
+                "user-made": [],
+                "suggested": ["She uses her tote bag to carry her laptop and other work essentials."]
+            },
+            "briefcase": {
+                "user-made": [],
+                "suggested": ["He always carries his briefcase to work."]
+            }
+        }
+    }
+    

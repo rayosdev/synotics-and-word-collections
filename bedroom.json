@@ -1,0 +1,95 @@
+{
+    "english": {
+        "word": "bedroom",
+        "examples": [
+            "I like to read in my bedroom.",
+            "My bedroom is next to the bathroom.",
+            "The kids are playing in the bedroom."
+        ],
+        "part-of-speech": "noun",
+        "synonyms": ["chamber", "sleeping quarters"],
+        "antonyms": ["living room", "kitchen"]
+    },
+    "spanish": {
+        "word": "habitación",
+        "examples": [
+            "Mi habitación es pequeña pero acogedora.",
+            "La habitación de huéspedes está en el segundo piso.",
+            "Necesitamos pintar la habitación de los niños."
+        ],
+        "part-of-speech": "sustantivo",
+        "synonyms": ["cuarto", "recámara"],
+        "antonyms": ["sala de estar", "cocina"]
+    },
+    "french": {
+        "word": "chambre",
+        "examples": [
+            "Ma chambre donne sur le jardin.",
+            "J'ai une grande chambre avec un lit double.",
+            "Il y a une armoire dans la chambre."
+        ],
+        "part-of-speech": "nom",
+        "synonyms": ["pièce", "chambre à coucher"],
+        "antonyms": ["salon", "cuisine"]
+    },
+    "german": {
+        "word": "Schlafzimmer",
+        "examples": [
+            "Mein Schlafzimmer ist im ersten Stock.",
+            "Wir haben ein großes Bett im Schlafzimmer.",
+            "Das Schlafzimmer ist gut isoliert gegen Lärm."
+        ],
+        "part-of-speech": "Substantiv",
+        "synonyms": ["Kammer", "Schlafstube"],
+        "antonyms": ["Wohnzimmer", "Küche"]
+    },
+    "type": ["living space"],
+    "related": ["bed", "furniture", "home"]
+},
+    "english": {
+        "word": "bedroom",
+        "examples": [
+            "I like to read in my bedroom.",
+            "My bedroom is next to the bathroom.",
+            "The kids are playing in the bedroom."
+        ],
+        "part-of-speech": "noun",
+        "synonyms": ["chamber", "sleeping quarters"],
+        "antonyms": ["living room", "kitchen"]
+    },
+    "spanish": {
+        "word": "habitación",
+        "examples": [
+            "Mi habitación es pequeña pero acogedora.",
+            "La habitación de huéspedes está en el segundo piso.",
+            "Necesitamos pintar la habitación de los niños."
+        ],
+        "part-of-speech": "sustantivo",
+        "synonyms": ["cuarto", "recámara"],
+        "antonyms": ["sala de estar", "cocina"]
+    },
+    "french": {
+        "word": "chambre",
+        "examples": [
+            "Ma chambre donne sur le jardin.",
+            "J'ai une grande chambre avec un lit double.",
+            "Il y a une armoire dans la chambre."
+        ],
+        "part-of-speech": "nom",
+        "synonyms": ["pièce", "chambre à coucher"],
+        "antonyms": ["salon", "cuisine"]
+    },
+    "german": {
+        "word": "Schlafzimmer",
+        "examples": [
+            "Mein Schlafzimmer ist im ersten Stock.",
+            "Wir haben ein großes Bett im Schlafzimmer.",
+            "Das Schlafzimmer ist gut isoliert gegen Lärm."
+        ],
+        "part-of-speech": "Substantiv",
+        "synonyms": ["Kammer", "Schlafstube"],
+        "antonyms": ["Wohnzimmer", "Küche"]
+    },
+    "type": ["living space"],
+    "related": ["bed", "furniture", "home"]
+}

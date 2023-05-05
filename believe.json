@@ -1,0 +1,103 @@
+{
+    "english": {
+        "word": "believe",
+        "examples": [
+            "I believe in the power of positivity.",
+            "Do you believe in love at first sight?"
+        ],
+        "parts-of-speech": [
+            "verb"
+        ],
+        "synonyms": [
+            "trust",
+            "have faith in",
+            "count on"
+        ],
+        "antonyms": [
+            "doubt",
+            "disbelieve"
+        ],
+        "trick-words": [
+            "conceive",
+            "perceive"
+        ]
+    },
+    "spanish": {
+        "word": "creer",
+        "examples": [
+            "Creo en el poder de la positividad.",
+            "¿Crees en el amor a primera vista?"
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "parts-of-speech": [
+            "verb"
+        ],
+        "synonyms": [
+            "confiar en",
+            "tener fe en"
+        ],
+        "antonyms": [
+            "dudar de",
+            "no creer en"
+        ],
+        "trick-words": [
+            "crear",
+            "correr"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.6
+    },
+    "dates": {
+        "discover-date": "",
+        "next-review": "2023-07-01",
+        "last-reviewed": "2022-07-01"
+    },
+    "synonyms": {
+        "faith": {
+            "user-made": [],
+            "suggested": [
+                "Belief in something greater than oneself is often called faith."
+            ]
+        },
+        "conviction": {
+            "user-made": [],
+            "suggested": [
+                "Having a strong conviction about something is similar to believing in it."
+            ]
+        },
+        "trust": {
+            "user-made": [],
+            "suggested": [
+                "Trust is built on belief that someone or something is reliable."
+            ]
+        },
+        "confidence": {
+            "user-made": [],
+            "suggested": [
+                "Having confidence in oneself often requires a strong belief in one's abilities."
+            ]
+        },
+        "acceptance": {
+            "user-made": [],
+            "suggested": [
+                "Belief can lead to acceptance of a particular idea or truth."
+            ]
+        },
+        "assurance": {
+            "user-made": [],
+            "suggested": [
+                "Believing that something will happen can give a sense of assurance or certainty."
+            ]
+        },
+        "hope": {
+            "user-made": [],
+            "suggested": [
+                "Believing in a positive outcome, even in difficult situations, can be a form of hope."
+            ]
+        }
+    }
+}

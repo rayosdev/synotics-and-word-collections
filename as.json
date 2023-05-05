@@ -1,0 +1,59 @@
+{
+	"english": {
+		"word": "as",
+		"examples": ["She sang as if she were a professional.", "As you know, we're all in this together."],
+		"parts-of-speech": ["conjunction", "preposition"],
+		"synonyms": ["like", "similar to", "just as"],
+		"antonyms": ["unlike", "dissimilar"],
+		"related-words": ["as if", "as though"],
+		"trick-words": ["has", "was", "is", "and"],
+	},
+	"portuguese": {
+		"word": "como",
+		"examples": ["Ela cantou como se fosse uma profissional.", "Como você sabe, estamos todos juntos nessa."],
+		"parts-of-speech": ["conjunção", "preposição"],
+		"synonyms": ["igual", "semelhante a", "tal como"],
+		"antonyms": ["diferente", "dissimilar"],
+		"related-words": ["como se", "como se fosse"],
+		"trick-words": ["tem", "era", "e", "ou"],
+	},
+	"progress": {
+		"memory": 0.5,
+		"part-of-speech-memory": 0.5,
+	},
+	"type": ["conjunction", "preposition"],
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+      "english": {
+            "word": "as",
+            "examples": ["She sang as if she were a professional.", "As you know, we're all in this together."],
+            "parts-of-speech": ["conjunction", "preposition"],
+            "synonyms": ["like", "similar to", "just as"],
+            "antonyms": ["unlike", "dissimilar"],
+            "related-words": ["as if", "as though"],
+            "trick-words": ["has", "was", "is", "and"],
+        },
+        "portuguese": {
+            "word": "como",
+            "examples": ["Ela cantou como se fosse uma profissional.", "Como você sabe, estamos todos juntos nessa."],
+            "parts-of-speech": ["conjunção", "preposição"],
+            "synonyms": ["igual", "semelhante a", "tal como"],
+            "antonyms": ["diferente", "dissimilar"],
+            "related-words": ["como se", "como se fosse"],
+            "trick-words": ["tem", "era", "e", "ou"],
+        },
+        "progress": {
+            "memory": 0.5,
+            "part-of-speech-memory": 0.5,
+        },
+        "type": ["conjunction", "preposition"],
+        "dates": {
+            "discover-date": "",
+            "next-review": "",
+            "last-reviewed": ""
+        },
+    }
+    

@@ -1,0 +1,54 @@
+{
+    "english": {
+        "word": "bill",
+        "examples": ["The waiter brought us the bill after we finished eating.", "The bird had a long, curved bill for catching fish."],
+        "gender": ["masculine"],
+        "trick-words": ["invoice", "check", "beak", "statement", "note"]
+    },
+    "spanish": {
+        "word": "factura",
+        "examples": ["El camarero nos trajo la factura después de terminar de comer.", "El ave tenía un pico largo y curvo para atrapar peces."],
+        "gender": ["feminine"],
+        "trick-words": ["cuenta", "cheque", "pico", "declaración", "nota"]
+    },
+    "progress": {
+        "memory": 0.6,
+        "gender-memory": 0.4
+    },
+    "type": ["noun"],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+	"synonyms": {
+		"funny": {
+			"user-made": [],
+			"suggested": ["Why did the $5 bill feel lonely? Because it had no one to dollar with."]
+		},
+		"sad": {
+			"user-made": [],
+			"suggested": ["I can't pay this month's bill, I don't know what to do."]
+		},
+		"angry": {
+			"user-made": [],
+			"suggested": ["Why do bills always come at the worst possible time?"]
+		},
+		"surprising": {
+			"user-made": [],
+			"suggested": ["Did you know that the first US paper currency was printed in denominations of $1, $2, $3, $5, $10, $20, $50, $100, $500, $1000, and $5000 bills?"]
+		},
+		"size": {
+			"user-made": [],
+			"suggested": ["The physical dimensions of a US $100 bill are 2.61 inches by 6.14 inches."]
+		},
+		"payment": {
+			"user-made": [],
+			"suggested": ["I usually pay my bills online to save time and paper."]
+		},
+		"legal": {
+			"user-made": [],
+			"suggested": ["A bill can also refer to a proposed law that is under consideration by a legislature."]
+		}
+	}
+}

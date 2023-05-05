@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "band",
+        "examples": [
+            "He played in a band with his friends.",
+            "The rubber band snapped when he stretched it too far."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "group",
+            "ensemble",
+            "orchestra",
+            "troupe",
+            "gang"
+        ]
+    },
+    "portuguese": {
+        "word": "banda",
+        "examples": [
+            "Ele tocava em uma banda com seus amigos.",
+            "O elástico estourou quando ele o esticou demais."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "grupo",
+            "conjunto",
+            "orquestra",
+            "trupe",
+            "gangue"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.7
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "music": {
+            "user-made": [],
+            "suggested": [
+                "The band played their new song for the first time at the concert."
+            ]
+        },
+        "group": {
+            "user-made": [],
+            "suggested": [
+                "The marching band practiced their routine for the upcoming parade."
+            ]
+        },
+        "team": {
+            "user-made": [],
+            "suggested": [
+                "The band of explorers climbed the mountain together."
+            ]
+        },
+        "strip": {
+            "user-made": [],
+            "suggested": [
+                "I need to put a new band of tape around that box."
+            ]
+        },
+        "circle": {
+            "user-made": [],
+            "suggested": [
+                "The wedding band symbolizes eternal love."
+            ]
+        },
+        "social": {
+            "user-made": [],
+            "suggested": [
+                "The school marching band is a great way to make new friends."
+            ]
+        },
+        "restriction": {
+            "user-made": [],
+            "suggested": [
+                "The contract included a non-compete band that prohibited the band members from performing with other groups."
+            ]
+        }
+    }
+}

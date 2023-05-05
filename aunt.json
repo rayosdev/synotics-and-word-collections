@@ -1,0 +1,100 @@
+{
+    "english": {
+        "word": "aunt",
+        "examples": [
+            "My aunt always bakes delicious cakes for our family gatherings.",
+            "I visited my aunt in the countryside last summer."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "auntie",
+            "aunty",
+            "auntie",
+            "grandma",
+            "mother"
+        ]
+    },
+    "spanish": {
+        "word": "tía",
+        "examples": [
+            "Mi tía siempre hornea deliciosos pasteles para nuestras reuniones familiares.",
+            "Visité a mi tía en el campo el verano pasado."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "abuela",
+            "madre"
+        ]
+    },
+    "progress": {
+        "memory": 0.6,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "June 12, 2020",
+        "next-review": "November 12, 2023",
+        "last-reviewed": "May 3, 2023"
+    },
+    "synonyms": {
+        "affectionate": {
+            "user-made": [],
+            "suggested": [
+                "Auntie",
+                "Auntie-poo",
+                "Auntie bear",
+                "Auntie love"
+            ]
+        },
+        "formal": {
+            "user-made": [],
+            "suggested": [
+                "Aunt",
+                "Aunt [first name]"
+            ]
+        },
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "My favorite aunt is a zant",
+                "My aunt is the best ant I know!"
+            ]
+        },
+        "loving": {
+            "user-made": [],
+            "suggested": [
+                "Auntie hugs",
+                "Auntie kisses",
+                "Auntie snuggles"
+            ]
+        },
+        "silly": {
+            "user-made": [],
+            "suggested": [
+                "Auntie Mame",
+                "Auntie Social",
+                "Auntie Christ"
+            ]
+        },
+        "respectful": {
+            "user-made": [],
+            "suggested": [
+                "Honorary Aunt [first name]"
+            ]
+        },
+        "youthful": {
+            "user-made": [],
+            "suggested": [
+                "Auntie cool",
+                "Auntie hip",
+                "Auntie groovy"
+            ]
+        }
+    }
+}

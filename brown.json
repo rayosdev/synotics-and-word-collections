@@ -1,0 +1,56 @@
+{
+	"english": {
+		"word": "brown",
+		"examples": ["The dog's fur was a rich shade of brown.", "She prefers to wear brown clothing in the fall."],
+		"gender": ["neuter"],
+		"trick-words": ["tan", "cocoa", "mahogany", "chestnut", "umber"]
+	},
+	"spanish": {
+		"word": "marrón",
+		"examples": ["Los ojos de la niña eran de un marrón oscuro.", "El sofá era de un tono marrón claro."],
+		"gender": ["masculine"],
+		"trick-words": ["café", "castaño", "avellana", "sepia", "canela"]
+	},
+	"progress": {
+		"memory": 0.7,
+		"gender-memory": 0.8
+	},
+	"type": ["adjective", "noun"],
+	"dates": {
+		"discover-date": "c. 1000 AD",
+		"next-review": "2023-06-01",
+		"last-reviewed": "2022-12-15"
+	},
+    
+        "synonyms": {
+            "color": {
+                "user-made": [],
+                "suggested": ["The brown leaves of autumn are so beautiful.", "The paint color is a warm brown tone."]
+            },
+            "taste": {
+                "user-made": [],
+                "suggested": ["The rich, nutty flavor of roasted brown almonds.", "The malty taste of a dark brown ale."]
+            },
+            "texture": {
+                "user-made": [],
+                "suggested": ["The rough, grainy texture of brown sugar.", "The smooth, velvety texture of a brown leather couch."]
+            },
+            "appearance": {
+                "user-made": [],
+                "suggested": ["The natural, earthy appearance of brown wood.", "The elegant, sophisticated appearance of a brown leather purse."]
+            },
+            "mood": {
+                "user-made": [],
+                "suggested": ["The cozy, warm mood of a brown-themed room.", "The rustic, homey mood of a brown cabin in the woods."]
+            },
+            "association": {
+                "user-made": [],
+                "suggested": ["The association of brown with reliability and stability in business.", "The association of brown with simplicity and minimalism in design."]
+            },
+            "symbolism": {
+                "user-made": [],
+                "suggested": ["The symbolism of brown as a natural, grounding color in nature.", "The symbolism of brown as a sign of humility and modesty in some cultures."]
+            }
+        }
+    }
+    

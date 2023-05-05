@@ -1,0 +1,71 @@
+{
+    "english": {
+        "word": "blue",
+        "examples": [
+            "The sky was a beautiful shade of blue.",
+            "She was wearing a blue dress.",
+            "He felt blue after the breakup."
+        ],
+        "part_of_speech": "adjective",
+        "trick_words": ["navy", "cobalt", "indigo", "azure", "sapphire"]
+    },
+    "spanish": {
+        "word": "azul",
+        "examples": [
+            "El cielo estaba de un hermoso tono azul.",
+            "Ella llevaba puesto un vestido azul.",
+            "Se sentía triste después de la ruptura."
+        ],
+        "part_of_speech": "adjetivo",
+        "trick_words": ["celeste", "turquesa", "añil", "cian", "petróleo"]
+    },
+    "french": {
+        "word": "bleu",
+        "examples": [
+            "Le ciel était d'un magnifique bleu.",
+            "Elle portait une robe bleue.",
+            "Il se sentait triste après la rupture."
+        ],
+        "part_of_speech": "adjectif",
+        "trick_words": ["marine", "cobalt", "indigo", "azur", "saphir"]
+    },
+    "german": {
+        "word": "blau",
+        "examples": [
+            "Der Himmel war in einem wunderschönen Blauton.",
+            "Sie trug ein blaues Kleid.",
+            "Er fühlte sich nach der Trennung traurig."
+        ],
+        "part_of_speech": "Adjektiv",
+        "trick_words": ["marine", "kobalt", "indigo", "azur", "saphir"]
+    },
+    "type": ["color"],
+    "dates": {
+        "discover_date": "",
+        "next_review": "",
+        "last_reviewed": ""
+    },
+        "english": {
+            "word": "boot",
+            "examples": ["I need to buy a new pair of boots for hiking.", "The cowboy wore tall, leather boots with pointed toes."],
+            "gender": ["neuter"],
+            "trick-words": ["shoe", "sandal", "sneaker", "slipper", "footwear"]
+        },
+        "spanish": {
+            "word": "bota",
+            "examples": ["Necesito comprar un par de botas nuevas para hacer senderismo.", "El vaquero llevaba botas altas de cuero con puntas afiladas."],
+            "gender": ["feminine"],
+            "trick-words": ["zapato", "sandalia", "zapatilla", "pantufla", "calzado"]
+        },
+        "progress": {
+            "memory": 0.6,
+            "gender-memory": 0.4
+        },
+        "type": ["noun"],
+        "dates": {
+            "discover-date": "10th century",
+            "next-review": "2024-05-10",
+            "last-reviewed": "2022-05-10"
+        }
+    }
+    

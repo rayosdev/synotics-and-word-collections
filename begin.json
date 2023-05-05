@@ -1,0 +1,61 @@
+{
+	"english": {
+		"word": "begin",
+		"examples": ["Let's begin our journey!", "He didn't want to begin the meeting without her."],
+		"verb-forms": {
+			"present-tense": "begin",
+			"past-tense": "began",
+			"past-participle": "begun"
+		}
+	},
+	"portuguese": {
+		"word": "começar",
+		"examples": ["Vamos começar nossa jornada!", "Ele não queria começar a reunião sem ela."],
+		"verb-forms": {
+			"present-tense": "começo",
+			"past-tense": "começou",
+			"past-participle": "começado"
+		}
+	},
+	"progress": {
+		"memory": 0.8,
+		"verb-memory": 0.8
+	},
+	"type": ["verb"],
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+        "synonyms": {
+            "excited": {
+                "user-made": [],
+                "suggested": ["I can't wait to begin this new adventure!"]
+            },
+            "motivated": {
+                "user-made": [],
+                "suggested": ["The first step to success is to begin."]
+            },
+            "nostalgic": {
+                "user-made": [],
+                "suggested": ["It feels like just yesterday that we began this project."]
+            },
+            "curious": {
+                "user-made": [],
+                "suggested": ["I wonder what will happen if we begin experimenting with this new technique?"]
+            },
+            "anxious": {
+                "user-made": [],
+                "suggested": ["I'm a little nervous to begin this presentation, but I know I can do it."]
+            },
+            "hopeful": {
+                "user-made": [],
+                "suggested": ["Let's begin this new chapter with optimism and enthusiasm."]
+            },
+            "important": {
+                "user-made": [],
+                "suggested": ["It's crucial that we begin making changes to protect the environment."]
+            }
+        }
+    }
+    
