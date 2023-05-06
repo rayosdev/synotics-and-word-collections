@@ -2,129 +2,92 @@
     "english": {
         "word": "angry",
         "examples": [
-            "She was so angry that she threw the book across the room.",
-            "He gets angry when someone interrupts him."
+            "She was very angry when she found out the truth.",
+            "Don't get angry, let's talk about it calmly.",
+            "He has an angry look on his face."
         ],
-        "part-of-speech": [
-            "adjective"
+        "gender": [
+            "neuter"
         ],
-        "synonyms": [
+        "trick-words": [
             "mad",
             "irritated",
+            "enraged",
             "furious",
-            "enraged"
-        ],
-        "antonyms": [
-            "calm",
-            "happy",
-            "pleased",
-            "satisfied"
+            "incensed"
         ]
     },
-    "spanish": {
-        "word": "enojado",
+    "portuguese": {
+        "word": "irritado",
         "examples": [
-            "Ella estaba tan enojada que lanzó el libro al otro lado de la habitación.",
-            "Se pone enojado cuando alguien lo interrumpe."
+            "Ela ficou muito irritada quando descobriu a verdade.",
+            "Não fique irritado, vamos conversar sobre isso calmamente.",
+            "Ele tem uma expressão irritada no rosto."
         ],
-        "part-of-speech": [
-            "adjetivo"
+        "gender": [
+            "masculine"
         ],
-        "synonyms": [
+        "trick-words": [
+            "bravo",
+            "chateado",
+            "enfurecido",
             "furioso",
-            "indignado",
-            "exasperado",
-            "irritado"
-        ],
-        "antonyms": [
-            "calmado",
-            "feliz",
-            "contento",
-            "satisfecho"
+            "indignado"
         ]
     },
     "progress": {
-        "memory": 0.8,
-        "synonyms-memory": 0.7,
-        "antonyms-memory": 0.6
+        "memory": 0.2,
+        "gender-memory": 0.2
     },
     "type": [
-        "emotional"
+        "adjective"
     ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "mad": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "furious",
-                "enraged",
-                "livid",
-                "irate",
-                "incensed"
+                "Why did the tomato turn red? Because it was angry at the salad dressing!"
             ]
         },
-        "frustrated": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "annoyed",
-                "irritated",
-                "displeased",
-                "exasperated",
-                "aggravated"
+                "The consequences of acting out of anger can often be regrettable and sad."
             ]
         },
-        "upset": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "distressed",
-                "hurt",
-                "angst-ridden",
-                "disappointed",
-                "heartbroken"
+                "Anger can be a natural response to injustice, mistreatment, or personal attacks."
             ]
         },
-        "violent": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "furious",
-                "intense",
-                "raging",
-                "tempestuous",
-                "stormy"
+                "Did you know that anger can actually be beneficial in certain situations, such as motivating us to take action or setting boundaries?"
             ]
         },
-        "outraged": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "infuriated",
-                "scandalized",
-                "incensed",
-                "enraged",
-                "angered"
+                "There's no specific smell associated with anger, but sometimes our bodies may release sweat or adrenaline."
             ]
         },
-        "irritated": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "annoyed",
-                "aggravated",
-                "exasperated",
-                "bothered",
-                "peeved"
+                "The physical sensations of anger can include tense muscles, increased heart rate, and a flushed face."
             ]
         },
-        "furious": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "enraged",
-                "livid",
-                "incensed",
-                "indignant",
-                "fuming"
+                "While anger can be destructive, it can also provide a connection to our emotions and needs, and can be a catalyst for change and growth."
             ]
         }
     }

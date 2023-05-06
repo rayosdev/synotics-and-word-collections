@@ -2,103 +2,92 @@
     "english": {
         "word": "afraid",
         "examples": [
-            "She was afraid of spiders.",
-            "He was afraid to speak in public."
+            "I'm afraid of heights.",
+            "Don't be afraid to ask for help.",
+            "She was afraid to open the door."
         ],
-        "part-of-speech": [
-            "adjective"
+        "gender": [
+            "neuter"
         ],
-        "synonyms": [
+        "trick-words": [
             "scared",
             "frightened",
             "terrified",
-            "panicked",
+            "anxious",
             "nervous"
-        ],
-        "antonyms": [
-            "fearless",
-            "brave",
-            "confident",
-            "unafraid",
-            "fearless"
         ]
     },
-    "spanish": {
-        "word": "asustado",
+    "portuguese": {
+        "word": "com medo",
         "examples": [
-            "Ella tenía miedo de las arañas.",
-            "Él tenía miedo de hablar en público."
+            "Eu tenho medo de altura.",
+            "Não tenha medo de pedir ajuda.",
+            "Ela estava com medo de abrir a porta."
         ],
-        "part-of-speech": [
-            "adjetivo"
+        "gender": [
+            "masculine"
         ],
-        "synonyms": [
-            "atemorizado",
-            "asombrado",
-            "aterrado",
-            "acojonado",
-            "nervioso"
-        ],
-        "antonyms": [
-            "valiente",
-            "seguro",
-            "confiado",
-            "intrépido",
-            "audaz"
+        "trick-words": [
+            "assustado",
+            "amedrontado",
+            "apavorado",
+            "ansioso",
+            "nervoso"
         ]
     },
     "progress": {
-        "memory": 0.7
+        "memory": 0.2,
+        "gender-memory": 0.2
     },
     "type": [
-        "emotion"
+        "adjective"
     ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
+    "synotics": {
         "funny": {
             "user-made": [],
             "suggested": [
-                "Why was the scarecrow afraid? Because it was outstanding in its field!"
+                "Why was the math book afraid to go to school? Because it had too many problems."
             ]
         },
         "sad": {
             "user-made": [],
             "suggested": [
-                "I'm afraid of being alone forever."
+                "I'm afraid of being forgotten."
             ]
         },
         "angry": {
             "user-made": [],
             "suggested": [
-                "I'm afraid that if I let my guard down, I'll get hurt again."
+                "I'm angry at myself for being too afraid to take risks."
             ]
         },
         "surprising": {
             "user-made": [],
             "suggested": [
-                "I'm afraid of spiders, but did you know that some spiders are actually beneficial to the environment?"
+                "Did you know that some people are afraid of cotton balls? It's called 'sidonglobophobia'."
             ]
         },
         "smell": {
             "user-made": [],
             "suggested": [
-                "The smell of fear is unmistakable."
+                "The smell of fear is said to be caused by pheromones that we release when we're afraid."
             ]
         },
         "touch": {
             "user-made": [],
             "suggested": [
-                "The feeling of your heart pounding in your chest when you're afraid."
+                "The feeling of your heart beating faster when you're afraid."
             ]
         },
         "connection": {
             "user-made": [],
             "suggested": [
-                "Being afraid is a universal human experience that connects us all."
+                "We all experience fear at some point, it's a part of being human. Let's connect over our shared experiences."
             ]
         }
     }

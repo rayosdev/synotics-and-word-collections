@@ -1,43 +1,46 @@
 {
     "english": {
-        "word": "anything",
+        "word": "any",
         "examples": [
-            "You can ask me anything you want.",
-            "I'm not hungry, I'll eat anything."
+            "Do you have any questions?",
+            "He didn't give any explanation for his behavior.",
+            "Any student can participate in the competition."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
-            "everything",
-            "something",
-            "nothing",
-            "anyone",
-            "anybody"
+            "some",
+            "a few",
+            "many",
+            "several",
+            "each"
         ]
     },
     "portuguese": {
-        "word": "qualquer coisa",
+        "word": "qualquer",
         "examples": [
-            "Você pode me perguntar qualquer coisa que quiser.",
-            "Não estou com fome, eu como qualquer coisa."
+            "Você tem alguma pergunta?",
+            "Ele não deu nenhuma explicação para seu comportamento.",
+            "Qualquer aluno pode participar da competição."
         ],
         "gender": [
-            "feminine"
+            "masculine"
         ],
         "trick-words": [
-            "tudo",
-            "algo",
-            "nada",
-            "qualquer um",
-            "qualquer pessoa"
+            "algum",
+            "uns",
+            "muitos",
+            "vários",
+            "cada"
         ]
     },
     "progress": {
-        "memory": 0.5,
-        "gender-memory": 0.5
+        "memory": 0.3,
+        "gender-memory": 0.3
     },
     "type": [
+        "determiner",
         "pronoun"
     ],
     "dates": {
@@ -45,102 +48,47 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "general": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "whatever",
-                "whichever",
-                "anybody",
-                "anyone",
-                "anything",
-                "whatever you like",
-                "take your pick",
-                "the choice is yours",
-                "either one"
+                "Why don't scientists trust atoms? Because they make up everything! (anyone laughing?)"
             ]
         },
-        "affirmative": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "absolutely",
-                "certainly",
-                "of course",
-                "definitely",
-                "indeed",
-                "sure",
-                "yes",
-                "you bet",
-                "without a doubt"
+                "The thought of not having any options or choices can be disheartening."
             ]
         },
-        "negative": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "none",
-                "nothing",
-                "no one",
-                "nobody",
-                "neither",
-                "nowhere",
-                "not a single one",
-                "not one",
-                "not any"
+                "It's frustrating when people don't give any effort or thought to their actions or decisions."
             ]
         },
-        "quantity": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "some",
-                "many",
-                "few",
-                "a few",
-                "several",
-                "plenty",
-                "a lot of",
-                "lots of",
-                "enough"
+                "Did you know that 'any' is one of the most commonly used words in the English language?"
             ]
         },
-        "permission": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "feel free",
-                "go ahead",
-                "you're welcome to",
-                "take your time",
-                "do as you please",
-                "it's up to you",
-                "have at it",
-                "make yourself at home",
-                "be my guest"
+                "There's no specific smell associated with 'any', but the scent of possibilities can be invigorating."
             ]
         },
-        "negation": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "none whatsoever",
-                "absolutely not",
-                "by no means",
-                "under no circumstances",
-                "not at all",
-                "no way",
-                "never",
-                "not ever",
-                "no chance"
+                "The physical sensation of having any choice or option can be empowering."
             ]
         },
-        "comparison": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "either way",
-                "both",
-                "whichever is better",
-                "either one works",
-                "take your pick",
-                "any of them will do",
-                "whatever you like",
-                "it doesn't matter which"
+                "The concept of any can be connected to the idea of abundance, freedom, and endless possibilities."
             ]
         }
     }

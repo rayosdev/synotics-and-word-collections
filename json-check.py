@@ -26,7 +26,7 @@ def check_json(directory):
             "next-review": "",
             "last-reviewed": ""
         },
-        "synonyms": {
+        "synotics": {
             "funny": {
                 "user-made": [],
                 "suggested": []

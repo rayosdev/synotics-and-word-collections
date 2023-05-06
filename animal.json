@@ -2,8 +2,9 @@
     "english": {
         "word": "animal",
         "examples": [
-            "The zoo has many exotic animals from around the world.",
-            "I'm a huge animal lover."
+            "I love all kinds of animals.",
+            "The zoo has a wide variety of animals.",
+            "Animal rights are important."
         ],
         "gender": [
             "neuter"
@@ -12,15 +13,16 @@
             "creature",
             "beast",
             "critter",
-            "living thing",
-            "organism"
+            "fauna",
+            "wildlife"
         ]
     },
     "portuguese": {
         "word": "animal",
         "examples": [
-            "O zoológico tem muitos animais exóticos de todo o mundo.",
-            "Eu sou um grande amante dos animais."
+            "Eu amo todos os tipos de animais.",
+            "O zoológico tem uma grande variedade de animais.",
+            "Os direitos dos animais são importantes."
         ],
         "gender": [
             "masculine"
@@ -29,63 +31,64 @@
             "criatura",
             "besta",
             "bicho",
-            "coisa viva",
-            "organismo"
+            "fauna",
+            "vida selvagem"
         ]
     },
     "progress": {
-        "memory": 0.5,
-        "gender-memory": 0.5
+        "memory": 0.3,
+        "gender-memory": 0.3
     },
     "type": [
-        "noun"
+        "noun",
+        "adjective"
     ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "cute": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "Puppies and kittens are such cute animals."
+                "Why do cows wear bells? Because their horns don't work!"
             ]
         },
-        "wild": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "The African savanna is home to many wild animals, such as lions, zebras, and giraffes."
+                "The thought of endangered animals can be heartbreakingly sad."
             ]
         },
-        "pet": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "Dogs and cats are popular choices for pets, but some people keep more exotic animals like snakes or parrots."
+                "It makes me so angry when people mistreat or harm animals for no reason."
             ]
         },
-        "endangered": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "Many species of animals are considered endangered, such as the black rhinoceros and the snow leopard."
+                "Did you know that the fingerprints of koalas are so similar to humans that they have been mistaken for crime scene fingerprints?"
             ]
         },
-        "intelligent": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "Dolphins and chimpanzees are known for their high level of intelligence among animals."
+                "The smell of a freshly cleaned pet after a bath."
             ]
         },
-        "domesticated": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "Domesticated animals like cows, pigs, and chickens are raised for food and other products."
+                "The soft fur of a kitten or the rough skin of a lizard."
             ]
         },
-        "mammal": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "Whales, dolphins, and humans are all mammals, which means they nurse their young with milk."
+                "Animals can provide companionship, comfort, and a connection to nature."
             ]
         }
     }

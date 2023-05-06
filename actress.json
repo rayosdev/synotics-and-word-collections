@@ -2,40 +2,42 @@
     "english": {
         "word": "actress",
         "examples": [
-            "She won an award for best actress in a leading role.",
-            "Many actresses have spoken out about inequality in Hollywood."
+            "Meryl Streep is a highly acclaimed actress.",
+            "She dreams of becoming an actress someday.",
+            "The actress won an award for her performance in the play."
         ],
         "gender": [
             "feminine"
         ],
         "trick-words": [
-            "actor",
             "performer",
-            "artist",
-            "star",
-            "celebrity"
+            "dramatist",
+            "player",
+            "starlet",
+            "thespian"
         ]
     },
-    "spanish": {
-        "word": "actriz",
+    "portuguese": {
+        "word": "atriz",
         "examples": [
-            "Ella ganó un premio por mejor actriz protagonista.",
-            "Muchas actrices han hablado sobre la desigualdad en Hollywood."
+            "Meryl Streep é uma atriz muito aclamada.",
+            "Ela sonha em se tornar atriz algum dia.",
+            "A atriz ganhou um prêmio por sua performance na peça."
         ],
         "gender": [
             "feminine"
         ],
         "trick-words": [
-            "actora",
-            "artista",
             "intérprete",
-            "estrella",
-            "celebridad"
+            "dramaturga",
+            "artista",
+            "estrela em ascensão",
+            "atriz teatral"
         ]
     },
     "progress": {
-        "memory": 0.7,
-        "gender-memory": 0.9
+        "memory": 0.1,
+        "gender-memory": 0.1
     },
     "type": [
         "noun"
@@ -45,47 +47,47 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
+    "synotics": {
         "funny": {
             "user-made": [],
             "suggested": [
-                "Why did the actress refuse to date the dictionary? She found out he had too many definitions of the word 'love'."
+                "Why did the actress go to jail? Because she stole the spotlight."
             ]
         },
         "sad": {
             "user-made": [],
             "suggested": [
-                "Being an actress is like being a chameleon. You have to constantly change who you are to fit the role, and sometimes you forget who you really are."
+                "It's tough being an actress in Hollywood, with all the pressure to look a certain way and be perfect."
             ]
         },
         "angry": {
             "user-made": [],
             "suggested": [
-                "Why do people assume that actresses are all divas? It's disrespectful and untrue."
+                "I'm angry at the industry for perpetuating unrealistic beauty standards for actresses."
             ]
         },
         "surprising": {
             "user-made": [],
             "suggested": [
-                "Did you know that the first recorded female actress was in ancient Greece in the 5th century BCE?"
+                "Did you know that the first female film director was also an actress? Her name was Alice Guy-Blaché."
             ]
         },
         "smell": {
             "user-made": [],
             "suggested": [
-                "The smell of the greasepaint and the roar of the crowd. That's what being an actress is all about."
+                "The smell of makeup and hairspray backstage at a play or film set."
             ]
         },
         "touch": {
             "user-made": [],
             "suggested": [
-                "The feel of the stage beneath your feet, and the adrenaline rush of performing in front of a live audience. Nothing compares to it."
+                "The feeling of adrenaline rush when an actress steps on stage to perform in front of a live audience."
             ]
         },
         "connection": {
             "user-made": [],
             "suggested": [
-                "As an actress, you have the ability to connect with people on a deep emotional level and bring characters to life in a way that touches their hearts."
+                "Actresses have the power to connect with audiences through their performances and bring people together."
             ]
         }
     }

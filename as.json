@@ -1,0 +1,95 @@
+{
+    "english": {
+        "word": "as",
+        "examples": [
+            "I'm going to eat as much pizza as I can.",
+            "As an expert in the field, she was able to provide valuable insight.",
+            "I'll be there as soon as I can."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "like",
+            "similarly",
+            "in the role of",
+            "to the same degree",
+            "in proportion to"
+        ]
+    },
+    "portuguese": {
+        "word": "como",
+        "examples": [
+            "Vou comer o máximo de pizza que puder.",
+            "Como especialista na área, ela foi capaz de fornecer insights valiosos.",
+            "Eu estarei lá assim que puder."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "igual a",
+            "similarmente",
+            "na função de",
+            "na mesma medida",
+            "proporcional a"
+        ]
+    },
+    "progress": {
+        "memory": 0.3,
+        "gender-memory": 0.3
+    },
+    "type": [
+        "conjunction",
+        "adverb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the tomato turn red? Because it saw the salad dressing 'as' he was passing by! (As if that wasn't a good one, right?)"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The thought of being compared to others 'as' less than or inferior can be disheartening."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "It's frustrating when people make assumptions 'as' if they know everything about us."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the word 'as' can be used to indicate comparison, similarity, or proportion?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with 'as', but the scent of a comparison or parallel can be intriguing."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The physical sensation of being 'as' light as a feather or as heavy as a rock can be a sign of contrast and variation."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The concept of 'as' can be connected to the idea of similarity, relativity, and subjective interpretation."
+            ]
+        }
+    }
+}
