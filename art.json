@@ -2,35 +2,37 @@
     "english": {
         "word": "art",
         "examples": [
-            "She studied art in college.",
-            "The museum has a collection of modern art."
+            "She enjoys creating art in her free time.",
+            "The museum has a large collection of modern art.",
+            "He is studying art history in college."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
-            "painting",
-            "sculpture",
+            "craft",
+            "fine art",
             "design",
-            "music",
-            "theater"
+            "creativity",
+            "aesthetics"
         ]
     },
     "portuguese": {
         "word": "arte",
         "examples": [
-            "Ela estudou arte na faculdade.",
-            "O museu tem uma coleção de arte moderna."
+            "Ela gosta de criar arte em seu tempo livre.",
+            "O museu possui uma grande coleção de arte moderna.",
+            "Ele está estudando história da arte na faculdade."
         ],
         "gender": [
             "feminine"
         ],
         "trick-words": [
-            "pintura",
-            "escultura",
+            "artesanato",
+            "belas artes",
             "design",
-            "música",
-            "teatro"
+            "criatividade",
+            "estética"
         ]
     },
     "progress": {
@@ -45,47 +47,47 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "beauty": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "Art is the beauty of life."
+                "Why did the artist break up with his girlfriend? She just didn't understand his 'art'!"
             ]
         },
-        "creativity": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "Art is the expression of the imagination."
+                "The thought of a world without creativity or beauty in the form of 'art' can be bleak."
             ]
         },
-        "inspiration": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "Art is the inspiration that allows us to see the world in a new way."
+                "It's frustrating when people belittle the value of 'art' or dismiss it as frivolous or unnecessary."
             ]
         },
-        "skill": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "Art is the combination of talent and skill."
+                "Did you know that the word 'art' can be used to describe a variety of creative disciplines, including painting, music, and dance?"
             ]
         },
-        "emotion": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "Art is the expression of human emotion."
+                "There's no specific smell associated with 'art', but the scent of materials used in certain types of 'art', such as oil paint, can be distinct."
             ]
         },
-        "communication": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "Art is a form of communication that transcends language barriers."
+                "The physical sensation of creating or experiencing 'art' can be a sign of tactile engagement and emotional connection."
             ]
         },
-        "interpretation": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "Art is open to interpretation and can be viewed differently by each individual."
+                "The concept of 'art' can be connected to the idea of expression, beauty, and cultural identity."
             ]
         }
     }

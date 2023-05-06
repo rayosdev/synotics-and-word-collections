@@ -2,40 +2,42 @@
     "english": {
         "word": "airport",
         "examples": [
-            "I'm flying out of the airport tomorrow morning.",
-            "The airport is always crowded during the holiday season."
+            "I arrived at the airport two hours before my flight.",
+            "She works at the airport as a flight attendant.",
+            "The airport was closed due to bad weather."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
-            "airstrip",
+            "aerodrome",
             "airfield",
             "aviation center",
-            "aerodrome",
-            "landing strip"
+            "terminal",
+            "heliport"
         ]
     },
     "portuguese": {
         "word": "aeroporto",
         "examples": [
-            "Eu vou voar do aeroporto amanhã de manhã.",
-            "O aeroporto sempre fica cheio durante a temporada de férias."
+            "Cheguei ao aeroporto duas horas antes do meu voo.",
+            "Ela trabalha no aeroporto como comissária de bordo.",
+            "O aeroporto foi fechado devido ao mau tempo."
         ],
         "gender": [
             "masculine"
         ],
         "trick-words": [
             "aeródromo",
-            "pista de pouso",
+            "campo de aviação",
             "centro de aviação",
-            "aeroporto internacional",
-            "terminal"
+            "terminal",
+            "heliporto"
         ]
     },
     "progress": {
-        "memory": 0.3,
-        "gender-memory": 0.6
+        "memory": 0.2,
+        "gender-memory": 0.2
     },
     "type": [
         "noun"
@@ -45,47 +47,47 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "travel": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "The airport is the perfect place to begin an adventure."
+                "Why did the tomato turn red? Because it saw the salad dressing at the airport!"
             ]
         },
-        "flight": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "The airport is where dreams take flight."
+                "The thought of long-distance goodbyes at the airport can be bittersweet."
             ]
         },
-        "busy": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "The airport is always bustling with activity."
+                "Why do airport security lines have to be so long and frustrating? It's such a hassle!"
             ]
         },
-        "exciting": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "The airport is full of excitement and anticipation."
+                "Did you know that Singapore's Changi Airport has a rooftop swimming pool for travelers to relax and unwind?"
             ]
         },
-        "destination": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "The airport is where journeys to new destinations begin."
+                "The distinct smell of jet fuel and the sound of planes taking off and landing."
             ]
         },
-        "security": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "The airport security line can be a bit of a hassle, but it's worth it for the adventure ahead."
+                "The feeling of excitement when boarding a plane for a new adventure."
             ]
         },
-        "connect": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "The airport is where people from all over the world connect and share their stories."
+                "Airports can bring people from all over the world together, allowing for connections and cultural exchanges."
             ]
         }
     }

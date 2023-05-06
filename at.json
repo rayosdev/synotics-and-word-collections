@@ -2,137 +2,94 @@
     "english": {
         "word": "at",
         "examples": [
-            "I'm at the store.",
-            "The party is at 8 PM."
+            "She is waiting at the bus stop.",
+            "The meeting is at 2 pm.",
+            "He is studying at the university."
         ],
-        "part-of-speech": [
-            "preposition"
+        "gender": [
+            "neuter"
         ],
-        "synonyms": [
+        "trick-words": [
             "in",
             "on",
             "near",
-            "by",
-            "within"
-        ],
-        "antonyms": [
-            "away from",
-            "remote from",
-            "distant from"
-        ],
-        "trick-words": [
-            "atop",
-            "around",
-            "alongside",
-            "attain",
-            "attach"
+            "within",
+            "to"
         ]
     },
-    "spanish": {
-        "word": "en",
+    "portuguese": {
+        "word": "em",
         "examples": [
-            "Estoy en la tienda.",
-            "La fiesta es a las 8 PM."
+            "Ela está esperando no ponto de ônibus.",
+            "A reunião é às 14h.",
+            "Ele está estudando na universidade."
         ],
-        "part-of-speech": [
-            "preposición"
-        ],
-        "synonyms": [
-            "a",
-            "ante",
-            "con",
-            "de",
-            "desde"
-        ],
-        "antonyms": [
-            "fuera de",
-            "lejos de",
-            "alejado de"
+        "gender": [
+            "masculine",
+            "feminine"
         ],
         "trick-words": [
-            "encima de",
-            "alrededor",
-            "junto a",
-            "alcanzar",
-            "adjuntar"
+            "em",
+            "no",
+            "na",
+            "a",
+            "para"
         ]
     },
     "progress": {
-        "memory": 0.7,
-        "synonym-memory": 0.6,
-        "antonym-memory": 0.5
+        "memory": 0.6,
+        "gender-memory": 0.6
     },
+    "type": [
+        "preposition"
+    ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-    "english": {
-        "word": "at",
-        "examples": [
-            "I'm at the store.",
-            "The party is at 8 PM."
-        ],
-        "part-of-speech": [
-            "preposition"
-        ],
-        "synonyms": [
-            "in",
-            "on",
-            "near",
-            "by",
-            "within"
-        ],
-        "antonyms": [
-            "away from",
-            "remote from",
-            "distant from"
-        ],
-        "trick-words": [
-            "atop",
-            "around",
-            "alongside",
-            "attain",
-            "attach"
-        ]
-    },
-    "spanish": {
-        "word": "en",
-        "examples": [
-            "Estoy en la tienda.",
-            "La fiesta es a las 8 PM."
-        ],
-        "part-of-speech": [
-            "preposición"
-        ],
-        "synonyms": [
-            "a",
-            "ante",
-            "con",
-            "de",
-            "desde"
-        ],
-        "antonyms": [
-            "fuera de",
-            "lejos de",
-            "alejado de"
-        ],
-        "trick-words": [
-            "encima de",
-            "alrededor",
-            "junto a",
-            "alcanzar",
-            "adjuntar"
-        ]
-    },
-    "progress": {
-        "memory": 0.7,
-        "synonym-memory": 0.6,
-        "antonym-memory": 0.5
-    },
-    "dates": {
-        "discover-date": "",
-        "next-review": "",
-        "last-reviewed": ""
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the scarecrow win an award? Because he was 'outstanding' in his field! But seriously, have you ever noticed how many words end in 'at'?"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The thought of being 'at' a place or event alone can be isolating and lonely."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "It's frustrating when people use the word 'at' improperly, such as confusing 'their' and 'there'. Pay attention to your grammar, people!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the word 'at' can be traced back to Middle English and Old English, where it was used to indicate location or position?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with 'at', but the scent of a particular place or environment can be noticeable."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "There's no physical sensation associated with 'at', but the feeling of being present and engaged in a moment can be rewarding."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The concept of 'at' can be connected to the idea of location, presence, and engagement."
+            ]
+        }
     }
 }

@@ -2,40 +2,42 @@
     "english": {
         "word": "afternoon",
         "examples": [
-            "Let's meet for lunch tomorrow afternoon.",
-            "She spent the afternoon reading in the park."
+            "Let's have lunch this afternoon.",
+            "She spent the afternoon reading in the park.",
+            "I have a meeting scheduled for this afternoon."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
-            "evening",
-            "morning",
-            "daytime",
             "midday",
-            "dusk"
+            "noon",
+            "evening",
+            "dusk",
+            "twilight"
         ]
     },
-    "spanish": {
+    "portuguese": {
         "word": "tarde",
         "examples": [
-            "Nos vemos para almorzar mañana por la tarde.",
-            "Pasó la tarde leyendo en el parque."
+            "Vamos almoçar esta tarde.",
+            "Ela passou a tarde lendo no parque.",
+            "Tenho uma reunião marcada para esta tarde."
         ],
         "gender": [
             "feminine"
         ],
         "trick-words": [
-            "mañana",
-            "noche",
-            "mediodía",
-            "anochecer",
-            "amanecer"
+            "meio-dia",
+            "meio-dia e meia",
+            "anoitecer",
+            "crepúsculo",
+            "entardecer"
         ]
     },
     "progress": {
-        "memory": 0.6,
-        "gender-memory": 0.4
+        "memory": 0.2,
+        "gender-memory": 0.2
     },
     "type": [
         "noun"
@@ -45,47 +47,47 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "relaxing": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "Spending a lazy afternoon on the porch, sipping iced tea and reading a good book."
+                "Why did the scarecrow win an award? Because he was outstanding in his field...in the afternoon."
             ]
         },
-        "productive": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "Making the most of your afternoon by tackling that project you've been putting off for weeks."
+                "Afternoons can be a reminder of loneliness or unfulfilled dreams."
             ]
         },
-        "nostalgic": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "Remembering the lazy afternoons of your childhood, spent playing outside with friends."
+                "Why does it always have to be so hot in the afternoon? I hate it!"
             ]
         },
-        "energizing": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "Going for a run or bike ride on a beautiful afternoon to get your blood pumping."
+                "Did you know that some cultures have a siesta in the afternoon to avoid the hottest part of the day?"
             ]
         },
-        "scenic": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "Taking a leisurely drive on a scenic afternoon, enjoying the beautiful views."
+                "The smell of freshly baked cookies in the afternoon."
             ]
         },
-        "sunny": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "Soaking up the sun on a warm afternoon, feeling the warmth on your skin."
+                "The feeling of the sun on your skin while taking a walk in the afternoon."
             ]
         },
-        "quiet": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "Enjoying the peacefulness of a quiet afternoon, with nothing to do but relax."
+                "Afternoons are a great time to connect with loved ones, have a cup of tea, or simply relax."
             ]
         }
     }

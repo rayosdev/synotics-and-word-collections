@@ -47,7 +47,7 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
+    "synotics": {
         "funny": {
             "user-made": [],
             "suggested": [
@@ -65,8 +65,7 @@
         "angry": {
             "user-made": [],
             "suggested": [
-                "Why do action movies always have to be so loud? I can't even hear myself think!",
-                "I hate it when people talk about taking action but never actually do anything about it."
+                "You can't handle the truth!!!"
             ]
         },
         "surprising": {

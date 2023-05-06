@@ -1,0 +1,94 @@
+{
+  "english": {
+    "word": "apple",
+    "examples": [
+      "I love to eat apples with peanut butter.",
+      "She baked an apple pie for dessert.",
+      "The teacher used an apple to demonstrate gravity."
+    ],
+    "gender": [
+      "neuter"
+    ],
+    "trick-words": [
+      "fruit",
+      "pomaceous",
+      "orchard",
+      "core",
+      "juice"
+    ]
+  },
+  "portuguese": {
+    "word": "maçã",
+    "examples": [
+      "Eu adoro comer maçãs com manteiga de amendoim.",
+      "Ela assou uma torta de maçã para a sobremesa.",
+      "O professor usou uma maçã para demonstrar a gravidade."
+    ],
+    "gender": [
+      "feminine"
+    ],
+    "trick-words": [
+      "fruta",
+      "pomácea",
+      "pomar",
+      "miolo",
+      "suco"
+    ]
+  },
+  "progress": {
+    "memory": 0.6,
+    "gender-memory": 0.6
+  },
+  "type": [
+    "noun"
+  ],
+  "dates": {
+    "discover-date": "",
+    "next-review": "",
+    "last-reviewed": ""
+  },
+  "synotics": {
+    "funny": {
+      "user-made": [],
+      "suggested": [
+        "Why don't scientists trust atoms? Because they make up everything 'apple'! (A play on the phrase 'apple pie', of course.)"
+      ]
+    },
+    "sad": {
+      "user-made": [],
+      "suggested": [
+        "The thought of a world without fresh produce or access to healthy food options 'apple' can be disheartening."
+      ]
+    },
+    "angry": {
+      "user-made": [],
+      "suggested": [
+        "It's frustrating when people take a bite out of our food without asking, especially if it's an 'apple' we were looking forward to."
+      ]
+    },
+    "surprising": {
+      "user-made": [],
+      "suggested": [
+        "Did you know that the word 'apple' can be used to describe a type of fruit, a symbol of knowledge, or a technology company?"
+      ]
+    },
+    "smell": {
+      "user-made": [],
+      "suggested": [
+        "The scent of a freshly picked 'apple' can be crisp and refreshing."
+      ]
+    },
+    "touch": {
+      "user-made": [],
+      "suggested": [
+        "The physical sensation of holding and biting into an 'apple' can be a sign of satisfaction and nourishment."
+      ]
+    },
+    "connection": {
+      "user-made": [],
+      "suggested": [
+        "The concept of 'apple' can be connected to the idea of growth, knowledge, and innovation."
+      ]
+    }
+  }
+}

@@ -2,40 +2,42 @@
     "english": {
         "word": "autumn",
         "examples": [
-            "The leaves turn red and gold in autumn.",
-            "Autumn is my favorite season."
+            "The leaves change color in autumn.",
+            "She loves to go apple picking in the autumn.",
+            "The autumn air is crisp and cool."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
             "fall",
-            "harvest",
-            "season",
+            "harvest season",
             "equinox",
-            "foliage"
+            "cool weather",
+            "changing leaves"
         ]
     },
-    "spanish": {
-        "word": "otoño",
+    "portuguese": {
+        "word": "outono",
         "examples": [
-            "Las hojas se vuelven rojas y doradas en otoño.",
-            "El otoño es mi estación favorita."
+            "As folhas mudam de cor no outono.",
+            "Ela adora colher maçãs no outono.",
+            "O ar do outono é fresco e agradável."
         ],
         "gender": [
             "masculine"
         ],
         "trick-words": [
-            "caída",
-            "cosecha",
-            "temporada",
-            "equinoccio",
-            "foliación"
+            "queda",
+            "estação da colheita",
+            "equinócio",
+            "tempo fresco",
+            "folhas que mudam de cor"
         ]
     },
     "progress": {
-        "memory": 0.7,
-        "gender-memory": 0.6
+        "memory": 0.3,
+        "gender-memory": 0.3
     },
     "type": [
         "noun"
@@ -45,47 +47,47 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "fall": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "The fall foliage during autumn is so beautiful."
+                "Why did the tree break up with the autumn? It just couldn't leaf anymore!"
             ]
         },
-        "harvest": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "Autumn is the season of harvest."
+                "The beauty of autumn can be bittersweet, as the colorful leaves and cool weather signal the end of summer and the approach of winter."
             ]
         },
-        "crisp": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "The air during autumn is so crisp."
+                "It's frustrating when autumn weather brings sudden changes, such as storms, flooding, or wildfires."
             ]
         },
-        "cozy": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "I love to snuggle up with a good book during the cozy autumn evenings."
+                "Did you know that the word 'autumn' comes from the Latin word 'autumnus', which means 'to ripen' or 'to harvest'?"
             ]
         },
-        "pumpkin": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "Pumpkin spice is the flavor of autumn."
+                "The scent of autumn can be characterized by the smell of crisp air, fallen leaves, and seasonal spices like cinnamon and nutmeg."
             ]
         },
-        "sweater": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "I can finally wear my favorite sweater during autumn."
+                "The physical sensation of autumn can be felt through the cool breeze, the crunch of leaves underfoot, and the warmth of cozy clothing."
             ]
         },
-        "leaves": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "I love to go for a walk and crunch the leaves under my feet during autumn."
+                "The concept of autumn can be connected to the idea of change, transition, and the cycle of life."
             ]
         }
     }

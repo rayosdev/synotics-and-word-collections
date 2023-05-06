@@ -2,115 +2,92 @@
     "english": {
         "word": "again",
         "examples": [
-            "I need to read this chapter again to understand it better.",
-            "He promised to never do it again."
+            "I forgot my phone at home again.",
+            "Can you repeat that again, please?",
+            "He tried again and again until he succeeded."
         ],
-        "part-of-speech": [
-            "adverb"
+        "gender": [
+            "neuter"
         ],
-        "synonyms": [
+        "trick-words": [
             "once more",
-            "anew",
+            "afresh",
             "repeatedly",
-            "recurrently",
-            "further"
-        ],
-        "antonyms": [
-            "never",
-            "once",
-            "previously"
-        ],
-        "phrases": [
-            "time and again",
-            "over and over again",
-            "again and again"
-        ],
-        "related-words": [
-            "repeat",
-            "renew",
-            "reiterate",
-            "recycle",
-            "revive"
+            "anew",
+            "recurrently"
         ]
     },
-    "spanish": {
-        "word": "de nuevo",
+    "portuguese": {
+        "word": "novamente",
         "examples": [
-            "Necesito leer este capítulo de nuevo para entenderlo mejor.",
-            "Prometió que nunca lo haría de nuevo."
+            "Eu esqueci meu telefone em casa novamente.",
+            "Você pode repetir isso novamente, por favor?",
+            "Ele tentou novamente e novamente até que conseguiu."
         ],
-        "part-of-speech": [
-            "adverbio"
+        "gender": [
+            "masculine"
         ],
-        "synonyms": [
-            "otra vez",
-            "nuevamente",
+        "trick-words": [
+            "mais uma vez",
+            "de novo",
             "repetidamente",
-            "recurrentemente",
-            "además"
-        ],
-        "antonyms": [
-            "nunca",
-            "una vez",
-            "previamente"
-        ],
-        "phrases": [
-            "una y otra vez",
-            "repetidamente",
-            "varias veces"
-        ],
-        "related-words": [
-            "repetir",
-            "renovar",
-            "reiterar",
-            "reciclar",
-            "revivir"
+            "de novo e de novo",
+            "recorrentemente"
         ]
     },
     "progress": {
-        "memory": 0.6,
-        "accuracy": 0.9
+        "memory": 0.2,
+        "gender-memory": 0.2
     },
+    "type": [
+        "adverb"
+    ],
     "dates": {
-        "discover-date": "before 900; Middle English",
-        "next-review": "2024-01-01",
-        "last-reviewed": "2022-05-01"
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
     },
-    "synonyms": {
-        "excitement": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "I can't wait to do that again!"
+                "Why do fish always sing off-key? Because they can't tuna-fish! (say it again for emphasis)"
             ]
         },
-        "annoyance": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "I can't believe I have to do this all over again!"
+                "The thought of having to start all over again can be daunting and disheartening."
             ]
         },
-        "hope": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "Maybe we'll get it right again this time."
+                "Why do I have to do this all again? It's so frustrating and exhausting!"
             ]
         },
-        "determination": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "I'll try again and again until I succeed."
+                "Did you know that 'again' is one of the most commonly used words in the English language?"
             ]
         },
-        "surprise": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "I never thought I'd see that happen again."
+                "There's no specific smell associated with 'again', but the smell of a fresh start can be invigorating."
             ]
         },
-        "nostalgia": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "I wish we could go back and experience that again."
+                "The physical sensation of hitting the reset button and starting again can be both exciting and nerve-wracking."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Starting again can provide an opportunity for growth, learning, and a renewed sense of purpose."
             ]
         }
     }

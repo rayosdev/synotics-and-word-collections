@@ -2,102 +2,92 @@
     "english": {
         "word": "ago",
         "examples": [
-            "He left the company two years ago.",
-            "I saw her a week ago at the party.",
-            "The concert happened five months ago."
+            "She left the house an hour ago.",
+            "He graduated from college three years ago.",
+            "The event took place a long time ago."
         ],
-        "part-of-speech": [
-            "adverb"
-        ],
-        "synonyms": [
-            "before",
-            "previously",
-            "formerly"
-        ],
-        "antonyms": [
-            "later",
-            "since",
-            "after"
+        "gender": [
+            "neuter"
         ],
         "trick-words": [
-            "age",
-            "agog",
-            "agogic"
+            "before",
+            "past",
+            "earlier",
+            "previously",
+            "elapsed time"
         ]
     },
-    "spanish": {
-        "word": "hace",
+    "portuguese": {
+        "word": "atrás",
         "examples": [
-            "Él dejó la compañía hace dos años.",
-            "La vi hace una semana en la fiesta.",
-            "El concierto sucedió hace cinco meses."
+            "Ela saiu de casa uma hora atrás.",
+            "Ele se formou na faculdade há três anos.",
+            "O evento aconteceu há muito tempo."
         ],
-        "part-of-speech": [
-            "adverb"
-        ],
-        "synonyms": [
-            "antes",
-            "previamente",
-            "anteriormente"
-        ],
-        "antonyms": [
-            "después",
-            "desde",
-            "más tarde"
+        "gender": [
+            "masculine",
+            "feminine"
         ],
         "trick-words": [
-            "hacer",
-            "acerca de",
-            "hacha"
+            "antes",
+            "passado",
+            "anteriormente",
+            "tempo decorrido"
         ]
     },
     "progress": {
-        "memory": 0.8
+        "memory": 0.6,
+        "gender-memory": 0.6
     },
     "type": [
-        "time"
+        "adverb"
     ],
-    "synonyms": {
-        "nostalgic": {
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "Do you remember the days of yore? That was ages ago."
+                "Why couldn't the bicycle stand up by itself? It was two-tired...and this joke is so old, it feels like it happened 'ago'!"
             ]
         },
-        "impatient": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "I cannot wait for the new season of my favorite show to come out. It feels like it was ages ago that I last watched it."
+                "The concept of time can be bittersweet, and thinking about something that happened 'ago' can bring up feelings of nostalgia or regret."
             ]
         },
-        "curious": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "What was life like centuries ago?"
+                "It can be frustrating when someone brings up something you did 'ago' as if it's still relevant or you haven't grown and changed since then."
             ]
         },
-        "reflective": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "Looking back at how things were ten years ago, it's amazing to see how much has changed."
+                "Did you know that the word 'ago' comes from the Middle English word 'agone', which means 'departed, passed away'?"
             ]
         },
-        "disbelief": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "It's hard to believe that it was only a few months ago when we could travel freely without any restrictions."
+                "There's no specific smell associated with 'ago', but the scent of something that reminds you of a time in the past can evoke powerful memories."
             ]
         },
-        "regretful": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "If only I had taken that opportunity when it was presented to me. That was many years ago."
+                "There's no physical sensation associated with 'ago', but the feeling of looking back on a time or event can be visceral."
             ]
         },
-        "nostalgia": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "The feeling of nostalgia that comes over me when I think about my childhood home, which I left long ago."
+                "The concept of 'ago' can be connected to the ideas of history, memory, and the passage of time."
             ]
         }
     }

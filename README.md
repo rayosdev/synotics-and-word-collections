@@ -1,1 +1,1 @@
-"# synotics-and-word-collections" 
+"# synotics-and-word-collections"  

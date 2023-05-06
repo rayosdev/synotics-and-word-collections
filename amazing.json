@@ -2,99 +2,92 @@
     "english": {
         "word": "amazing",
         "examples": [
-            "The view from the top of the mountain was absolutely amazing!",
-            "I had an amazing time at the concert last night."
+            "The view from the top of the mountain was amazing.",
+            "She gave an amazing performance at the concert.",
+            "The food at the restaurant was amazing."
         ],
-        "part-of-speech": "adjective",
-        "synonyms": [
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "incredible",
             "astonishing",
             "remarkable",
-            "incredible",
-            "wonderful",
-            "astounding"
-        ],
-        "antonyms": [
-            "unimpressive",
-            "boring",
-            "dull",
-            "ordinary",
-            "plain"
+            "fantastic",
+            "phenomenal"
         ]
     },
-    "spanish": {
-        "word": "sorprendente",
+    "portuguese": {
+        "word": "incrível",
         "examples": [
-            "La vista desde la cima de la montaña era absolutamente sorprendente!",
-            "Me lo pasé sorprendentemente bien en el concierto de anoche."
+            "A vista do topo da montanha era incrível.",
+            "Ela fez uma apresentação incrível no concerto.",
+            "A comida no restaurante era incrível."
         ],
-        "part-of-speech": "adjetivo",
-        "synonyms": [
-            "asombroso",
-            "notable",
-            "increíble",
-            "maravilloso",
-            "asombroso"
+        "gender": [
+            "masculine"
         ],
-        "antonyms": [
-            "poco impresionante",
-            "aburrido",
-            "soso",
-            "ordinario",
-            "simple"
+        "trick-words": [
+            "inacreditável",
+            "surpreendente",
+            "notável",
+            "fantástico",
+            "fenomenal"
         ]
     },
     "progress": {
-        "memory": 0.7
+        "memory": 0.3,
+        "gender-memory": 0.3
     },
     "type": [
-        "descriptive"
+        "adjective"
     ],
     "dates": {
-        "discover-date": "15th century",
-        "next-review": "2024-06-01",
-        "last-reviewed": "2022-12-01"
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
     },
-    "synonyms": {
-        "happy": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "It's amazing how a little sunshine can change your mood."
+                "Did you hear about the mathematician who's afraid of negative numbers? He'll stop at nothing to avoid them. It's a 'amazing' feat!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The thought of missing out on 'amazing' experiences or opportunities can be regretful."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "It's frustrating when people use the word 'amazing' to describe mundane or unremarkable things, diluting its meaning."
             ]
         },
         "surprising": {
             "user-made": [],
             "suggested": [
-                "It's amazing how much you can learn about yourself when you step outside of your comfort zone."
+                "Did you know that the word 'amazing' comes from the verb 'amaze', meaning to fill with wonder or astonishment?"
             ]
         },
-        "inspiring": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "Watching someone achieve their dreams is truly amazing."
+                "There's no specific smell associated with 'amazing', but the scent of something delightful or unexpected can certainly be 'amazing'."
             ]
         },
-        "awe": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "The Northern Lights are truly amazing."
+                "The physical sensation of experiencing something 'amazing' can be a sign of excitement and awe."
             ]
         },
-        "good": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "A good book can transport you to an amazing world."
-            ]
-        },
-        "beautiful": {
-            "user-made": [],
-            "suggested": [
-                "The view from the top of the mountain was simply amazing."
-            ]
-        },
-        "impressive": {
-            "user-made": [],
-            "suggested": [
-                "The dedication and hard work of Olympic athletes is truly amazing."
+                "The concept of 'amazing' can be connected to the idea of wonder, surprise, and delight."
             ]
         }
     }

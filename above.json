@@ -3,90 +3,92 @@
         "word": "above",
         "examples": [
             "The sun is above the horizon.",
-            "Please write your name above the line."
+            "The bird flew above the trees.",
+            "She hung a picture above the couch."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
             "over",
+            "up",
             "on top of",
             "higher than",
-            "upward of",
-            "beyond"
+            "superior"
         ]
     },
     "portuguese": {
         "word": "acima",
         "examples": [
             "O sol está acima do horizonte.",
-            "Por favor, escreva seu nome acima da linha."
+            "O pássaro voou acima das árvores.",
+            "Ela pendurou um quadro acima do sofá."
         ],
         "gender": [
-            "masculine"
+            "masculine",
+            "feminine"
         ],
         "trick-words": [
             "sobre",
             "em cima de",
-            "mais alto que",
             "superior a",
-            "além de"
+            "mais alto que",
+            "superior"
         ]
     },
     "progress": {
-        "memory": 0.5,
-        "gender-memory": 0.5
+        "memory": 0.4,
+        "gender-memory": 0.4
     },
     "type": [
-        "preposition",
-        "adverb"
+        "preposition"
     ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
+    "synotics": {
         "funny": {
             "user-made": [],
             "suggested": [
-                "Why did the tomato turn red? Because it saw the salad dressing way up above."
+                "Why did the math book look sad? Because it had too many problems...but don't worry, we're 'above' that!"
             ]
         },
         "sad": {
             "user-made": [],
             "suggested": [
-                "The clouds above me seem to mirror my own sense of gloom and heaviness."
+                "The idea of something being 'above' us can feel overwhelming or unattainable, especially if we're struggling to reach it."
             ]
         },
         "angry": {
             "user-made": [],
             "suggested": [
-                "The CEO's salary was way above what the average worker could ever hope to earn, leading to widespread employee discontent."
+                "It can be frustrating when someone is condescending or speaks 'above' you, as if they're superior or know more than you do."
             ]
         },
         "surprising": {
             "user-made": [],
             "suggested": [
-                "Did you know that birds can see ultraviolet light, which helps them navigate by detecting patterns in the sky and clouds above?"
+                "Did you know that the word 'above' is one of the most commonly used prepositions in the English language?"
             ]
         },
         "smell": {
             "user-made": [],
             "suggested": [
-                "The crisp scent of fresh mountain air above the treeline."
+                "There's no specific smell associated with 'above', but the scent of something high up or in the air, like a bird or a plane, can be evocative of the concept."
             ]
         },
         "touch": {
             "user-made": [],
             "suggested": [
-                "The thrill of being high up above the ground on a roller coaster or bungee jump."
+                "There's no physical sensation associated with 'above', but the feeling of looking up or reaching for something can be powerful."
             ]
         },
         "connection": {
             "user-made": [],
             "suggested": [
-                "Looking up at the vast expanse of stars above can help put our own problems into perspective and remind us of our place in the universe."
+                "The concept of 'above' can be connected to the ideas of aspiration, inspiration, and the pursuit of something greater than ourselves."
             ]
         }
     }
