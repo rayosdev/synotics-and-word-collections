@@ -1,36 +1,36 @@
 {
     "english": {
-        "word": "above",
+        "word": "advice",
         "examples": [
-            "The sun is above the horizon.",
-            "Please write your name above the line."
+            "I need some advice on how to study for the exam.",
+            "She gave me some great advice about starting my own business."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
-            "over",
-            "on top of",
-            "higher than",
-            "upward of",
-            "beyond"
+            "recommendation",
+            "counsel",
+            "guidance",
+            "suggestion",
+            "tip"
         ]
     },
-    "portuguese": {
-        "word": "acima",
+    "german": {
+        "word": "Rat",
         "examples": [
-            "O sol está acima do horizonte.",
-            "Por favor, escreva seu nome acima da linha."
+            "Ich brauche einen Rat, wie ich für die Prüfung lernen kann.",
+            "Sie gab mir einen tollen Rat, wie ich mein eigenes Geschäft gründen kann."
         ],
         "gender": [
             "masculine"
         ],
         "trick-words": [
-            "sobre",
-            "em cima de",
-            "mais alto que",
-            "superior a",
-            "além de"
+            "Empfehlung",
+            "Beratung",
+            "Anleitung",
+            "Vorschlag",
+            "Tipp"
         ]
     },
     "progress": {
@@ -38,55 +38,54 @@
         "gender-memory": 0.5
     },
     "type": [
-        "preposition",
-        "adverb"
+        "noun"
     ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
+    "synotics": {
         "funny": {
             "user-made": [],
             "suggested": [
-                "Why did the tomato turn red? Because it saw the salad dressing way up above."
+                "Why did the computer go to the doctor? Because it had a virus and needed some byte-sized advice."
             ]
         },
         "sad": {
             "user-made": [],
             "suggested": [
-                "The clouds above me seem to mirror my own sense of gloom and heaviness."
+                "I wish I had listened to my father's advice before he passed away. Now I have to navigate life's challenges without his guidance."
             ]
         },
         "angry": {
             "user-made": [],
             "suggested": [
-                "The CEO's salary was way above what the average worker could ever hope to earn, leading to widespread employee discontent."
+                "I can't believe my friend ignored my advice and now they're in a mess. They never listen to me when I try to help."
             ]
         },
         "surprising": {
             "user-made": [],
             "suggested": [
-                "Did you know that birds can see ultraviolet light, which helps them navigate by detecting patterns in the sky and clouds above?"
+                "Did you know that ancient Egyptians used to give advice to the dead by writing it on papyrus and placing it in the coffin?"
             ]
         },
         "smell": {
             "user-made": [],
             "suggested": [
-                "The crisp scent of fresh mountain air above the treeline."
+                "The smell of the old leather-bound books in the library that contain advice from generations past."
             ]
         },
         "touch": {
             "user-made": [],
             "suggested": [
-                "The thrill of being high up above the ground on a roller coaster or bungee jump."
+                "The feeling of the smooth pen in your hand as you write down someone's wise advice in your notebook."
             ]
         },
         "connection": {
             "user-made": [],
             "suggested": [
-                "Looking up at the vast expanse of stars above can help put our own problems into perspective and remind us of our place in the universe."
+                "Sharing advice with others and feeling a sense of connection as you help them navigate life's challenges."
             ]
         }
     }

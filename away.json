@@ -8,7 +8,7 @@
         "part-of-speech": [
             "adverb"
         ],
-        "synonyms": [
+        "synotics": [
             "gone",
             "absent",
             "missing",
@@ -35,7 +35,7 @@
         "part-of-speech": [
             "adverbio"
         ],
-        "synonyms": [
+        "synotics": [
             "ausente",
             "desaparecido",
             "no aquí"
@@ -63,7 +63,7 @@
         "last-reviewed": "2022-04-29",
         "next-review": "2023-10-29"
     },
-    "synonyms": {
+    "synotics": {
         "leaving": {
             "user-made": [],
             "suggested": [

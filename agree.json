@@ -8,7 +8,7 @@
         "part-of-speech": [
             "verb"
         ],
-        "synonyms": [
+        "synotics": [
             "concur",
             "assent",
             "accede",
@@ -34,7 +34,7 @@
         "part-of-speech": [
             "sustantivo"
         ],
-        "synonyms": [
+        "synotics": [
             "concordar",
             "admitir",
             "aceptar"
@@ -63,7 +63,7 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
+    "synotics": {
         "happy": {
             "user-made": [],
             "suggested": [

@@ -9,7 +9,7 @@
             "adverb",
             "preposition"
         ],
-        "synonyms": [
+        "synotics": [
             "about",
             "approximately",
             "nearly",
@@ -38,7 +38,7 @@
             "adverbio",
             "preposición"
         ],
-        "synonyms": [
+        "synotics": [
             "aproximadamente",
             "casi",
             "cerca",
@@ -68,7 +68,7 @@
         "next-review": "2024-05-01",
         "last-reviewed": "2022-05-01"
     },
-    "synonyms": {
+    "synotics": {
         "about": {
             "user-made": [],
             "suggested": [

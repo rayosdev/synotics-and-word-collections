@@ -8,7 +8,7 @@
         "part-of-speech": [
             "adjective"
         ],
-        "synonyms": [
+        "synotics": [
             "mad",
             "irritated",
             "furious",
@@ -30,7 +30,7 @@
         "part-of-speech": [
             "adjetivo"
         ],
-        "synonyms": [
+        "synotics": [
             "furioso",
             "indignado",
             "exasperado",
@@ -56,7 +56,7 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
+    "synotics": {
         "mad": {
             "user-made": [],
             "suggested": [

@@ -9,7 +9,7 @@
         "part-of-speech": [
             "adverb"
         ],
-        "synonyms": [
+        "synotics": [
             "before",
             "previously",
             "formerly"
@@ -35,7 +35,7 @@
         "part-of-speech": [
             "adverb"
         ],
-        "synonyms": [
+        "synotics": [
             "antes",
             "previamente",
             "anteriormente"
@@ -57,7 +57,7 @@
     "type": [
         "time"
     ],
-    "synonyms": {
+    "synotics": {
         "nostalgic": {
             "user-made": [],
             "suggested": [

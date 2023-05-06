@@ -6,7 +6,7 @@
             "I had an amazing time at the concert last night."
         ],
         "part-of-speech": "adjective",
-        "synonyms": [
+        "synotics": [
             "astonishing",
             "remarkable",
             "incredible",
@@ -28,7 +28,7 @@
             "Me lo pasé sorprendentemente bien en el concierto de anoche."
         ],
         "part-of-speech": "adjetivo",
-        "synonyms": [
+        "synotics": [
             "asombroso",
             "notable",
             "increíble",
@@ -54,7 +54,7 @@
         "next-review": "2024-06-01",
         "last-reviewed": "2022-12-01"
     },
-    "synonyms": {
+    "synotics": {
         "happy": {
             "user-made": [],
             "suggested": [

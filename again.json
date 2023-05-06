@@ -8,7 +8,7 @@
         "part-of-speech": [
             "adverb"
         ],
-        "synonyms": [
+        "synotics": [
             "once more",
             "anew",
             "repeatedly",
@@ -42,7 +42,7 @@
         "part-of-speech": [
             "adverbio"
         ],
-        "synonyms": [
+        "synotics": [
             "otra vez",
             "nuevamente",
             "repetidamente",
@@ -76,7 +76,7 @@
         "next-review": "2024-01-01",
         "last-reviewed": "2022-05-01"
     },
-    "synonyms": {
+    "synotics": {
         "excitement": {
             "user-made": [],
             "suggested": [

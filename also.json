@@ -6,7 +6,7 @@
             "She's an actress and also a singer."
         ],
         "part-of-speech": "adverb",
-        "synonyms": [
+        "synotics": [
             "too",
             "as well",
             "likewise",
@@ -28,7 +28,7 @@
             "Ella es actriz y también cantante."
         ],
         "part-of-speech": "adverbio",
-        "synonyms": [
+        "synotics": [
             "igualmente",
             "asimismo",
             "además",
@@ -56,7 +56,7 @@
         "next-review": "2023-06-01",
         "last-reviewed": "2022-06-01"
     },
-    "synonyms": {
+    "synotics": {
         "surprise": {
             "user-made": [],
             "suggested": [
