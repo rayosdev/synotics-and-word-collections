@@ -2,40 +2,42 @@
     "english": {
         "word": "address",
         "examples": [
-            "Please write your address on the envelope.",
-            "He gave a speech at the White House address."
+            "What's your email address?",
+            "She delivered a speech at the address.",
+            "The package was returned because of an incorrect address."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
             "location",
+            "destination",
             "residence",
-            "domicile",
             "place",
-            "street"
+            "site"
         ]
     },
     "portuguese": {
         "word": "endereço",
         "examples": [
-            "Por favor escreva seu endereço no envelope.",
-            "Ele deu um discurso no endereço da Casa Branca."
+            "Qual é o seu endereço de e-mail?",
+            "Ela fez um discurso no endereço.",
+            "O pacote foi devolvido devido a um endereço incorreto."
         ],
         "gender": [
             "masculine"
         ],
         "trick-words": [
-            "morada",
             "localização",
-            "rua",
-            "casa",
-            "domicílio"
+            "destino",
+            "residência",
+            "lugar",
+            "sítio"
         ]
     },
     "progress": {
-        "memory": 0.5,
-        "gender-memory": 0.5
+        "memory": 0.1,
+        "gender-memory": 0.1
     },
     "type": [
         "noun",
@@ -47,46 +49,46 @@
         "last-reviewed": ""
     },
     "synotics": {
-        "formal": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "Please provide your current address for our records."
+                "Why was the envelope mad? Because it was addressed to the wrong person!"
             ]
         },
-        "informal": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "Where do you live? What's your address?"
+                "A lost address book can feel like losing a piece of your past."
             ]
         },
-        "change": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "I need to update my address with the post office."
+                "Why do I have to fill out my address on every single form? It's so frustrating!"
             ]
         },
-        "delivery": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "The delivery driver couldn't find the correct address."
+                "Did you know that in some countries, addresses are written starting with the smallest unit (such as apartment number) and then the largest (such as street name)?"
             ]
         },
-        "internet": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "I found your address on the internet."
+                "The smell of a freshly printed envelope with a new address label."
             ]
         },
-        "identity": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "Your address can help confirm your identity."
+                "The feeling of satisfaction when finally finding the correct address."
             ]
         },
-        "confidential": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "Please keep my address confidential."
+                "An address can represent a place of belonging, a connection to a community, or a symbol of home."
             ]
         }
     }

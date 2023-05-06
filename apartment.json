@@ -3,39 +3,41 @@
         "word": "apartment",
         "examples": [
             "She lives in a small apartment in the city.",
-            "The apartment was fully furnished when she moved in."
+            "The apartment has a great view of the park.",
+            "He is looking for an apartment to rent."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
             "flat",
-            "condominium",
-            "studio",
+            "condo",
             "unit",
-            "loft"
+            "dwelling",
+            "residence"
         ]
     },
-    "spanish": {
+    "portuguese": {
         "word": "apartamento",
         "examples": [
-            "Ella vive en un apartamento pequeño en la ciudad.",
-            "El apartamento estaba completamente amueblado cuando ella se mudó."
+            "Ela mora em um apartamento pequeno na cidade.",
+            "O apartamento tem uma vista ótima do parque.",
+            "Ele está procurando um apartamento para alugar."
         ],
         "gender": [
             "masculine"
         ],
         "trick-words": [
-            "piso",
-            "departamento",
-            "vivienda",
-            "habitación",
-            "casa"
+            "apartamento",
+            "condomínio",
+            "unidade",
+            "moradia",
+            "residência"
         ]
     },
     "progress": {
-        "memory": 0.7,
-        "gender-memory": 0.8
+        "memory": 0.5,
+        "gender-memory": 0.5
     },
     "type": [
         "noun"
@@ -46,46 +48,46 @@
         "last-reviewed": ""
     },
     "synotics": {
-        "home": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "An apartment can be someone's home."
+                "Why did the tomato turn red? Because it saw the salad dressing! And if that didn't make you 'apartment' with laughter, how about a joke about a bad roommate?"
             ]
         },
-        "residence": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "An apartment is a type of residence."
+                "The thought of living in a cramped or unsafe 'apartment' can be disheartening."
             ]
         },
-        "flat": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "In some countries, an apartment is called a flat."
+                "It's frustrating when landlords or property managers fail to properly maintain 'apartment' buildings or provide adequate living conditions."
             ]
         },
-        "unit": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "An apartment can be referred to as a housing unit."
+                "Did you know that the first known 'apartment' buildings date back to ancient Rome?"
             ]
         },
-        "dwelling": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "An apartment is a type of dwelling."
+                "There's no specific smell associated with 'apartment', but the scent of cooking, cleaning, or stale air can be noticeable."
             ]
         },
-        "complex": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "An apartment complex can contain multiple units."
+                "The physical sensation of moving furniture or decorating a new 'apartment' can be exciting and satisfying."
             ]
         },
-        "living": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "An apartment provides living space."
+                "The concept of 'apartment' can be connected to the idea of independence, privacy, and home."
             ]
         }
     }

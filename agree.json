@@ -2,61 +2,45 @@
     "english": {
         "word": "agree",
         "examples": [
-            "I agree with you.",
-            "Let's agree to disagree."
+            "I agree with your assessment of the situation.",
+            "Let's agree to disagree.",
+            "We need to agree on a plan before we start."
         ],
-        "part-of-speech": [
-            "verb"
+        "gender": [
+            "neuter"
         ],
-        "synotics": [
+        "trick-words": [
             "concur",
             "assent",
-            "accede",
-            "consent"
-        ],
-        "antonyms": [
-            "disagree",
-            "dissent",
-            "contradict"
-        ],
-        "related-words": [
-            "agreement",
-            "agreeable",
-            "agreeably"
+            "harmonize",
+            "accord",
+            "comply"
         ]
     },
-    "spanish": {
-        "word": "acuerdo",
+    "portuguese": {
+        "word": "concordar",
         "examples": [
-            "Estoy de acuerdo contigo.",
-            "Vamos a estar de acuerdo en no estar de acuerdo."
+            "Concordo com sua avaliação da situação.",
+            "Vamos concordar em discordar.",
+            "Precisamos concordar em um plano antes de começarmos."
         ],
-        "part-of-speech": [
-            "sustantivo"
+        "gender": [
+            "masculine"
         ],
-        "synotics": [
+        "trick-words": [
             "concordar",
-            "admitir",
-            "aceptar"
-        ],
-        "antonyms": [
-            "discrepar",
-            "no estar de acuerdo",
-            "contradecir"
-        ],
-        "related-words": [
-            "acuerdo",
+            "assentir",
+            "harmonizar",
             "acordar",
-            "acorde"
+            "cumprir"
         ]
     },
     "progress": {
-        "memory": 0.8,
-        "synonyms-memory": 0.7,
-        "antonyms-memory": 0.6
+        "memory": 0.2,
+        "gender-memory": 0.2
     },
     "type": [
-        "action"
+        "verb"
     ],
     "dates": {
         "discover-date": "",
@@ -64,46 +48,46 @@
         "last-reviewed": ""
     },
     "synotics": {
-        "happy": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "When everyone agrees, it's a great feeling."
+                "Why did the cookie go to the doctor? Because it was feeling crumbly! (I agree, that was a bad joke)"
             ]
         },
         "sad": {
             "user-made": [],
             "suggested": [
-                "I wish we could all just agree sometimes."
+                "The thought of not being able to agree with someone important in our lives can be disheartening."
             ]
         },
         "angry": {
             "user-made": [],
             "suggested": [
-                "Why can't you just agree with me for once?"
+                "It's frustrating when people don't want to listen or try to understand our point of view, even when we agree with them."
             ]
         },
         "surprising": {
             "user-made": [],
             "suggested": [
-                "It's surprising when people from different backgrounds can agree on something."
+                "Did you know that agreeing with someone can actually strengthen the connection and trust in a relationship?"
             ]
         },
-        "annoyed": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "It's so annoying when people just agree to avoid conflict."
+                "There's no specific smell associated with 'agree', but the scent of understanding and compromise can be comforting."
             ]
         },
-        "relieved": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "I'm so relieved we finally agree on this."
+                "The physical sensation of nodding in agreement or shaking hands can be a sign of mutual respect."
             ]
         },
-        "proud": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "I'm proud of us for being able to agree despite our differences."
+                "Agreeing with someone can provide a sense of unity, cooperation, and harmony."
             ]
         }
     }

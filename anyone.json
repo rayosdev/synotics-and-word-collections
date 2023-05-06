@@ -2,8 +2,9 @@
     "english": {
         "word": "anyone",
         "examples": [
-            "Anyone can learn to code with enough practice.",
-            "Is anyone going to the party tonight?"
+            "Is anyone there?",
+            "Anyone can learn to code with practice.",
+            "I don't trust anyone in this town."
         ],
         "gender": [
             "neuter"
@@ -11,31 +12,32 @@
         "trick-words": [
             "somebody",
             "everyone",
-            "nobody",
-            "some",
-            "any"
+            "no one",
+            "anybody",
+            "someone"
         ]
     },
     "portuguese": {
-        "word": "alguém",
+        "word": "qualquer pessoa",
         "examples": [
-            "Qualquer um pode aprender a programar com prática suficiente.",
-            "Alguém vai à festa hoje à noite?"
+            "Tem alguém aí?",
+            "Qualquer pessoa pode aprender a programar com prática.",
+            "Eu não confio em ninguém nesta cidade."
         ],
         "gender": [
-            "masculine"
+            "feminine"
         ],
         "trick-words": [
             "alguém",
+            "todo mundo",
             "ninguém",
-            "algum",
-            "qualquer",
-            "todo"
+            "qualquer um",
+            "alguém"
         ]
     },
     "progress": {
-        "memory": 0.5,
-        "gender-memory": 0.5
+        "memory": 0.3,
+        "gender-memory": 0.3
     },
     "type": [
         "pronoun"
@@ -46,46 +48,46 @@
         "last-reviewed": ""
     },
     "synotics": {
-        "everyone": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "Everyone is welcome."
+                "Why did the potato decide to become a DJ? Because anyone can mash-up music!"
             ]
         },
-        "somebody": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "Somebody left their bag here, is it yours?"
+                "The thought of feeling alone or disconnected from anyone can be disheartening."
             ]
         },
-        "somebody": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "Somebody must have eaten the last piece of cake."
+                "It's frustrating when anyone makes assumptions or judgments about us without knowing our full story."
             ]
         },
-        "anybody": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "Does anybody have a pen I can borrow?"
+                "Did you know that anyone can learn a new skill or pursue a passion, regardless of age or background?"
             ]
         },
-        "someone": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "Someone is knocking at the door."
+                "There's no specific smell associated with 'anyone', but the scent of acceptance and inclusion can be comforting."
             ]
         },
-        "anybody": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "Does anybody know the answer to this question?"
+                "The physical sensation of being hugged or held by anyone can be a sign of love and support."
             ]
         },
-        "everybody": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "Everybody loves a good joke."
+                "The concept of anyone can be connected to the idea of community, diversity, and belonging."
             ]
         }
     }

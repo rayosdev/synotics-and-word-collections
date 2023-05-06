@@ -2,40 +2,42 @@
     "english": {
         "word": "always",
         "examples": [
-            "She always wakes up early.",
-            "He always keeps his promises."
+            "She always arrives early to meetings.",
+            "I will always be there for you.",
+            "He is always complaining about something."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
-            "constantly",
             "forever",
+            "constantly",
+            "continuously",
             "eternally",
-            "perpetually",
-            "incessantly"
+            "perpetually"
         ]
     },
     "portuguese": {
         "word": "sempre",
         "examples": [
-            "Ela sempre acorda cedo.",
-            "Ele sempre cumpre suas promessas."
+            "Ela sempre chega cedo às reuniões.",
+            "Eu sempre estarei lá para você.",
+            "Ele está sempre reclamando de algo."
         ],
         "gender": [
             "masculine"
         ],
         "trick-words": [
-            "sempre",
-            "eternamente",
+            "para sempre",
             "constantemente",
-            "incessantemente",
+            "continuamente",
+            "eternamente",
             "perpetuamente"
         ]
     },
     "progress": {
-        "memory": 0.6,
-        "gender-memory": 0.7
+        "memory": 0.2,
+        "gender-memory": 0.2
     },
     "type": [
         "adverb"
@@ -46,46 +48,46 @@
         "last-reviewed": ""
     },
     "synotics": {
-        "happy": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "Always look on the bright side of life!"
+                "Why don't scientists trust atoms? Because they make up everything! (Always gets a chuckle out of me)"
             ]
         },
         "sad": {
             "user-made": [],
             "suggested": [
-                "Why does it always rain on me?"
+                "The thought of always feeling alone or misunderstood can be disheartening."
             ]
         },
-        "frustrated": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "It always seems like things never go my way."
+                "It's frustrating when we always repeat the same mistakes or fall into negative patterns."
             ]
         },
-        "hopeful": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "Always believe that something wonderful is about to happen."
+                "Did you know that the word 'always' comes from the Old English phrase ealne weg, which means 'all the way'?"
             ]
         },
-        "reliable": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "You can always count on me."
+                "There's no specific smell associated with 'always', but the scent of familiarity and consistency can be comforting."
             ]
         },
-        "enduring": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "Love always finds a way."
+                "The physical sensation of always having someone's back or holding their hand can be a sign of loyalty and devotion."
             ]
         },
-        "constant": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "The only thing that is always true is change."
+                "The concept of always can be connected to the idea of commitment, dedication, and perseverance."
             ]
         }
     }

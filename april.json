@@ -1,36 +1,43 @@
 {
     "english": {
-        "word": "April",
+        "word": "april",
         "examples": [
-            "April showers bring May flowers.",
-            "My birthday is in April."
+            "My birthday is in April.",
+            "April is the fourth month of the year.",
+            "It rained a lot in April."
         ],
-        "origin": "From Latin 'Aprillis' meaning 'to open', possibly referring to the opening of buds and blossoms in spring.",
+        "gender": [
+            "neuter"
+        ],
         "trick-words": [
-            "May",
-            "June",
-            "July",
-            "August",
-            "September"
+            "spring",
+            "Easter",
+            "showers",
+            "blossoms",
+            "renewal"
         ]
     },
-    "spanish": {
+    "portuguese": {
         "word": "abril",
         "examples": [
-            "Abril es el cuarto mes del año.",
-            "En abril comienza la primavera."
+            "Meu aniversário é em abril.",
+            "Abril é o quarto mês do ano.",
+            "Choveu muito em abril."
         ],
-        "origin": "Del latín 'Aprillis', que significa 'abrir', posiblemente haciendo referencia a la apertura de los brotes y las flores en primavera.",
+        "gender": [
+            "masculine"
+        ],
         "trick-words": [
-            "mayo",
-            "junio",
-            "julio",
-            "agosto",
-            "septiembre"
+            "primavera",
+            "Páscoa",
+            "chuvas",
+            "florescimento",
+            "renovação"
         ]
     },
     "progress": {
-        "memory": 0.3
+        "memory": 0.1,
+        "gender-memory": 0.1
     },
     "type": [
         "noun"
@@ -41,40 +48,46 @@
         "last-reviewed": ""
     },
     "synotics": {
-        "spring": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "April showers bring May flowers."
+                "Why do we tell jokes about Easter in April? Because April fools!"
             ]
         },
-        "month": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "April is the fourth month of the year."
+                "The thought of April showers and gray skies can be depressing."
             ]
         },
-        "taxes": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "In the US, tax day is usually on April 15th."
+                "It's frustrating when April brings unexpected tax bills and financial stress."
             ]
         },
-        "weather": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "April can be a rainy month."
+                "Did you know that April was named after the Greek goddess Aphrodite, who represented love, beauty, and fertility?"
             ]
         },
-        "Easter": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "Easter is often celebrated in April."
+                "The scent of fresh rain and blooming flowers can be associated with April."
             ]
         },
-        "renewal": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "April is a time of renewal and new beginnings."
+                "The physical sensation of the changing weather, from cold to warmer temperatures, can be felt in April."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "April can be connected to new beginnings, growth, and the renewal of nature."
             ]
         }
     }

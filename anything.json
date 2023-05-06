@@ -2,40 +2,42 @@
     "english": {
         "word": "anything",
         "examples": [
-            "You can ask me anything you want.",
-            "I'm not hungry, I'll eat anything."
+            "You can do anything if you put your mind to it.",
+            "I'm not afraid of anything.",
+            "Did anything interesting happen today?"
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
-            "everything",
             "something",
+            "everything",
             "nothing",
-            "anyone",
-            "anybody"
+            "whatever",
+            "whichever"
         ]
     },
     "portuguese": {
         "word": "qualquer coisa",
         "examples": [
-            "Você pode me perguntar qualquer coisa que quiser.",
-            "Não estou com fome, eu como qualquer coisa."
+            "Você pode fazer qualquer coisa se se concentrar nisso.",
+            "Eu não tenho medo de nada.",
+            "Aconteceu alguma coisa interessante hoje?"
         ],
         "gender": [
             "feminine"
         ],
         "trick-words": [
-            "tudo",
             "algo",
+            "tudo",
             "nada",
-            "qualquer um",
-            "qualquer pessoa"
+            "seja o que for",
+            "qualquer que"
         ]
     },
     "progress": {
-        "memory": 0.5,
-        "gender-memory": 0.5
+        "memory": 0.1,
+        "gender-memory": 0.1
     },
     "type": [
         "pronoun"
@@ -46,40 +48,46 @@
         "last-reviewed": ""
     },
     "synotics": {
-        "interesting": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "Anything can happen if you let it!"
+                "Why don't ants get sick? Because they have tiny ant-bodies! (Anything for a laugh, right?)"
             ]
         },
-        "hopeful": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "Anything is possible if you believe in yourself."
+                "The thought of feeling like we're not good enough for anything can be disheartening."
             ]
         },
-        "curious": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "Is there anything that you've always wanted to try but haven't yet?"
+                "It's frustrating when we feel like we can't do anything right, no matter how hard we try."
             ]
         },
-        "flexibility": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "Anything can be achieved with hard work and dedication."
+                "Did you know that the word 'anything' is often used to express freedom, possibility, and open-mindedness?"
             ]
         },
-        "uncertainty": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "Anything could happen in the future, so it's important to live in the present."
+                "There's no specific smell associated with 'anything', but the scent of curiosity and exploration can be exciting."
             ]
         },
-        "limitless": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "Anything is possible with an open mind and a willingness to learn."
+                "The physical sensation of trying anything new or taking risks can be a sign of courage and growth."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The concept of anything can be connected to the idea of creativity, innovation, and limitless potential."
             ]
         }
     }

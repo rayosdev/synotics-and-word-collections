@@ -1,54 +1,95 @@
 {
-	"english": {
-		"word": "all",
-		"examples": ["All the students in the class passed the exam.", "I have read all the books in the library."],
-		"gender": ["neuter"],
-		"trick-words": ["every", "each", "whole", "entire", "total"]
-	},
-	"portuguese": {
-		"word": "todos",
-		"examples": ["Todos os alunos da turma passaram no exame.", "Eu li todos os livros da biblioteca."],
-		"gender": ["masculine"],
-		"trick-words": ["cada", "inteiro", "completo", "total"]
-	},
-	"progress": {
-		"memory": 0.6,
-		"gender-memory": 0.4
-	},
-	"type": ["pronoun", "determiner"],
-	"dates": {
-		"discover-date": "",
-		"next-review": "",
-		"last-reviewed": ""
-	},
+    "english": {
+        "word": "all",
+        "examples": [
+            "All the students passed the test.",
+            "I want all of the cake.",
+            "He knows all the answers to the trivia questions."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "every",
+            "entire",
+            "whole",
+            "complete",
+            "total"
+        ]
+    },
+    "portuguese": {
+        "word": "todo",
+        "examples": [
+            "Todos os alunos passaram no teste.",
+            "Eu quero todo o bolo.",
+            "Ele sabe todas as respostas para as perguntas de trivia."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "cada",
+            "inteiro",
+            "todo",
+            "completo",
+            "total"
+        ]
+    },
+    "progress": {
+        "memory": 0.3,
+        "gender-memory": 0.3
+    },
+    "type": [
+        "determiner",
+        "pronoun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
     "synotics": {
-        "inclusive": {
+        "funny": {
             "user-made": [],
-            "suggested": ["Everybody", "Every single one", "Each and every", "The whole lot", "The entirety"]
+            "suggested": [
+                "Why don't scientists trust atoms? Because they make up everything! (All puns aside, that's a good one)"
+            ]
         },
-        "exhaustive": {
+        "sad": {
             "user-made": [],
-            "suggested": ["Everything", "The whole shebang", "The entire enchilada", "All things", "The whole kit and caboodle"]
+            "suggested": [
+                "The thought of feeling like all the odds are against us can be disheartening."
+            ]
         },
-        "universal": {
+        "angry": {
             "user-made": [],
-            "suggested": ["Everywhere", "At all times", "All over the place", "In every instance", "In every case"]
+            "suggested": [
+                "It's frustrating when all our hard work goes unnoticed or unappreciated."
+            ]
         },
-        "omnipresent": {
+        "surprising": {
             "user-made": [],
-            "suggested": ["Ubiquitous", "Ever-present", "All-encompassing", "All-pervading", "All-embracing"]
+            "suggested": [
+                "Did you know that the word 'all' comes from the Old English word eall, which means 'the whole quantity or extent'?"
+            ]
         },
-        "totality": {
+        "smell": {
             "user-made": [],
-            "suggested": ["The whole", "The totality", "The entirety", "The aggregate", "The sum total"]
+            "suggested": [
+                "There's no specific smell associated with 'all', but the scent of completeness and satisfaction can be comforting."
+            ]
         },
-        "completely": {
+        "touch": {
             "user-made": [],
-            "suggested": ["Wholly", "Entirely", "Fully", "Absolutely", "Totally"]
+            "suggested": [
+                "The physical sensation of holding all the cards or having all the answers can be a sign of power and control."
+            ]
         },
-        "every": {
+        "connection": {
             "user-made": [],
-            "suggested": ["Each", "Every single", "All the", "The whole", "The entire"]
+            "suggested": [
+                "The concept of all can be connected to the idea of inclusivity, unity, and wholeness."
+            ]
         }
     }
 }

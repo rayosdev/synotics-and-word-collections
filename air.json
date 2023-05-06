@@ -2,40 +2,42 @@
     "english": {
         "word": "air",
         "examples": [
-            "The air was thick with smoke.",
-            "She opened the window to let in some fresh air."
+            "I opened the window to let in some fresh air.",
+            "The plane was flying through the air.",
+            "He has an air of confidence about him."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
             "atmosphere",
-            "oxygen",
             "breath",
             "wind",
-            "ventilation"
+            "ventilation",
+            "aeration"
         ]
     },
     "portuguese": {
         "word": "ar",
         "examples": [
-            "O ar estava carregado de fumaça.",
-            "Ela abriu a janela para deixar entrar um pouco de ar fresco."
+            "Eu abri a janela para deixar entrar um pouco de ar fresco.",
+            "O avião estava voando pelo ar.",
+            "Ele tem um ar de confiança."
         ],
         "gender": [
             "masculine"
         ],
         "trick-words": [
             "atmosfera",
-            "oxigênio",
             "respiração",
             "vento",
-            "ventilação"
+            "ventilação",
+            "aeração"
         ]
     },
     "progress": {
-        "memory": 0.5,
-        "gender-memory": 0.5
+        "memory": 0.3,
+        "gender-memory": 0.3
     },
     "type": [
         "noun"
@@ -46,52 +48,46 @@
         "last-reviewed": ""
     },
     "synotics": {
-        "quality": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "Fresh air",
-                "Clean air",
-                "Polluted air"
+                "Why did the balloon go near the needle? To get some air! (Air-ly hilarious, isn't it?)"
             ]
         },
-        "movement": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "Air currents",
-                "Airflow",
-                "Air pressure"
+                "The thought of polluted air and its effects on our health and environment can be disheartening."
             ]
         },
-        "vacation": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "Air travel",
-                "Airline tickets",
-                "Airports"
+                "It's frustrating when we can't breathe properly or have to endure smoggy, suffocating air."
             ]
         },
-        "breath": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "Take a deep breath of fresh air",
-                "Breathe in the crisp air",
-                "Hold your breath underwater"
+                "Did you know that the air we breathe is actually a mixture of several gases, including oxygen, nitrogen, and carbon dioxide?"
             ]
         },
-        "music": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "Air guitar",
-                "Air drums",
-                "Air piano"
+                "There's no specific smell associated with 'air', but the scent of fresh, clean air can be refreshing and invigorating."
             ]
         },
-        "space": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "Airplane cabin",
-                "Airlock",
-                "Airship"
+                "The physical sensation of the wind blowing through your hair or the feeling of buoyancy while swimming in the air can be a sign of freedom and weightlessness."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The concept of air can be connected to the idea of life, breath, and energy."
             ]
         }
     }

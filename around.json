@@ -2,113 +2,93 @@
     "english": {
         "word": "around",
         "examples": [
-            "He walked around the block.",
-            "I'll be around if you need me."
+            "I like to walk around the park in the morning.",
+            "The meeting will be around 2pm.",
+            "He looked around the room, searching for his keys."
         ],
-        "part-of-speech": [
-            "adverb",
-            "preposition"
+        "gender": [
+            "neuter"
         ],
-        "synotics": [
+        "trick-words": [
             "about",
             "approximately",
-            "nearly",
-            "roughly",
-            "circa"
-        ],
-        "antonyms": [
-            "direct",
-            "straight"
-        ],
-        "trick-words": [
+            "near",
             "surrounding",
-            "encircling",
-            "encompassing",
-            "peripheral",
-            "ambient"
+            "encircling"
         ]
     },
-    "spanish": {
-        "word": "alrededor",
+    "portuguese": {
+        "word": "ao redor",
         "examples": [
-            "Caminó alrededor de la manzana.",
-            "Estaré por aquí si me necesitas."
+            "Eu gosto de caminhar ao redor do parque de manhã.",
+            "A reunião será por volta das 14h.",
+            "Ele olhou ao redor do quarto, procurando suas chaves."
         ],
-        "part-of-speech": [
-            "adverbio",
-            "preposición"
-        ],
-        "synotics": [
-            "aproximadamente",
-            "casi",
-            "cerca",
-            "alrededores",
-            "en torno a"
-        ],
-        "antonyms": [
-            "directo",
-            "recto"
+        "gender": [
+            "neuter"
         ],
         "trick-words": [
+            "sobre",
+            "aproximadamente",
+            "próximo",
             "circundante",
-            "envolvente",
-            "abarcativo",
-            "periférico",
-            "ambiental"
+            "envolvendo"
         ]
     },
     "progress": {
-        "memory": 0.7
+        "memory": 0.4,
+        "gender-memory": 0.4
     },
     "type": [
-        "word"
+        "adverb",
+        "preposition"
     ],
     "dates": {
-        "discover-date": "before 900 AD",
-        "next-review": "2024-05-01",
-        "last-reviewed": "2022-05-01"
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
     },
     "synotics": {
-        "about": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "Let's talk about what's been going on around here."
+                "Why do elephants never use computers? Because they're afraid of mice 'around' them! (Around the corner, get it?)"
             ]
         },
-        "nearby": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "There's a great restaurant around the corner."
+                "The thought of being stuck in the same routine or environment 'around' can be depressing."
             ]
         },
-        "surrounding": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "The landscape around the mountain is breathtaking."
+                "It's frustrating when people invade our personal space or act 'around' us in a disrespectful way."
             ]
         },
-        "encircling": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "The belt around my waist is too tight."
+                "Did you know that the word 'around' can be used to indicate location, proximity, or circumnavigation?"
             ]
         },
-        "approximate": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "I'll be around noon to pick you up."
+                "There's no specific smell associated with 'around', but the scent of something nearby or familiar can be comforting."
             ]
         },
-        "present": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "I'm always around if you need me."
+                "The physical sensation of walking 'around' a new city or object can be a sign of exploration and discovery."
             ]
         },
-        "available": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "Is there anyone around who can give me a ride?"
+                "The concept of 'around' can be connected to the idea of movement, change, and connection."
             ]
         }
     }

@@ -2,108 +2,93 @@
     "english": {
         "word": "away",
         "examples": [
-            "Please take your shoes off before you come in; you don't want to track dirt away.",
-            "I'm sorry, but I can't come to the phone right now - I'm away from my desk."
+            "She is away on vacation.",
+            "He threw the ball away.",
+            "The cat ran away from the dog."
         ],
-        "part-of-speech": [
-            "adverb"
+        "gender": [
+            "neuter"
         ],
-        "synotics": [
+        "trick-words": [
+            "off",
             "gone",
             "absent",
-            "missing",
-            "not here"
-        ],
-        "antonyms": [
-            "here",
-            "present"
-        ],
-        "trick-words": [
-            "apart",
-            "afar",
-            "abroad",
-            "far",
-            "off"
+            "distant",
+            "separated"
         ]
     },
-    "spanish": {
-        "word": "lejos",
+    "portuguese": {
+        "word": "longe",
         "examples": [
-            "Por favor, quítate los zapatos antes de entrar; no quieres dejar rastro de suciedad lejos.",
-            "Lo siento, pero no puedo contestar ahora - estoy lejos de mi escritorio."
+            "Ela está longe de férias.",
+            "Ele jogou a bola para longe.",
+            "O gato fugiu do cachorro."
         ],
-        "part-of-speech": [
-            "adverbio"
-        ],
-        "synotics": [
-            "ausente",
-            "desaparecido",
-            "no aquí"
-        ],
-        "antonyms": [
-            "aquí",
-            "presente"
+        "gender": [
+            "masculine",
+            "feminine"
         ],
         "trick-words": [
-            "separado",
-            "fuera",
-            "en otro país",
             "distante",
-            "alejado"
+            "ausente",
+            "afastado",
+            "partido",
+            "separado"
         ]
     },
     "progress": {
-        "memory": 0.7
+        "memory": 0.5,
+        "gender-memory": 0.5
     },
     "type": [
-        "word"
+        "adverb"
     ],
     "dates": {
-        "discover-date": "before 900",
-        "last-reviewed": "2022-04-29",
-        "next-review": "2023-10-29"
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
     },
     "synotics": {
-        "leaving": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "I'm going away for the weekend."
+                "Why did the chicken cross the road? To get away from Colonel Sanders!"
             ]
         },
-        "gone": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "The kids are away at camp."
+                "The idea of being 'away' from loved ones or familiar places can be lonely and isolating."
             ]
         },
-        "distance": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "The mountains are far away in the distance."
+                "It's frustrating when someone promises to be there for you, but then they suddenly go 'away' and leave you hanging."
             ]
         },
-        "absent": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "The boss is away on vacation."
+                "Did you know that the word 'away' is derived from the Old English word 'onweg', which means 'on the way'?"
             ]
         },
-        "remote": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "The cabin in the woods is far away from civilization."
+                "There's no specific smell associated with 'away', but the scent of a particular place or environment can be missed when you're 'away' from it."
             ]
         },
-        "unavailable": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "I'm sorry, she's away from her desk at the moment."
+                "There's no physical sensation associated with 'away', but the feeling of missing someone or something can be palpable."
             ]
         },
-        "separation": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "The river is a long way away from here."
+                "The concept of 'away' can be connected to the idea of distance, separation, and the longing for closeness."
             ]
         }
     }

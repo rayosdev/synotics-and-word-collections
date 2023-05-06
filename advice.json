@@ -2,8 +2,9 @@
     "english": {
         "word": "advice",
         "examples": [
-            "I need some advice on how to proceed with my project.",
-            "Thanks for the advice, I'll take it into consideration."
+            "Can you give me some advice on how to study for this test?",
+            "I followed his advice and it worked out well.",
+            "She always gives good advice."
         ],
         "gender": [
             "neuter"
@@ -16,26 +17,27 @@
             "tip"
         ]
     },
-    "spanish": {
-        "word": "consejo",
+    "portuguese": {
+        "word": "conselho",
         "examples": [
-            "Necesito un consejo sobre cómo proceder con mi proyecto.",
-            "Gracias por el consejo, lo tendré en cuenta."
+            "Você pode me dar algum conselho sobre como estudar para essa prova?",
+            "Segui o conselho dele e deu certo.",
+            "Ela sempre dá bons conselhos."
         ],
         "gender": [
             "masculine"
         ],
         "trick-words": [
-            "recomendación",
-            "orientación",
-            "asesoramiento",
-            "sugerencia",
-            "pista"
+            "recomendação",
+            "orientação",
+            "aconselhamento",
+            "sugestão",
+            "dica"
         ]
     },
     "progress": {
-        "memory": 0.4,
-        "gender-memory": 0.3
+        "memory": 0.1,
+        "gender-memory": 0.1
     },
     "type": [
         "noun"
@@ -46,46 +48,46 @@
         "last-reviewed": ""
     },
     "synotics": {
-        "helpful": {
-            "user-made": [],
-            "suggested": [
-                "Good advice is like a tightrope walker, it requires balance."
-            ]
-        },
         "funny": {
             "user-made": [],
             "suggested": [
-                "Advice is like snow, the softer it falls, the longer it dwells upon and the deeper it sinks into the mind."
+                "The best advice I ever got was to give out advice in a British accent because it sounds smarter."
             ]
         },
         "sad": {
             "user-made": [],
             "suggested": [
-                "The best advice I ever got was to stay single."
+                "I wish I had taken my grandmother's advice before she passed away."
             ]
         },
         "angry": {
             "user-made": [],
             "suggested": [
-                "Why do people ask for advice but never take it?"
+                "I'm angry at myself for not taking the advice of people who had more experience than me."
             ]
         },
         "surprising": {
             "user-made": [],
             "suggested": [
-                "The worst advice I ever got was to follow my dreams."
+                "Did you know that giving advice can actually be good for your health? A study found that people who gave advice had lower levels of stress hormones."
             ]
         },
-        "wise": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "The best advice is not to give advice."
+                "The smell of freshly brewed coffee while receiving advice from a mentor."
             ]
         },
-        "generic": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "The best advice is often the simplest: just be yourself."
+                "The feeling of a pat on the back after following someone's advice and succeeding."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Giving and receiving advice is a great way to connect with others and build relationships."
             ]
         }
     }

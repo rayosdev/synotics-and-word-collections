@@ -2,40 +2,42 @@
     "english": {
         "word": "arm",
         "examples": [
-            "He broke his arm playing football.",
-            "She had a tattoo on her arm."
+            "She injured her arm while playing tennis.",
+            "He put his arm around her shoulder.",
+            "The soldiers were armed with rifles."
         ],
         "gender": [
-            "masculine"
+            "neuter"
         ],
         "trick-words": [
-            "forearm",
-            "upper arm",
-            "shoulder",
-            "elbow",
-            "wrist"
+            "limb",
+            "appendage",
+            "weapon",
+            "forelimb",
+            "upper extremity"
         ]
     },
-    "spanish": {
-        "word": "brazo",
+    "portuguese": {
+        "word": "braço",
         "examples": [
-            "Se fracturó el brazo jugando fútbol.",
-            "Tenía un tatuaje en el brazo."
+            "Ela se machucou o braço jogando tênis.",
+            "Ele colocou o braço em volta de seu ombro.",
+            "Os soldados estavam armados com rifles."
         ],
         "gender": [
             "masculine"
         ],
         "trick-words": [
-            "antebrazo",
-            "bíceps",
-            "hombro",
-            "codo",
-            "muñeca"
+            "membro",
+            "apêndice",
+            "arma",
+            "membro anterior",
+            "extremidade superior"
         ]
     },
     "progress": {
-        "memory": 0.7,
-        "gender-memory": 0.8
+        "memory": 0.4,
+        "gender-memory": 0.4
     },
     "type": [
         "noun"
@@ -46,46 +48,46 @@
         "last-reviewed": ""
     },
     "synotics": {
-        "limb": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "My arm is aching after that workout."
+                "Why did the tomato turn red? Because it saw the salad dressing! And if that didn't make you 'arm' with laughter, how about a silly pun about a sleeveless shirt?"
             ]
         },
-        "weapon": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "The gunman pointed his arm towards the store clerk."
+                "The thought of losing the use of one's 'arm' can be debilitating and life-changing."
             ]
         },
-        "support": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "I need a strong arm to help me move this couch."
+                "It's frustrating when people use their 'arm' to physically harm others or as a symbol of power or aggression."
             ]
         },
-        "embrace": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "He wrapped his arms around her and pulled her close."
+                "Did you know that the human 'arm' has three major bones and can move in multiple directions?"
             ]
         },
-        "military": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "She's currently serving in the army, but hopes to be discharged as soon as her arm heals."
+                "There's no specific smell associated with 'arm', but the scent of sweat or lotion can be noticeable."
             ]
         },
-        "measurement": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "He measured the room's width by extending his arms."
+                "The physical sensation of having someone's 'arm' around you can be comforting and reassuring."
             ]
         },
-        "control": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "The company has a strong arm in the market, thanks to its innovative products."
+                "The concept of 'arm' can be connected to the idea of strength, protection, and physicality."
             ]
         }
     }

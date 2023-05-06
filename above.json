@@ -1,44 +1,47 @@
 {
     "english": {
-        "word": "advice",
+        "word": "above",
         "examples": [
-            "I need some advice on how to study for the exam.",
-            "She gave me some great advice about starting my own business."
+            "The sun is above the horizon.",
+            "The bird flew above the trees.",
+            "She hung a picture above the couch."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
-            "recommendation",
-            "counsel",
-            "guidance",
-            "suggestion",
-            "tip"
+            "over",
+            "up",
+            "on top of",
+            "higher than",
+            "superior"
         ]
     },
-    "german": {
-        "word": "Rat",
+    "portuguese": {
+        "word": "acima",
         "examples": [
-            "Ich brauche einen Rat, wie ich für die Prüfung lernen kann.",
-            "Sie gab mir einen tollen Rat, wie ich mein eigenes Geschäft gründen kann."
+            "O sol está acima do horizonte.",
+            "O pássaro voou acima das árvores.",
+            "Ela pendurou um quadro acima do sofá."
         ],
         "gender": [
-            "masculine"
+            "masculine",
+            "feminine"
         ],
         "trick-words": [
-            "Empfehlung",
-            "Beratung",
-            "Anleitung",
-            "Vorschlag",
-            "Tipp"
+            "sobre",
+            "em cima de",
+            "superior a",
+            "mais alto que",
+            "superior"
         ]
     },
     "progress": {
-        "memory": 0.5,
-        "gender-memory": 0.5
+        "memory": 0.4,
+        "gender-memory": 0.4
     },
     "type": [
-        "noun"
+        "preposition"
     ],
     "dates": {
         "discover-date": "",
@@ -49,43 +52,43 @@
         "funny": {
             "user-made": [],
             "suggested": [
-                "Why did the computer go to the doctor? Because it had a virus and needed some byte-sized advice."
+                "Why did the math book look sad? Because it had too many problems...but don't worry, we're 'above' that!"
             ]
         },
         "sad": {
             "user-made": [],
             "suggested": [
-                "I wish I had listened to my father's advice before he passed away. Now I have to navigate life's challenges without his guidance."
+                "The idea of something being 'above' us can feel overwhelming or unattainable, especially if we're struggling to reach it."
             ]
         },
         "angry": {
             "user-made": [],
             "suggested": [
-                "I can't believe my friend ignored my advice and now they're in a mess. They never listen to me when I try to help."
+                "It can be frustrating when someone is condescending or speaks 'above' you, as if they're superior or know more than you do."
             ]
         },
         "surprising": {
             "user-made": [],
             "suggested": [
-                "Did you know that ancient Egyptians used to give advice to the dead by writing it on papyrus and placing it in the coffin?"
+                "Did you know that the word 'above' is one of the most commonly used prepositions in the English language?"
             ]
         },
         "smell": {
             "user-made": [],
             "suggested": [
-                "The smell of the old leather-bound books in the library that contain advice from generations past."
+                "There's no specific smell associated with 'above', but the scent of something high up or in the air, like a bird or a plane, can be evocative of the concept."
             ]
         },
         "touch": {
             "user-made": [],
             "suggested": [
-                "The feeling of the smooth pen in your hand as you write down someone's wise advice in your notebook."
+                "There's no physical sensation associated with 'above', but the feeling of looking up or reaching for something can be powerful."
             ]
         },
         "connection": {
             "user-made": [],
             "suggested": [
-                "Sharing advice with others and feeling a sense of connection as you help them navigate life's challenges."
+                "The concept of 'above' can be connected to the ideas of aspiration, inspiration, and the pursuit of something greater than ourselves."
             ]
         }
     }
