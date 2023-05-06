@@ -1,0 +1,56 @@
+{
+	"english": {
+		"word": "boot",
+		"examples": ["I need to buy a new pair of boots for hiking.", "The cowboy wore tall, leather boots with pointed toes."],
+		"gender": ["neuter"],
+		"trick-words": ["shoe", "sandal", "sneaker", "slipper", "footwear"]
+	},
+	"spanish": {
+		"word": "bota",
+		"examples": ["Necesito comprar un par de botas nuevas para hacer senderismo.", "El vaquero llevaba botas altas de cuero con puntas afiladas."],
+		"gender": ["feminine"],
+		"trick-words": ["zapato", "sandalia", "zapatilla", "pantufla", "calzado"]
+	},
+	"progress": {
+		"memory": 0.6,
+		"gender-memory": 0.4
+	},
+	"type": ["noun"],
+	"dates": {
+		"discover-date": "10th century",
+		"next-review": "2024-05-10",
+		"last-reviewed": "2022-05-10"
+	},
+
+        "synonyms": {
+            "footwear": {
+                "user-made": [],
+                "suggested": ["The cowboy put on his boots before heading out to the rodeo."]
+            },
+            "trunk": {
+                "user-made": [],
+                "suggested": ["We had to open the trunk of the car to get our boots."]
+            },
+            "kick": {
+                "user-made": [],
+                "suggested": ["I had to use my boot to kick the door open."]
+            },
+            "military": {
+                "user-made": [],
+                "suggested": ["The soldiers polished their boots until they shone."]
+            },
+            "protective": {
+                "user-made": [],
+                "suggested": ["She wore her boots to protect her feet during the hike."]
+            },
+            "fashion": {
+                "user-made": [],
+                "suggested": ["She paired her dress with a cute pair of ankle boots."]
+            },
+            "hiking": {
+                "user-made": [],
+                "suggested": ["The boots had good grip for hiking in the mountains."]
+            }
+        }
+    }
+    

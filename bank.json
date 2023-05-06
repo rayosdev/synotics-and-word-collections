@@ -1,0 +1,56 @@
+{
+	"english": {
+		"word": "bank",
+		"examples": ["I need to go to the bank to deposit this check.", "The river bank was lined with willow trees."],
+		"gender": ["neuter"],
+		"trick-words": ["financial institution", "financial organization", "riverbank", "shore", "embankment"]
+	},
+	"portuguese": {
+		"word": "banco",
+		"examples": ["Preciso ir ao banco para depositar este cheque.", "A margem do rio estava alinhada com árvores de salgueiro."],
+		"gender": ["masculine"],
+		"trick-words": ["instituição financeira", "organização financeira", "margem do rio", "costa", "terraplenagem"]
+	},
+	"progress": {
+		"memory": 0.6,
+		"gender-memory": 0.4
+	},
+	"type": ["noun"],
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+    
+        "synonyms": {
+            "money": {
+                "user-made": [],
+                "suggested": ["I need to go to the bank to withdraw some money."]
+            },
+            "river": {
+                "user-made": [],
+                "suggested": ["The bank of the river was covered in lush green vegetation."]
+            },
+            "building": {
+                "user-made": [],
+                "suggested": ["The bank has a beautiful and imposing building downtown."]
+            },
+            "saving": {
+                "user-made": [],
+                "suggested": ["It's always good to have a savings account in the bank."]
+            },
+            "investing": {
+                "user-made": [],
+                "suggested": ["Investing in stocks and bonds through the bank is a smart move."]
+            },
+            "trust": {
+                "user-made": [],
+                "suggested": ["You can trust the bank with your money."]
+            },
+            "loan": {
+                "user-made": [],
+                "suggested": ["The bank approved my loan application."]
+            }
+        }
+    }
+    

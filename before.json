@@ -1,0 +1,55 @@
+{
+    "english": {
+        "word": "before",
+        "examples": ["I must finish this task before I can relax.", "The sun rose before the moon set."],
+        "part-of-speech": ["adverb", "preposition", "conjunction"],
+        "trick-words": ["prior to", "preceding", "in front of", "ahead of", "formerly"]
+    },
+    "spanish": {
+        "word": "antes",
+        "examples": ["Debo terminar esta tarea antes de poder relajarme.", "El sol salió antes de que la luna se pusiera."],
+        "part-of-speech": ["adverbio", "preposición", "conjunción"],
+        "trick-words": ["previo a", "anterior", "delante de", "por delante de", "anteriormente"]
+    },
+    "progress": {
+        "memory": 0.6,
+        "part-of-speech-memory": 0.4
+    },
+    "type": ["adverb", "preposition", "conjunction"],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+        "synonyms": {
+            "past": {
+                "user-made": [],
+                "suggested": ["Before the invention of the printing press, books had to be handwritten."]
+            },
+            "anticipation": {
+                "user-made": [],
+                "suggested": ["I'm so excited for the concert tomorrow! I can't wait for the band to come out and start playing. It's going to be even better than before!"]
+            },
+            "time": {
+                "user-made": [],
+                "suggested": ["I'll meet you at the coffee shop at 4:00, just like we arranged before."]
+            },
+            "rank": {
+                "user-made": [],
+                "suggested": ["She's always been my friend before anything else."]
+            },
+            "position": {
+                "user-made": [],
+                "suggested": ["The runner finished the race before the others, and was declared the winner."]
+            },
+            "importance": {
+                "user-made": [],
+                "suggested": ["You need to fill out the form before you can attend the event."]
+            },
+            "preceding": {
+                "user-made": [],
+                "suggested": ["The storm clouds rolled in before the rain started."]
+            }
+        }
+    }
+    

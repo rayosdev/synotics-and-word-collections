@@ -1,0 +1,56 @@
+{
+    "english": {
+      "word": "bed",
+      "examples": ["I like to read in bed before I go to sleep.", "He spent the whole day in bed because he was sick."],
+      "gender": ["neuter"],
+      "trick-words": ["mattress", "cot", "bunk", "sleeping bag", "bedding"]
+    },
+    "spanish": {
+      "word": "cama",
+      "examples": ["Me gusta leer en la cama antes de dormir.", "Pasó todo el día en la cama porque estaba enfermo."],
+      "gender": ["feminine"],
+      "trick-words": ["colchón", "litera", "catre", "edredón", "sábanas"]
+    },
+    "progress": {
+      "memory": 0.7,
+      "gender-memory": 0.6
+    },
+    "type": ["noun"],
+    "dates": {
+      "discover-date": "",
+      "next-review": "",
+      "last-reviewed": ""
+    },
+        "synonyms": {
+            "comfortable": {
+                "user-made": [],
+                "suggested": ["A bed that feels like sleeping on a cloud."]
+            },
+            "relaxation": {
+                "user-made": [],
+                "suggested": ["The feeling of sinking into a soft and cozy bed after a long day."]
+            },
+            "restful": {
+                "user-made": [],
+                "suggested": ["A bed that promotes restful and uninterrupted sleep."]
+            },
+            "luxurious": {
+                "user-made": [],
+                "suggested": ["A king-sized bed with plush bedding and pillows."]
+            },
+            "dreams": {
+                "user-made": [],
+                "suggested": ["A place where dreams are made and where the day's worries disappear."]
+            },
+            "warmth": {
+                "user-made": [],
+                "suggested": ["The warmth and comfort of snuggling up in a cozy bed on a cold night."]
+            },
+            "sanctuary": {
+                "user-made": [],
+                "suggested": ["A personal sanctuary and escape from the stresses of the outside world."]
+            }
+        }
+    }
+    
+  

@@ -1,0 +1,90 @@
+{
+    "english": {
+        "word": "bird",
+        "examples": [
+            "I heard a bird singing outside my window this morning.",
+            "The robin is a common garden bird in the UK."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "feathered friend",
+            "fowl",
+            "avian",
+            "winged creature"
+        ]
+    },
+    "spanish": {
+        "word": "pájaro",
+        "examples": [
+            "Oí un pájaro cantando fuera de mi ventana esta mañana.",
+            "El jilguero es un pájaro común en los jardines de España."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "ave",
+            "pluma",
+            "alas",
+            "pajarillo"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "c. 1200",
+        "next-review": "2024-06-01",
+        "last-reviewed": "2022-12-01"
+    },
+    "synonyms": {
+        "flight": {
+            "user-made": [],
+            "suggested": [
+                "Watching a bird take flight is a truly mesmerizing sight."
+            ]
+        },
+        "singing": {
+            "user-made": [],
+            "suggested": [
+                "Birds singing in the morning is a beautiful way to start the day."
+            ]
+        },
+        "freedom": {
+            "user-made": [],
+            "suggested": [
+                "Birds symbolize freedom because they can fly wherever they want."
+            ]
+        },
+        "feathers": {
+            "user-made": [],
+            "suggested": [
+                "The feathers of a bird are incredibly intricate and beautiful."
+            ]
+        },
+        "nest": {
+            "user-made": [],
+            "suggested": [
+                "A bird's nest is a remarkable feat of architecture."
+            ]
+        },
+        "migration": {
+            "user-made": [],
+            "suggested": [
+                "The migration of birds across the world is a testament to their endurance and strength."
+            ]
+        },
+        "intelligence": {
+            "user-made": [],
+            "suggested": [
+                "Birds are surprisingly intelligent animals, capable of solving complex problems."
+            ]
+        }
+    }
+}

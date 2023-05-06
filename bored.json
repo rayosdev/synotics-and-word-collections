@@ -1,0 +1,61 @@
+{
+	"english": {
+		"word": "bored",
+		"examples": ["I'm so bored. There's nothing to do.", "She looked bored during the meeting."],
+		"part-of-speech": "adjective",
+		"synonyms": ["uninterested", "disinterested", "indifferent", "apathetic"],
+		"antonyms": ["interested", "enthusiastic"],
+		"related-words": ["boredom", "bore", "boring"],
+		"trick-words": ["board", "border"]
+	},
+	"portuguese": {
+		"word": "entediado",
+		"examples": ["Estou tão entediado. Não há nada para fazer.", "Ela parecia entediada durante a reunião."],
+		"part-of-speech": "adjetivo",
+		"synonyms": ["desinteressado", "indiferente", "apatia"],
+		"antonyms": ["interessado", "entusiasmado"],
+		"related-words": ["tédio", "enfadonho", "enfadado"],
+		"trick-words": ["entendido", "enfadado"]
+	},
+	"progress": {
+		"memory": 0.7,
+		"synonym-memory": 0.5,
+		"antonym-memory": 0.5
+	},
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+        "synonyms": {
+            "funny": {
+                "user-made": [],
+                "suggested": ["Why did the bored person go to bed? Because they were board."]
+            },
+            "sad": {
+                "user-made": [],
+                "suggested": ["Feeling bored can make you feel down and unmotivated."]
+            },
+            "angry": {
+                "user-made": [],
+                "suggested": ["I'm so bored! Why isn't anything exciting happening?"]
+            },
+            "surprising": {
+                "user-made": [],
+                "suggested": ["Feeling bored can lead to unexpected moments of creativity and inspiration."]
+            },
+            "music": {
+                "user-made": [],
+                "suggested": ["Listening to upbeat music can help shake off boredom and get you energized."]
+            },
+            "activities": {
+                "user-made": [],
+                "suggested": ["Trying new activities or hobbies is a great way to combat boredom and find new passions."]
+            },
+            "mindset": {
+                "user-made": [],
+                "suggested": ["Changing your mindset and looking at things from a different perspective can help turn boredom into opportunity."]
+            }
+        }
+    }
+    

@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "bottle",
+        "examples": [
+            "She filled up the bottle with water from the faucet.",
+            "The wine bottle was empty, so she opened another one."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "flask",
+            "jar",
+            "container",
+            "vessel",
+            "decanter"
+        ]
+    },
+    "spanish": {
+        "word": "botella",
+        "examples": [
+            "Ella llenó la botella con agua del grifo.",
+            "La botella de vino estaba vacía, así que abrió otra."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "frasco",
+            "envase",
+            "vasija",
+            "decantador",
+            "recipiente"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.7
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the soda bottle go to school? To get its fizz-ed-ucation!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The empty bottle on the side of the road made me feel sad for some reason."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I can't believe people still litter and leave their bottles everywhere."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the first glass bottle was invented over 1,500 years ago in Syria?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of wine when you open a bottle."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The smooth texture of a glass bottle."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The nostalgia of opening a bottle of soda with a bottle opener."
+            ]
+        }
+    }
+}

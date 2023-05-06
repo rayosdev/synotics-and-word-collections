@@ -1,0 +1,91 @@
+{
+    "english": {
+        "word": "answer",
+        "examples": [
+            "Can you answer the phone?",
+            "I don't know the answer to that question."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "reply",
+            "respond",
+            "solution",
+            "explanation",
+            "clarification"
+        ]
+    },
+    "spanish": {
+        "word": "respuesta",
+        "examples": [
+            "¿Puedes contestar el teléfono?",
+            "No sé la respuesta a esa pregunta."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "contestación",
+            "solución",
+            "explicación",
+            "aclaración"
+        ]
+    },
+    "progress": {
+        "memory": 0.6,
+        "gender-memory": 0.6
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "smart": {
+            "user-made": [],
+            "suggested": [
+                "The answer is staring you right in the face."
+            ]
+        },
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the student take a ladder to school? To get to the high school answers."
+            ]
+        },
+        "clever": {
+            "user-made": [],
+            "suggested": [
+                "He had all the answers before the test, but now he can't remember any of them."
+            ]
+        },
+        "helpful": {
+            "user-made": [],
+            "suggested": [
+                "The answer to the problem was found through collaboration."
+            ]
+        },
+        "mysterious": {
+            "user-made": [],
+            "suggested": [
+                "The answer lies within the ancient tome."
+            ]
+        },
+        "obvious": {
+            "user-made": [],
+            "suggested": [
+                "The answer is simple: just follow the instructions."
+            ]
+        },
+        "confusing": {
+            "user-made": [],
+            "suggested": [
+                "The answer only leads to more questions."
+            ]
+        }
+    }
+}

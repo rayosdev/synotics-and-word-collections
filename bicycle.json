@@ -1,0 +1,89 @@
+{
+    "english": {
+        "word": "bicycle",
+        "examples": [
+            "She rode her bicycle to the park.",
+            "He likes to take his bicycle on long rides."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "bike",
+            "cycle",
+            "two-wheeler",
+            "velocipede"
+        ]
+    },
+    "spanish": {
+        "word": "bicicleta",
+        "examples": [
+            "Ella fue en su bicicleta al parque.",
+            "A él le gusta llevar su bicicleta en paseos largos."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "bici",
+            "ciclo",
+            "vehículo de dos ruedas"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.6
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the bicycle fall over? Because it was two-tired."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "I rode my bicycle to work today, but then realized my bike was stolen by the end of the day."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do some cars refuse to share the road with bicycles? They're just being pedal-pushers."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the longest tandem bicycle in the world measured 20.03 m (65 ft 8 in) long and was built in the Netherlands?"
+            ]
+        },
+        "speed": {
+            "user-made": [],
+            "suggested": [
+                "The thrill of going fast down a hill on a bicycle."
+            ]
+        },
+        "exercise": {
+            "user-made": [],
+            "suggested": [
+                "Bicycling is a great way to get exercise and explore the outdoors."
+            ]
+        },
+        "freedom": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of freedom when cycling down a quiet road or trail."
+            ]
+        }
+    }
+}

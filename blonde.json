@@ -1,0 +1,110 @@
+{
+    "english": {
+        "word": "blonde",
+        "examples": [
+            "She dyed her hair blonde for the summer.",
+            "The little girl had curly blonde hair."
+        ],
+        "gender": [
+            "feminine",
+            "masculine"
+        ],
+        "trick-words": [
+            "yellow",
+            "golden",
+            "straw-colored",
+            "flaxen"
+        ]
+    },
+    "french": {
+        "word": "blonde",
+        "examples": [
+            "Elle a teint ses cheveux en blonde pour l'été.",
+            "Le petit garçon avait les cheveux blonds et bouclés."
+        ],
+        "gender": [
+            "feminine",
+            "masculine"
+        ],
+        "trick-words": [
+            "blond",
+            "blondin",
+            "doré",
+            "jaune pâle"
+        ]
+    },
+    "spanish": {
+        "word": "rubio",
+        "examples": [
+            "Se tiñó el pelo de rubio para el verano.",
+            "El niño pequeño tenía el pelo rubio y rizado."
+        ],
+        "gender": [
+            "masculine",
+            "feminine"
+        ],
+        "trick-words": [
+            "dorado",
+            "amarillo pálido",
+            "trigal",
+            "amarillento"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.6
+    },
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the blonde stare at the orange juice container? Because it said 'concentrate'."
+            ]
+        },
+        "flattering": {
+            "user-made": [],
+            "suggested": [
+                "She's not just a blonde, she's a blonde bombshell."
+            ]
+        },
+        "insulting": {
+            "user-made": [],
+            "suggested": [
+                "Why did the blonde climb up to the roof? She heard that the drinks were on the house."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that some blondes actually have a higher IQ than brunettes?"
+            ]
+        },
+        "beautiful": {
+            "user-made": [],
+            "suggested": [
+                "Her long blonde hair was like a ray of sunshine."
+            ]
+        },
+        "dumb": {
+            "user-made": [],
+            "suggested": [
+                "Why did the blonde put lipstick on her forehead? She was trying to make up her mind."
+            ]
+        },
+        "famous": {
+            "user-made": [],
+            "suggested": [
+                "Marilyn Monroe was one of the most famous blondes of all time."
+            ]
+        }
+    }
+}

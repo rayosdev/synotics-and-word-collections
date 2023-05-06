@@ -1,0 +1,106 @@
+{
+    "english": {
+        "word": "area",
+        "examples": [
+            "This park covers a large area of land.",
+            "The living area of the apartment is very spacious."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "region",
+            "zone",
+            "territory",
+            "district",
+            "locale"
+        ]
+    },
+    "spanish": {
+        "word": "área",
+        "examples": [
+            "Este parque cubre una gran área de terreno.",
+            "El área de estar del apartamento es muy espaciosa."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "zona",
+            "región",
+            "territorio",
+            "distrito",
+            "localidad"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.6
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synonyms": {
+        "large": {
+            "user-made": [],
+            "suggested": [
+                "expansive",
+                "spacious",
+                "vast"
+            ]
+        },
+        "small": {
+            "user-made": [],
+            "suggested": [
+                "compact",
+                "confined",
+                "tiny"
+            ]
+        },
+        "measurement": {
+            "user-made": [],
+            "suggested": [
+                "dimension",
+                "extent",
+                "size"
+            ]
+        },
+        "geography": {
+            "user-made": [],
+            "suggested": [
+                "region",
+                "territory",
+                "zone"
+            ]
+        },
+        "location": {
+            "user-made": [],
+            "suggested": [
+                "place",
+                "spot",
+                "site"
+            ]
+        },
+        "scope": {
+            "user-made": [],
+            "suggested": [
+                "extent",
+                "range",
+                "breadth"
+            ]
+        },
+        "field": {
+            "user-made": [],
+            "suggested": [
+                "domain",
+                "sphere",
+                "realm"
+            ]
+        }
+    }
+}
