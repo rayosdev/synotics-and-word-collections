@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "bread",
+        "examples": [
+            "I bought a loaf of bread from the bakery.",
+            "She made delicious sandwiches with fresh bread."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "loaf",
+            "loaf of bread",
+            "baked dough",
+            "grain-based food",
+            "sliced bread"
+        ]
+    },
+    "portuguese": {
+        "word": "pão",
+        "examples": [
+            "Eu comprei um pão na padaria.",
+            "Ela fez sanduíches deliciosos com pão fresco."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "pão",
+            "pãozinho",
+            "massa assada",
+            "alimento à base de grãos",
+            "pão fatiado"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the loaf of bread break up with the slice of cheese? It felt too crumby in that relationship!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes, the word 'bread' can remind us of times when we didn't have enough to eat or struggled to make ends meet."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do some people waste so much bread and not appreciate its value? It's so infuriating!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that bread has been a staple food in various cultures for thousands of years and comes in countless shapes, sizes, and flavors?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The comforting and inviting aroma of freshly baked bread, filling the kitchen or bakery with its delightful scent."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The tactile experience of feeling the softness, warmth, and texture of bread as you hold it, tear it, or bite into it."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Bread often symbolizes nourishment, sharing, and community, as it has been a fundamental part of meals and gatherings throughout history."
+            ]
+        }
+    }
+}

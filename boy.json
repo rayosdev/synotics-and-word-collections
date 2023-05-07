@@ -1,0 +1,55 @@
+{
+    "english": {
+        "word": "boy",
+        "examples": ["The boy is playing in the park.", "He is a clever and energetic boy."],
+        "gender": ["masculine"],
+        "trick-words": ["child", "youngster", "lad", "kid", "guy"]
+    },
+    "portuguese": {
+        "word": "menino",
+        "examples": ["O menino está brincando no parque.", "Ele é um menino esperto e enérgico."],
+        "gender": ["masculine"],
+        "trick-words": ["criança", "garoto", "rapazinho", "piá", "sujeito"]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": ["noun"],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+        "synotics": {
+            "funny": {
+                "user-made": [],
+                "suggested": ["Why did the boy bring a ladder to the bar? He heard the drinks were on the house!"]
+            },
+            "sad": {
+                "user-made": [],
+                "suggested": ["Sometimes, thinking about a lost or absent boy can bring up feelings of sadness and longing."]
+            },
+            "angry": {
+                "user-made": [],
+                "suggested": ["Why do some boys bully others and make them feel small? It's so frustrating and hurtful!"]
+            },
+            "surprising": {
+                "user-made": [],
+                "suggested": ["Did you know that boys typically have a slightly higher birth rate than girls?"]
+            },
+            "smell": {
+                "user-made": [],
+                "suggested": ["There's no specific smell associated with the word 'boy', but it can evoke memories of childhood and innocence."]
+            },
+            "touch": {
+                "user-made": [],
+                "suggested": ["The feeling of tousled hair, playful wrestling, or a warm hug from a boy, representing affection and care."]
+            },
+            "connection": {
+                "user-made": [],
+                "suggested": ["Boys can form strong connections with their family, friends, and community, bringing energy, curiosity, and joy to those around them."]
+            }
+        }
+    }
+    

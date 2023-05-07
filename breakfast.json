@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "breakfast",
+        "examples": [
+            "I usually have cereal for breakfast.",
+            "Let's meet for breakfast at the café."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "morning meal",
+            "first meal of the day",
+            "daybreak feast",
+            "AM nourishment",
+            "sunrise repast"
+        ]
+    },
+    "portuguese": {
+        "word": "café da manhã",
+        "examples": [
+            "Eu costumo tomar cereal no café da manhã.",
+            "Vamos nos encontrar para o café da manhã no café."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "refeição matinal",
+            "primeira refeição do dia",
+            "banquete matutino",
+            "alimentação matutina",
+            "repasto ao amanhecer"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the breakfast burrito win an award? It was egg-cellent!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes, the thought of breakfast can remind us of loved ones we used to share morning meals with."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do some people skip breakfast and then become grumpy and irritable? It's so frustrating!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that breakfast is often considered the most important meal of the day, as it provides energy and nutrients to start your morning?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The enticing aroma of freshly brewed coffee, sizzling bacon, or warm pastries associated with a delicious breakfast."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The tactile experience of cutting into a fluffy pancake, spreading butter on toast, or holding a warm mug of tea during breakfast."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Breakfast can be a time for connection with family or friends, as you gather together to enjoy a meal and start the day."
+            ]
+        }
+    }
+}

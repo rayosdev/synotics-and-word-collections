@@ -1,0 +1,96 @@
+{
+    "english": {
+        "word": "break",
+        "examples": [
+            "Take a break and relax.",
+            "I need a break from work."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "pause",
+            "rest",
+            "intermission",
+            "respite",
+            "time off"
+        ]
+    },
+    "portuguese": {
+        "word": "pausa",
+        "examples": [
+            "Faça uma pausa e relaxe.",
+            "Eu preciso de uma pausa do trabalho."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "descanso",
+            "intervalo",
+            "intermissão",
+            "respiro",
+            "tempo livre"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "english": {
+        "word": "break",
+        "examples": [
+            "Take a break and relax.",
+            "I need a break from work."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "pause",
+            "rest",
+            "intermission",
+            "respite",
+            "time off"
+        ]
+    },
+    "portuguese": {
+        "word": "pausa",
+        "examples": [
+            "Faça uma pausa e relaxe.",
+            "Eu preciso de uma pausa do trabalho."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "descanso",
+            "intervalo",
+            "intermissão",
+            "respiro",
+            "tempo livre"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    }
+}

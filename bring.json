@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "bring",
+        "examples": [
+            "Please bring your passport to the appointment.",
+            "He always brings a smile to my face."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "carry",
+            "transport",
+            "fetch",
+            "deliver",
+            "convey"
+        ]
+    },
+    "portuguese": {
+        "word": "trazer",
+        "examples": [
+            "Por favor, traga seu passaporte para a consulta.",
+            "Ele sempre traz um sorriso ao meu rosto."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "carregar",
+            "transportar",
+            "buscar",
+            "entregar",
+            "conduzir"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the magician always bring a rabbit to the library? He loved book hopping!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes, the word 'bring' can remind us of things or people we've lost and wish we could bring back."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do some people forget to bring their manners and respect when interacting with others? It's so frustrating!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the act of bringing a small gift or token of appreciation can go a long way in strengthening relationships?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with the word 'bring', but it can evoke memories of favorite foods or fragrances associated with certain occasions."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The physical action of bringing something can involve carrying, holding, or transporting an item, experiencing its weight and texture."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The act of bringing can foster a sense of connection and thoughtfulness, as it signifies care, support, and consideration for others."
+            ]
+        }
+    }
+}

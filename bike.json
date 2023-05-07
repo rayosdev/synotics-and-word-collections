@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "bike",
+        "examples": [
+            "I ride my bike to work every day.",
+            "He enjoys going on long bike rides."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "bicycle",
+            "cycle",
+            "two-wheeler",
+            "pedal-powered vehicle",
+            "cycling machine"
+        ]
+    },
+    "portuguese": {
+        "word": "bicicleta",
+        "examples": [
+            "Eu vou de bicicleta para o trabalho todos os dias.",
+            "Ele gosta de fazer longos passeios de bicicleta."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "ciclismo",
+            "magrela",
+            "bike",
+            "bici",
+            "veículo de duas rodas"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the bicycle fall over? Because it was two-tired from all the riding!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes, a bike can remind us of childhood memories or loved ones who are no longer with us."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do some drivers refuse to share the road with cyclists? It's so frustrating and dangerous!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the longest distance ever cycled in one year was over 75,000 miles? That's equivalent to cycling around the world three times!"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The scent of fresh air and freedom that surrounds you when you ride a bike outdoors."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The sensation of gripping the handlebars and feeling the vibration of the road beneath you while riding a bike."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Riding a bike can create a sense of connection with nature, the environment, and the local community as you explore your surroundings."
+            ]
+        }
+    }
+}
