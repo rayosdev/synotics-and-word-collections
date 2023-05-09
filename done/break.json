@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "break",
+        "examples": [
+            "She needs to take a break from work.",
+            "He broke his arm while skiing.",
+            "The news of the accident was a break from the monotony of the day."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "pause",
+            "interruption",
+            "fracture",
+            "disruption",
+            "relaxation"
+        ]
+    },
+    "portuguese": {
+        "word": "pausa",
+        "examples": [
+            "Ela precisa fazer uma pausa do trabalho.",
+            "Ele quebrou o braço enquanto esquiava.",
+            "A notícia do acidente foi uma pausa na monotonia do dia."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "interrupção",
+            "fratura",
+            "disrupção",
+            "relaxamento"
+        ]
+    },
+    "progress": {
+        "memory": 0.4,
+        "gender-memory": 0.4
+    },
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the tomato turn red? Because it saw the salad dressing...and needed a 'break' from all the veggies!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The idea of taking a 'break' can be bittersweet, as it may be necessary but also indicate that something isn't going well or is too overwhelming."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "It can be frustrating when someone takes a 'break' from something that's important to you or that you're relying on them for."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the word 'break' has many different meanings and uses in the English language, from physical damage to a pause in work or activities?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with 'break', but the scent of something that signals relaxation or change, like a cup of tea or a vacation, can be evocative of the concept."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "There's no physical sensation associated with 'break', but the feeling of release or relief that comes with taking a break can be palpable."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The concept of 'break' can be connected to the ideas of rest, renewal, and the importance of taking care of oneself."
+            ]
+        }
+    }
+}

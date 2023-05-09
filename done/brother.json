@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "brother",
+        "examples": [
+            "My brother and I went to the park.",
+            "She has three older brothers.",
+            "He is like a brother to me."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "sibling",
+            "kin",
+            "relative",
+            "comrade",
+            "fellowman"
+        ]
+    },
+    "portuguese": {
+        "word": "irmão",
+        "examples": [
+            "Meu irmão e eu fomos ao parque.",
+            "Ela tem três irmãos mais velhos.",
+            "Ele é como um irmão para mim."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "irmã",
+            "parente",
+            "parentela",
+            "família",
+            "companheiro"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.7
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the tomato turn red? Because it saw the salad dressing...and needed a 'brother' to help him get out of this saucy situation!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The word 'brother' can bring up feelings of loss or absence for those who have lost a sibling or have a strained relationship with their brother."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Sibling rivalries and conflicts can be intense, and arguments with a 'brother' can be particularly emotional."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the word 'brother' comes from the Old English word 'broðor', which is related to the German word 'Bruder' and the Dutch word 'broeder'?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with 'brother', but the scent of something that reminds you of a shared childhood memory with a sibling can evoke powerful emotions."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "There's no physical sensation associated with 'brother', but the feeling of closeness or distance with a sibling can be palpable."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The concept of 'brother' can be connected to the ideas of family, loyalty, and the complexity of relationships between siblings."
+            ]
+        }
+    }
+}
