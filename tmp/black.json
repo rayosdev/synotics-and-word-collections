@@ -1,55 +1,95 @@
 {
-	"english": {
-		"word": "black",
-		"examples": ["The cat is black.", "She wore a black dress to the party."],
-		"gender": ["neuter"],
-		"trick-words": ["dark", "ebony", "midnight", "charcoal", "obsidian"]
-	},
-	"portuguese": {
-		"word": "preto",
-		"examples": ["O gato é preto.", "Ela usou um vestido preto na festa."],
-		"gender": ["masculine"],
-		"trick-words": ["escuro", "negro", "carvão", "ebanizado", "carvoeiro"]
-	},
-	"progress": {
-		"memory": 0.5,
-		"gender-memory": 0.5
-	},
-	"type": ["adjective"],
-	"dates": {
-		"discover-date": "",
-		"next-review": "",
-		"last-reviewed": ""
-	},
-        "synonyms": {
-            "dark": {
-                "user-made": [],
-                "suggested": ["The room was pitch black."]
-            },
-            "color": {
-                "user-made": [],
-                "suggested": ["The color black is often associated with power and sophistication."]
-            },
-            "depression": {
-                "user-made": [],
-                "suggested": ["He was feeling black and blue after the accident."]
-            },
-            "evil": {
-                "user-made": [],
-                "suggested": ["The villain was dressed all in black."]
-            },
-            "mystery": {
-                "user-made": [],
-                "suggested": ["The blackness of the night added to the mystery of the abandoned house."]
-            },
-            "void": {
-                "user-made": [],
-                "suggested": ["The black hole seemed to swallow everything around it."]
-            },
-            "cool": {
-                "user-made": [],
-                "suggested": ["That car looks sleek in black."]
-            }
+    "english": {
+        "word": "black",
+        "examples": [
+            "She wore a black dress to the party.",
+            "The night was pitch black.",
+            "He painted the room black."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "dark",
+            "ebony",
+            "charcoal",
+            "onyx",
+            "sable"
+        ]
+    },
+    "portuguese": {
+        "word": "preto",
+        "examples": [
+            "Ela usou um vestido preto na festa.",
+            "A noite estava completamente escura.",
+            "Ele pintou o quarto de preto."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "escuro",
+            "ébano",
+            "carvão",
+            "ônix",
+            "sable"
+        ]
+    },
+    "progress": {
+        "memory": 0.9,
+        "gender-memory": 0.9
+    },
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the black sheep feel left out? Because it was always being 'sheared' from the group!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The color 'black' can be associated with mourning, grief, or darkness."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Racism and discrimination based on skin color, including black, can be a source of anger and frustration."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that black is not actually a color, but rather the absence of all colors?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with 'black', but the scent of something that reminds you of a particular memory or experience can be connected to the color black."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "There's no physical sensation associated with 'black', but the feeling of darkness or absence can be palpable."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The color 'black' can be connected to the ideas of power, sophistication, mystery, and elegance, among others."
+            ]
         }
     }
-    
+}

@@ -2,44 +2,46 @@
     "english": {
         "word": "best",
         "examples": [
-            "She always tries her best in everything she does.",
-            "This is the best ice cream I have ever had."
+            "She won first prize for best costume.",
+            "The best way to learn is through practice.",
+            "He always tries to do his best."
         ],
         "gender": [
-            "neutral"
+            "neuter"
         ],
         "trick-words": [
             "top",
-            "superlative",
-            "excellent",
             "finest",
-            "greatest"
+            "superlative",
+            "optimal",
+            "most excellent"
         ]
     },
     "portuguese": {
         "word": "melhor",
         "examples": [
-            "Ela sempre tenta fazer o melhor em tudo o que faz.",
-            "Este é o melhor sorvete que já comi."
+            "Ela ganhou o primeiro prêmio de melhor fantasia.",
+            "A melhor forma de aprender é através da prática.",
+            "Ele sempre tenta fazer o melhor dele."
         ],
         "gender": [
-            "masculine",
-            "feminine"
+            "masculine"
         ],
         "trick-words": [
-            "ótimo",
-            "excelente",
-            "superlativo",
             "top",
-            "escolha"
+            "fino",
+            "superlativo",
+            "ótimo",
+            "mais excelente"
         ]
     },
     "progress": {
-        "memory": 0.8,
-        "gender-memory": 0.6
+        "memory": 0.9,
+        "gender-memory": 0.9
     },
     "type": [
         "adjective",
+        "adverb",
         "noun"
     ],
     "dates": {
@@ -47,54 +49,47 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "top": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "This is one of the top-rated products on the market.",
-                "She is one of the top performers in her field."
+                "Why was the math book sad? Because it had too many problems. But with some good study habits, you can be the best in math!"
             ]
         },
-        "greatest": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "The greatest basketball player of all time is Michael Jordan.",
-                "This is the greatest show I've ever seen."
+                "Sometimes it can be tough to deal with feelings of inadequacy or not measuring up to our own or others' standards of what's best. It's important to remember that everyone has their own journey and to focus on personal growth and progress."
             ]
         },
-        "excellent": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "She did an excellent job on the project.",
-                "The food at that restaurant is always excellent."
+                "When we see someone being treated unfairly or not given their due, it can be frustrating and angering. But it's important to speak up and fight for what's right, so that everyone has the chance to be their best."
             ]
         },
-        "superb": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "The quality of the artwork is superb.",
-                "This is a superb example of modern architecture."
+                "Did you know that studies suggest that a positive attitude can actually help you perform better, both academically and professionally?"
             ]
         },
-        "outstanding": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "He received an outstanding performance review from his boss.",
-                "The company has an outstanding reputation in the industry."
+                "There's no specific smell associated with 'best', but the scent of fresh flowers or a warm, home-cooked meal can certainly make us feel our best."
             ]
         },
-        "preeminent": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "She is considered one of the preeminent experts in her field.",
-                "This is a preeminent example of Renaissance art."
+                "The feeling of a soft, cozy blanket or a warm embrace from a loved one can make us feel our best."
             ]
         },
-        "supreme": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "The Supreme Court is the highest court in the United States.",
-                "This is a supreme example of craftsmanship."
+                "'Best' can be connected to the concept of excellence, achievement, and setting high standards for ourselves. It's about striving to be the best version of ourselves and achieving our full potential."
             ]
         }
     }

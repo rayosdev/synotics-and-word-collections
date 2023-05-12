@@ -2,136 +2,94 @@
     "english": {
         "word": "beautiful",
         "examples": [
-            "The sunset was a beautiful sight to behold.",
-            "She wore a beautiful dress to the party."
+            "The sunset was beautiful.",
+            "She wore a beautiful dress to the party.",
+            "He wrote her a beautiful love letter."
         ],
-        "part_of_speech": "adjective",
-        "synonyms": [
-            "lovely",
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
             "gorgeous",
             "stunning",
-            "attractive",
-            "charming",
-            "appealing",
-            "handsome",
+            "lovely",
             "pretty",
-            "elegant",
-            "exquisite",
-            "delightful"
-        ],
-        "antonyms": [
-            "ugly",
-            "unattractive",
-            "plain",
-            "homely",
-            "unappealing"
+            "charming"
         ]
     },
-    "spanish": {
-        "word": "hermoso/hermosa",
+    "portuguese": {
+        "word": "bonito",
         "examples": [
-            "El atardecer fue una hermosa vista para contemplar.",
-            "Ella llevaba un vestido hermoso a la fiesta."
+            "O pôr do sol estava bonito.",
+            "Ela usou um vestido bonito para a festa.",
+            "Ele escreveu uma carta de amor bonita para ela."
         ],
-        "part_of_speech": "adjetivo",
-        "synonyms": [
-            "precioso",
-            "guapo",
-            "bonito",
-            "encantador",
-            "atractivo",
-            "seductor"
+        "gender": [
+            "masculine",
+            "feminine"
         ],
-        "antonyms": [
-            "feo",
-            "desagradable",
-            "insípido",
-            "aburrido"
-        ]
-    },
-    "french": {
-        "word": "beau/belle",
-        "examples": [
-            "Le coucher de soleil était un beau spectacle à contempler.",
-            "Elle portait une belle robe à la fête."
-        ],
-        "part_of_speech": "adjectif",
-        "synonyms": [
-            "joli",
-            "ravissant",
-            "magnifique",
-            "élégant",
-            "splendide",
-            "superbe",
-            "charmant"
-        ],
-        "antonyms": [
-            "laid",
-            "moche",
-            "peu attrayant",
-            "repoussant"
-        ]
-    },
-    "german": {
-        "word": "schön",
-        "examples": [
-            "Der Sonnenuntergang war ein schöner Anblick.",
-            "Sie trug ein schönes Kleid zur Party."
-        ],
-        "part_of_speech": "Adjektiv",
-        "synonyms": [
-            "hübsch",
-            "prächtig",
-            "wunderschön",
-            "anmutig",
-            "anziehend",
-            "reizend"
-        ],
-        "antonyms": [
-            "hässlich",
-            "unattraktiv",
-            "unansehnlich"
+        "trick-words": [
+            "lindo",
+            "belo",
+            "formoso",
+            "elegante",
+            "atraente"
         ]
     },
     "progress": {
         "memory": 0.7,
-        "gender_memory": 0.6
+        "gender-memory": 0.7
     },
+    "type": [
+        "adjective"
+    ],
     "dates": {
-        "discover_date": "Before 1300 CE",
-        "last_reviewed": "May 5, 2023",
-        "next_review": "November 5, 2023"
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
     },
-
-        "synonyms": {
-            "gorgeous": {
-                "user-made": [],
-                "suggested": ["The sunset was so gorgeous it looked like a painting."]
-            },
-            "stunning": {
-                "user-made": [],
-                "suggested": ["She looked stunning in her wedding dress."]
-            },
-            "lovely": {
-                "user-made": [],
-                "suggested": ["The garden was filled with lovely flowers of all colors."]
-            },
-            "radiant": {
-                "user-made": [],
-                "suggested": ["The bride was positively radiant on her special day."]
-            },
-            "breathtaking": {
-                "user-made": [],
-                "suggested": ["The view from the mountaintop was breathtaking."]
-            },
-            "exquisite": {
-                "user-made": [],
-                "suggested": ["The craftsmanship of the antique jewelry was exquisite."]
-            },
-            "divine": {
-                "user-made": [],
-                "suggested": ["The performance was so divine it brought tears to my eyes."]
-            }
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "I was trying to think of a joke about beautiful hair, but it was a hair-raising experience."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "It's a shame that we live in a world where the concept of beauty is so narrow and unrealistic."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do we have to constantly remind ourselves and others that beauty is more than skin deep? Can't we just accept it as a fact and move on?"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the word 'beautiful' comes from the Latin word 'bellus', which means 'pretty'?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of beautiful flowers in the spring."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of beautiful silk on your skin."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection we feel to nature when we witness a beautiful sunset or a breathtaking landscape."
+            ]
         }
     }
-    
+}

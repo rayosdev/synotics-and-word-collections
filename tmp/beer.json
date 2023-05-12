@@ -2,8 +2,9 @@
     "english": {
         "word": "beer",
         "examples": [
-            "I like to drink beer with my friends.",
-            "He ordered a cold beer at the bar."
+            "I'll have a cold beer, please.",
+            "We had a few beers and watched the game.",
+            "I brewed my own beer last weekend."
         ],
         "gender": [
             "neuter"
@@ -13,28 +14,30 @@
             "lager",
             "pilsner",
             "stout",
-            "porter"
+            "IPA"
         ]
     },
     "portuguese": {
         "word": "cerveja",
         "examples": [
-            "Eu gosto de beber cerveja com meus amigos.",
-            "Ele pediu uma cerveja gelada no bar."
+            "Eu vou querer uma cerveja gelada, por favor.",
+            "Tomamos algumas cervejas e assistimos ao jogo.",
+            "Eu fiz minha própria cerveja no fim de semana passado."
         ],
         "gender": [
             "feminine"
         ],
         "trick-words": [
-            "chop",
-            "breja",
-            "gelada",
-            "malte"
+            "chope",
+            "pilsen",
+            "IPA",
+            "cerveja preta",
+            "cerveja artesanal"
         ]
     },
     "progress": {
         "memory": 0.7,
-        "gender-memory": 0.6
+        "gender-memory": 0.7
     },
     "type": [
         "noun"
@@ -44,47 +47,47 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "cheers": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "Here's to the weekend and cracking open a cold beer with friends!"
+                "Why is beer better than women? You can have more than one without being a pig."
             ]
         },
-        "party": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "Nothing gets the party started like a round of ice-cold beers."
+                "Beer is like liquid bread, but when you drink too much of it you end up feeling worse than when you're hungry."
             ]
         },
-        "relaxation": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "There's nothing like a cold beer after a long day to help you unwind."
+                "Why is it so hard to find a good beer these days? Everything tastes like watered-down horse piss."
             ]
         },
-        "culture": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "Beer is a staple of many cultures around the world and has been enjoyed for centuries."
+                "Did you know that beer was once used as currency in ancient Egypt?"
             ]
         },
-        "taste": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "There's a beer for every palate, from light and refreshing to rich and complex."
+                "The aroma of a freshly poured beer."
             ]
         },
-        "pairing": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "Beer is a versatile drink that pairs well with many different foods, from burgers to sushi."
+                "The feeling of a cold beer bottle in your hand on a hot day."
             ]
         },
-        "craft": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "Craft beer has exploded in popularity in recent years, with small breweries offering unique and flavorful brews."
+                "The social connection and bonding that comes with sharing a beer with friends."
             ]
         }
     }

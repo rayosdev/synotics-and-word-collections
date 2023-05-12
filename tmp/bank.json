@@ -1,56 +1,94 @@
 {
-	"english": {
-		"word": "bank",
-		"examples": ["I need to go to the bank to deposit this check.", "The river bank was lined with willow trees."],
-		"gender": ["neuter"],
-		"trick-words": ["financial institution", "financial organization", "riverbank", "shore", "embankment"]
-	},
-	"portuguese": {
-		"word": "banco",
-		"examples": ["Preciso ir ao banco para depositar este cheque.", "A margem do rio estava alinhada com árvores de salgueiro."],
-		"gender": ["masculine"],
-		"trick-words": ["instituição financeira", "organização financeira", "margem do rio", "costa", "terraplenagem"]
-	},
-	"progress": {
-		"memory": 0.6,
-		"gender-memory": 0.4
-	},
-	"type": ["noun"],
-	"dates": {
-		"discover-date": "",
-		"next-review": "",
-		"last-reviewed": ""
-	},
-    
-        "synonyms": {
-            "money": {
-                "user-made": [],
-                "suggested": ["I need to go to the bank to withdraw some money."]
-            },
-            "river": {
-                "user-made": [],
-                "suggested": ["The bank of the river was covered in lush green vegetation."]
-            },
-            "building": {
-                "user-made": [],
-                "suggested": ["The bank has a beautiful and imposing building downtown."]
-            },
-            "saving": {
-                "user-made": [],
-                "suggested": ["It's always good to have a savings account in the bank."]
-            },
-            "investing": {
-                "user-made": [],
-                "suggested": ["Investing in stocks and bonds through the bank is a smart move."]
-            },
-            "trust": {
-                "user-made": [],
-                "suggested": ["You can trust the bank with your money."]
-            },
-            "loan": {
-                "user-made": [],
-                "suggested": ["The bank approved my loan application."]
-            }
+    "english": {
+        "word": "bank",
+        "examples": [
+            "I need to go to the bank to deposit this check.",
+            "She works as a teller at the bank.",
+            "He saved a lot of money by putting it in the bank."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "related-words": [
+            "financial institution",
+            "lender",
+            "credit union",
+            "investment firm",
+            "vault"
+        ]
+    },
+    "portuguese": {
+        "word": "banco",
+        "examples": [
+            "Preciso ir ao banco para depositar este cheque.",
+            "Ela trabalha como caixa no banco.",
+            "Ele economizou muito dinheiro ao colocá-lo no banco."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "related-words": [
+            "instituição financeira",
+            "credor",
+            "cooperativa de crédito",
+            "empresa de investimento",
+            "cofre"
+        ]
+    },
+    "progress": {
+        "memory": 0.6,
+        "gender-memory": 0.6
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "14th century",
+        "next-review": "2024-06-01",
+        "last-reviewed": "2022-12-01"
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the bank go to the doctor? It had too many loans!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "I lost all my money in the bank. It's a hard pill to swallow."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "The bank charged me an arm and a leg in fees. It's ridiculous!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "The bank's vault can hold up to $200 million in cash!"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of money in the bank."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feel of the cold, hard cash in the bank."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection between the bank and the economy."
+            ]
         }
     }
-    
+}

@@ -2,112 +2,93 @@
     "english": {
         "word": "better",
         "examples": [
-            "I feel better after getting some rest.",
-            "She did a better job than I did.",
-            "He's trying to better his situation."
+            "She felt better after taking a nap.",
+            "He is a better athlete than his brother.",
+            "We need to do better on our next project."
         ],
-        "part-of-speech": "adjective / adverb",
-        "synonyms": [
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "superior",
             "improved",
             "enhanced",
-            "superior",
-            "greater"
-        ],
-        "antonyms": [
-            "worse",
-            "inferior"
-        ],
-        "related-words": [
-            "best",
-            "good"
-        ],
-        "trick-words": [
-            "bitter",
-            "batter",
-            "butter"
+            "more advantageous",
+            "higher-quality"
         ]
     },
-    "spanish": {
-        "word": "mejor",
+    "portuguese": {
+        "word": "melhor",
         "examples": [
-            "Me siento mejor después de descansar un poco.",
-            "Ella hizo un trabajo mejor que yo.",
-            "Él está tratando de mejorar su situación."
+            "Ela se sentiu melhor depois de tirar uma soneca.",
+            "Ele é um atleta melhor do que seu irmão.",
+            "Precisamos fazer melhor no nosso próximo projeto."
         ],
-        "part-of-speech": "adjetivo / adverbio",
-        "synonyms": [
-            "mejorado",
-            "superior",
-            "mayor"
-        ],
-        "antonyms": [
-            "peor",
-            "inferior"
-        ],
-        "related-words": [
-            "bueno",
-            "mejorar"
+        "gender": [
+            "masculine"
         ],
         "trick-words": [
-            "mayor",
-            "menor",
-            "maíz"
+            "superior",
+            "melhorado",
+            "aprimorado",
+            "mais vantajoso",
+            "de maior qualidade"
         ]
     },
     "progress": {
-        "memory": 0.8,
-        "part-of-speech-memory": 0.7,
-        "synonyms-memory": 0.9,
-        "antonyms-memory": 0.6,
-        "related-words-memory": 0.8,
-        "trick-words-memory": 0.5
+        "memory": 0.9,
+        "gender-memory": 0.9
     },
+    "type": [
+        "adjective",
+        "adverb"
+    ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "improved": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "After a few weeks of therapy, John's condition had significantly improved."
+                "Why don't scientists trust atoms? Because they make up everything! But seriously, better to keep an open mind and let the evidence lead the way."
             ]
         },
-        "superior": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "The quality of this product is far superior to anything else on the market."
+                "The feeling of being stuck in a difficult situation can be overwhelming, but it's always better to reach out for help and support."
             ]
         },
-        "advantageous": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "It would be advantageous for you to take this job offer."
+                "When we see injustice or unfairness in the world, it's natural to feel angry. But it's important to channel that anger into constructive action that can make things better."
             ]
         },
-        "upgraded": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "The company has upgraded its software to provide a better user experience."
+                "Did you know that some studies suggest that listening to music can actually make you feel better, both physically and emotionally?"
             ]
         },
-        "enhanced": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "The enhanced edition of the game includes additional content and features."
+                "There's no specific smell associated with 'better', but the scent of freshly baked cookies or a fragrant bouquet of flowers can certainly make a person feel better."
             ]
         },
-        "finer": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "This restaurant is known for using finer ingredients than its competitors."
+                "The feeling of a warm hug from a loved one can instantly make us feel better."
             ]
         },
-        "preferable": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "It's always preferable to have more time to complete a project."
+                "'Better' can be connected to the concept of growth, improvement, and positive change. It's about moving forward and striving for a better future."
             ]
         }
     }

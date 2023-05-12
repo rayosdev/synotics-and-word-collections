@@ -1,55 +1,96 @@
 {
     "english": {
         "word": "before",
-        "examples": ["I must finish this task before I can relax.", "The sun rose before the moon set."],
-        "part-of-speech": ["adverb", "preposition", "conjunction"],
-        "trick-words": ["prior to", "preceding", "in front of", "ahead of", "formerly"]
+        "examples": [
+            "I have never seen her before.",
+            "Please arrive 15 minutes before the start of the movie.",
+            "Before you make a decision, consider all your options."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "prior",
+            "previously",
+            "earlier",
+            "ahead of",
+            "in advance of"
+        ]
     },
-    "spanish": {
+    "portuguese": {
         "word": "antes",
-        "examples": ["Debo terminar esta tarea antes de poder relajarme.", "El sol salió antes de que la luna se pusiera."],
-        "part-of-speech": ["adverbio", "preposición", "conjunción"],
-        "trick-words": ["previo a", "anterior", "delante de", "por delante de", "anteriormente"]
+        "examples": [
+            "Eu nunca a vi antes.",
+            "Por favor, chegue 15 minutos antes do início do filme.",
+            "Antes de tomar uma decisão, considere todas as opções."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "previamente",
+            "anteriormente",
+            "mais cedo",
+            "à frente de",
+            "com antecedência"
+        ]
     },
     "progress": {
-        "memory": 0.6,
-        "part-of-speech-memory": 0.4
+        "memory": 0.8,
+        "gender-memory": 0.8
     },
-    "type": ["adverb", "preposition", "conjunction"],
+    "type": [
+        "adverb",
+        "preposition",
+        "conjunction"
+    ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-        "synonyms": {
-            "past": {
-                "user-made": [],
-                "suggested": ["Before the invention of the printing press, books had to be handwritten."]
-            },
-            "anticipation": {
-                "user-made": [],
-                "suggested": ["I'm so excited for the concert tomorrow! I can't wait for the band to come out and start playing. It's going to be even better than before!"]
-            },
-            "time": {
-                "user-made": [],
-                "suggested": ["I'll meet you at the coffee shop at 4:00, just like we arranged before."]
-            },
-            "rank": {
-                "user-made": [],
-                "suggested": ["She's always been my friend before anything else."]
-            },
-            "position": {
-                "user-made": [],
-                "suggested": ["The runner finished the race before the others, and was declared the winner."]
-            },
-            "importance": {
-                "user-made": [],
-                "suggested": ["You need to fill out the form before you can attend the event."]
-            },
-            "preceding": {
-                "user-made": [],
-                "suggested": ["The storm clouds rolled in before the rain started."]
-            }
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the scarecrow win an award? Because he was outstanding in his field...before the crows came."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The calm before the storm can be a time of anticipation, but also fear and sadness."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "It's always frustrating when you arrive at a restaurant 5 minutes before closing and they won't let you in."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Before the invention of color television, people thought everything in the world was black and white."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of rain before a storm can be refreshing or ominous."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of a cool breeze before a hot summer day."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Before we can move forward, it's important to reflect on the lessons we've learned from our past."
+            ]
         }
     }
-    
+}

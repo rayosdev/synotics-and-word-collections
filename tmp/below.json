@@ -1,48 +1,95 @@
 {
-    "english": {
-        "word": "below",
-        "examples": ["The temperature is below freezing.", "The book was hidden below the shelf."],
-        "part-of-speech": "adverb",
-        "trick-words": ["under", "beneath", "down", "lower", "underneath"]
-    },
-    "spanish": {
-        "word": "debajo",
-        "examples": ["La temperatura está debajo del punto de congelación.", "El libro estaba escondido debajo del estante."],
-        "part-of-speech": "adverbio",
-        "trick-words": ["bajo", "inferior", "abajo", "menos", "subyacente"]
-    },
-    "memory": {
-        "strength": 0.8,
-        "review-date": "2023-06-01"
-    },
-	"synonyms": {
-		"under": {
+	"english": {
+		"word": "below",
+		"examples": [
+			"The temperature dropped below freezing.",
+			"The answer to the question is written below.",
+			"Please sign your name below the dotted line."
+		],
+		"gender": [
+			"neuter"
+		],
+		"trick-words": [
+			"underneath",
+			"beneath",
+			"lower than",
+			"inferior to",
+			"subordinate to"
+		]
+	},
+	"portuguese": {
+		"word": "abaixo",
+		"examples": [
+			"A temperatura caiu abaixo de zero.",
+			"A resposta para a pergunta está escrita abaixo.",
+			"Por favor, assine seu nome abaixo da linha pontilhada."
+		],
+		"gender": [
+			"masculine"
+		],
+		"trick-words": [
+			"embaixo",
+			"debaixo",
+			"mais baixo que",
+			"inferior a",
+			"subordinado a"
+		]
+	},
+	"progress": {
+		"memory": 0.85,
+		"gender-memory": 0.85
+	},
+	"type": [
+		"preposition",
+		"adverb"
+	],
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+	"synotics": {
+		"funny": {
 			"user-made": [],
-			"suggested": ["The treasure was hidden under the sea.", "The dog ran under the bed."]
+			"suggested": [
+				"Why did the cat sit on the computer? To keep an eye on the mouse below!"
+			]
 		},
-		"beneath": {
+		"sad": {
 			"user-made": [],
-			"suggested": ["Beneath the surface of the water lies a whole new world."]
+			"suggested": [
+				"Sometimes it can be discouraging to feel like we're not measuring up or falling below expectations. It's important to remember that everyone has their own pace and journey."
+			]
 		},
-		"lower": {
+		"angry": {
 			"user-made": [],
-			"suggested": ["The temperature is lower in the valley.", "The prices are lower below the equator."]
+			"suggested": [
+				"When we see someone being belittled or talked down to, it can be infuriating. We should always strive to treat others with respect and dignity, regardless of where they may fall below us in certain areas."
+			]
 		},
-		"bellow": {
+		"surprising": {
 			"user-made": [],
-			"suggested": ["He let out a loud bellow from below."]
+			"suggested": [
+				"Did you know that the deepest part of the ocean, the Mariana Trench, is located over 35,000 feet below sea level?"
+			]
 		},
-		"descend": {
+		"smell": {
 			"user-made": [],
-			"suggested": ["The trail descends below the tree line."]
+			"suggested": [
+				"There's no specific smell associated with 'below', but the scent of freshly baked bread or a refreshing ocean breeze can certainly help lift us up when we're feeling down."
+			]
 		},
-		"underneath": {
+		"touch": {
 			"user-made": [],
-			"suggested": ["The tunnels ran underneath the city."]
+			"suggested": [
+				"The feeling of a warm hug or a comforting pat on the back can remind us that we're not alone, even when we may feel like we're below others."
+			]
 		},
-		"beneath": {
+		"connection": {
 			"user-made": [],
-			"suggested": ["Beneath the layers of dirt lies a rich history."]
+			"suggested": [
+				"'Below' can be connected to the concept of hierarchy, but it's important to remember that everyone has their own strengths and weaknesses, and that we should strive to lift each other up and celebrate our differences rather than comparing ourselves to others."
+			]
 		}
 	}
 }

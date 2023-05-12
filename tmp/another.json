@@ -2,88 +2,94 @@
     "english": {
         "word": "another",
         "examples": [
-            "I need another pencil.",
-            "Can I have another piece of cake?"
+            "I need another cup of coffee.",
+            "Do you have another pen I can use?",
+            "Let's watch another movie tonight."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
-            "additional",
-            "extra",
             "different",
-            "more"
+            "additional",
+            "new",
+            "extra",
+            "alternative"
         ]
     },
     "portuguese": {
         "word": "outro",
         "examples": [
-            "Eu preciso de outro lápis.",
-            "Posso ter mais um pedaço de bolo?"
+            "Eu preciso de outra xícara de café.",
+            "Você tem outra caneta que eu possa usar?",
+            "Vamos assistir a outro filme hoje à noite."
         ],
         "gender": [
-            "masculine"
+            "masculine",
+            "feminine"
         ],
         "trick-words": [
-            "adicional",
-            "extra",
             "diferente",
-            "mais"
+            "adicional",
+            "novo",
+            "extra",
+            "alternativo"
         ]
     },
     "progress": {
         "memory": 0.6,
-        "gender-memory": 0.8
+        "gender-memory": 0.6
     },
     "type": [
-        "determiner"
+        "determiner",
+        "pronoun"
     ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "happy": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "Seeing another beautiful day."
+                "Why did the cookie go to the doctor? Because it felt crummy...and needed 'another' opinion on its health!"
             ]
         },
-        "frustrated": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "Another day, another problem."
+                "The word 'another' can bring up feelings of loneliness or dissatisfaction for those who are looking for more in their lives or relationships."
             ]
         },
-        "surprised": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "I can't believe it, another one!"
+                "Repetitive tasks or situations can be frustrating, and the need to do 'another' thing of the same kind can feel monotonous or exhausting."
             ]
         },
-        "disappointed": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "Oh great, another pointless meeting."
+                "Did you know that the word 'another' comes from the Old English word 'ān ōþer', which means 'one other'?"
             ]
         },
-        "grateful": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "Thankful for another opportunity to learn and grow."
+                "There's no specific smell associated with 'another', but the scent of something that reminds you of a happy memory or experience can make you want to repeat it 'another' time."
             ]
         },
-        "curious": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "What is another way we could approach this problem?"
+                "There's no physical sensation associated with 'another', but the feeling of repetition or familiarity can be palpable."
             ]
         },
-        "nostalgic": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "Reminiscing about another time and place."
+                "The concept of 'another' can be connected to the ideas of repetition, renewal, and the search for something more or different."
             ]
         }
     }

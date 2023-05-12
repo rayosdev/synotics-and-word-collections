@@ -2,94 +2,93 @@
     "english": {
         "word": "bedroom",
         "examples": [
-            "I like to read in my bedroom.",
-            "My bedroom is next to the bathroom.",
-            "The kids are playing in the bedroom."
+            "I painted my bedroom blue.",
+            "The kids are playing in their bedroom.",
+            "Our bedroom has a balcony with a great view."
         ],
-        "part-of-speech": "noun",
-        "synonyms": ["chamber", "sleeping quarters"],
-        "antonyms": ["living room", "kitchen"]
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "master bedroom",
+            "guest room",
+            "nursery",
+            "den",
+            "loft"
+        ]
     },
-    "spanish": {
-        "word": "habitación",
+    "portuguese": {
+        "word": "quarto",
         "examples": [
-            "Mi habitación es pequeña pero acogedora.",
-            "La habitación de huéspedes está en el segundo piso.",
-            "Necesitamos pintar la habitación de los niños."
+            "Eu pintei meu quarto de azul.",
+            "As crianças estão brincando em seu quarto.",
+            "Nosso quarto tem uma varanda com uma ótima vista."
         ],
-        "part-of-speech": "sustantivo",
-        "synonyms": ["cuarto", "recámara"],
-        "antonyms": ["sala de estar", "cocina"]
-    },
-    "french": {
-        "word": "chambre",
-        "examples": [
-            "Ma chambre donne sur le jardin.",
-            "J'ai une grande chambre avec un lit double.",
-            "Il y a une armoire dans la chambre."
+        "gender": [
+            "masculine"
         ],
-        "part-of-speech": "nom",
-        "synonyms": ["pièce", "chambre à coucher"],
-        "antonyms": ["salon", "cuisine"]
+        "trick-words": [
+            "quarto de casal",
+            "quarto de hóspedes",
+            "quarto de bebê",
+            "sala de estar",
+            "sótão"
+        ]
     },
-    "german": {
-        "word": "Schlafzimmer",
-        "examples": [
-            "Mein Schlafzimmer ist im ersten Stock.",
-            "Wir haben ein großes Bett im Schlafzimmer.",
-            "Das Schlafzimmer ist gut isoliert gegen Lärm."
-        ],
-        "part-of-speech": "Substantiv",
-        "synonyms": ["Kammer", "Schlafstube"],
-        "antonyms": ["Wohnzimmer", "Küche"]
+    "progress": {
+        "memory": 0.6,
+        "gender-memory": 0.6
     },
-    "type": ["living space"],
-    "related": ["bed", "furniture", "home"]
-},
-    "english": {
-        "word": "bedroom",
-        "examples": [
-            "I like to read in my bedroom.",
-            "My bedroom is next to the bathroom.",
-            "The kids are playing in the bedroom."
-        ],
-        "part-of-speech": "noun",
-        "synonyms": ["chamber", "sleeping quarters"],
-        "antonyms": ["living room", "kitchen"]
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
     },
-    "spanish": {
-        "word": "habitación",
-        "examples": [
-            "Mi habitación es pequeña pero acogedora.",
-            "La habitación de huéspedes está en el segundo piso.",
-            "Necesitamos pintar la habitación de los niños."
-        ],
-        "part-of-speech": "sustantivo",
-        "synonyms": ["cuarto", "recámara"],
-        "antonyms": ["sala de estar", "cocina"]
-    },
-    "french": {
-        "word": "chambre",
-        "examples": [
-            "Ma chambre donne sur le jardin.",
-            "J'ai une grande chambre avec un lit double.",
-            "Il y a une armoire dans la chambre."
-        ],
-        "part-of-speech": "nom",
-        "synonyms": ["pièce", "chambre à coucher"],
-        "antonyms": ["salon", "cuisine"]
-    },
-    "german": {
-        "word": "Schlafzimmer",
-        "examples": [
-            "Mein Schlafzimmer ist im ersten Stock.",
-            "Wir haben ein großes Bett im Schlafzimmer.",
-            "Das Schlafzimmer ist gut isoliert gegen Lärm."
-        ],
-        "part-of-speech": "Substantiv",
-        "synonyms": ["Kammer", "Schlafstube"],
-        "antonyms": ["Wohnzimmer", "Küche"]
-    },
-    "type": ["living space"],
-    "related": ["bed", "furniture", "home"]
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the bed go to the doctor? Because it was a little un-springy."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The empty bedroom reminded me of how lonely I felt."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do I always stub my toe on the corner of the bed in the middle of the night? It's like it's trying to attack me."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the average person will spend about a third of their life in a bedroom?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The fresh scent of clean sheets in a bedroom."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The softness of a fluffy pillow in a cozy bedroom."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of safety and comfort that comes from being in your own bedroom."
+            ]
+        }
+    }
 }

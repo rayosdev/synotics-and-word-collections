@@ -1,56 +1,94 @@
 {
-	"english": {
-		"word": "blog",
-		"examples": ["I update my blog regularly with new content.", "The company has a blog where they share industry news."],
-		"gender": ["neuter"],
-		"trick-words": ["website", "journal", "diary", "online publication", "weblog"]
-	},
-	"portuguese": {
-		"word": "blog",
-		"examples": ["Eu atualizo meu blog regularmente com novo conteúdo.", "A empresa tem um blog onde compartilham novidades do setor."],
-		"gender": ["masculine"],
-		"trick-words": ["site", "jornal", "diário", "publicação online", "weblog"]
-	},
-	"progress": {
-		"memory": 0.7,
-		"gender-memory": 0.6
-	},
-	"type": ["noun"],
-	"dates": {
-		"discover-date": "",
-		"next-review": "",
-		"last-reviewed": ""
-	},
-    
-        "synonyms": {
-            "writing": {
-                "user-made": [],
-                "suggested": ["Blogging is a great way to practice writing and express yourself."]
-            },
-            "journal": {
-                "user-made": [],
-                "suggested": ["Blogging can serve as a personal online journal."]
-            },
-            "share": {
-                "user-made": [],
-                "suggested": ["Blogging allows you to share your thoughts and experiences with others."]
-            },
-            "platform": {
-                "user-made": [],
-                "suggested": ["Blogging provides a platform for you to connect with others who share similar interests."]
-            },
-            "creativity": {
-                "user-made": [],
-                "suggested": ["Blogging can help you unleash your creativity."]
-            },
-            "content": {
-                "user-made": [],
-                "suggested": ["A good blog has valuable and interesting content."]
-            },
-            "internet": {
-                "user-made": [],
-                "suggested": ["Blogging is one of the most popular activities on the internet."]
-            }
+    "english": {
+        "word": "blog",
+        "examples": [
+            "I wrote a new post for my blog.",
+            "She has a successful fashion blog.",
+            "Blogs have become a popular form of online communication."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "weblog",
+            "vlog",
+            "journal",
+            "website",
+            "online platform"
+        ]
+    },
+    "portuguese": {
+        "word": "blog",
+        "examples": [
+            "Eu escrevi uma nova postagem para o meu blog.",
+            "Ela tem um blog de moda de sucesso.",
+            "Blogs se tornaram uma forma popular de comunicação online."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "weblog",
+            "vlog",
+            "diário",
+            "página web",
+            "plataforma online"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the blogger break up with the internet? They just didn't have a good connection anymore...it was time to 'blog' off!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The word 'blog' can bring up feelings of loneliness or vulnerability for those who use it as an outlet for their personal thoughts and experiences."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Negative comments or harassment on a 'blog' can be hurtful and frustrating for the writer."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the word 'blog' is a shortened form of the term 'weblog', which was coined by Jorn Barger in 1997?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with 'blog', but the scent of something that reminds you of a particular memory or experience can inspire you to write about it on your 'blog'."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "There's no physical sensation associated with 'blog', but the feeling of typing out your thoughts and hitting the 'publish' button can be exciting or nerve-wracking."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The concept of 'blog' can be connected to the ideas of self-expression, community building, and the democratization of media."
+            ]
         }
     }
-     
+}

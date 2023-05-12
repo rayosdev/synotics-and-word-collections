@@ -2,38 +2,42 @@
     "english": {
         "word": "bath",
         "examples": [
-            "I'm going to take a bath now.",
-            "She filled the bath with warm water."
+            "I take a bath every morning.",
+            "The baby loves to play in the bath.",
+            "She soaked in a hot bath after a long day at work."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
             "shower",
-            "tub",
-            "bathtub",
-            "soak"
+            "cleanse",
+            "wash",
+            "bathe",
+            "immerse"
         ]
     },
     "portuguese": {
         "word": "banho",
         "examples": [
-            "Vou tomar um banho agora.",
-            "Ela encheu a banheira com água quente."
+            "Eu tomo banho todas as manhãs.",
+            "O bebê adora brincar no banho.",
+            "Ela relaxou em um banho quente depois de um longo dia de trabalho."
         ],
         "gender": [
             "masculine"
         ],
         "trick-words": [
             "ducha",
-            "chuveiro",
-            "banheira",
+            "limpar",
+            "lavar",
+            "banhar",
             "imersão"
         ]
     },
     "progress": {
-        "memory": 0.4,
-        "gender-memory": 0.6
+        "memory": 0.7,
+        "gender-memory": 0.7
     },
     "type": [
         "noun"
@@ -43,47 +47,47 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "relaxation": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "Taking a bath is a great way to relax after a long day."
+                "Why did the shampoo bottle break up with the conditioner? It didn't like to share the bath with anyone else."
             ]
         },
-        "cleanliness": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "I feel so clean after taking a bath."
+                "Baths used to be a place of relaxation, but now it's just another chore on the to-do list."
             ]
         },
-        "luxury": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "Taking a bath in a jacuzzi tub feels like pure luxury."
+                "Why do bath towels get less fluffy over time? Because they're tired of being used to dry off sweaty bodies."
             ]
         },
-        "soothing": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "Adding lavender oil to my bathwater is so soothing."
+                "Did you know that taking a cold bath can help with muscle soreness?"
             ]
         },
-        "meditative": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "Taking a bath can be a meditative experience."
+                "The scent of lavender in a warm bath."
             ]
         },
-        "pampering": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "Treating yourself to a bubble bath is the ultimate pampering."
+                "The feeling of hot water on sore muscles."
             ]
         },
-        "therapeutic": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "Epsom salt baths can be therapeutic for sore muscles."
+                "Taking a bath can be a time to disconnect from the world and reconnect with yourself."
             ]
         }
     }

@@ -2,88 +2,92 @@
     "english": {
         "word": "bird",
         "examples": [
-            "I heard a bird singing outside my window this morning.",
-            "The robin is a common garden bird in the UK."
+            "I heard a bird singing in the tree.",
+            "She loves watching birds at the park.",
+            "He has a pet parrot that he trained to talk."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
             "feathered friend",
-            "fowl",
             "avian",
-            "winged creature"
+            "fowl",
+            "winged creature",
+            "beak-bearing animal"
         ]
     },
-    "spanish": {
-        "word": "pájaro",
+    "portuguese": {
+        "word": "pássaro",
         "examples": [
-            "Oí un pájaro cantando fuera de mi ventana esta mañana.",
-            "El jilguero es un pájaro común en los jardines de España."
+            "Eu ouvi um pássaro cantando na árvore.",
+            "Ela adora observar pássaros no parque.",
+            "Ele tem um papagaio de estimação que treinou para falar."
         ],
         "gender": [
             "masculine"
         ],
         "trick-words": [
+            "amigo emplumado",
             "ave",
-            "pluma",
-            "alas",
-            "pajarillo"
+            "galliforme",
+            "criatura alada",
+            "animal bico-portador"
         ]
     },
     "progress": {
         "memory": 0.7,
-        "gender-memory": 0.8
+        "gender-memory": 0.7
     },
     "type": [
         "noun"
     ],
     "dates": {
-        "discover-date": "c. 1200",
-        "next-review": "2024-06-01",
-        "last-reviewed": "2022-12-01"
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
     },
-    "synonyms": {
-        "flight": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "Watching a bird take flight is a truly mesmerizing sight."
+                "Why do birds fly south for the winter? Because it's too far to walk!"
             ]
         },
-        "singing": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "Birds singing in the morning is a beautiful way to start the day."
+                "The sound of a bird singing can bring up feelings of nostalgia or longing for something lost."
             ]
         },
-        "freedom": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "Birds symbolize freedom because they can fly wherever they want."
+                "Birds can be a source of frustration for farmers or gardeners, who may have to deal with them eating crops."
             ]
         },
-        "feathers": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "The feathers of a bird are incredibly intricate and beautiful."
+                "Did you know that birds are the only animals that have feathers?"
             ]
         },
-        "nest": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "A bird's nest is a remarkable feat of architecture."
+                "There's no specific smell associated with 'bird', but the scent of something that reminds you of a particular memory or experience can be connected to birds."
             ]
         },
-        "migration": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "The migration of birds across the world is a testament to their endurance and strength."
+                "There's no physical sensation associated with 'bird', but the feeling of watching a bird take flight can be awe-inspiring."
             ]
         },
-        "intelligence": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "Birds are surprisingly intelligent animals, capable of solving complex problems."
+                "Birds can be connected to the ideas of freedom, flight, and nature, as well as specific cultural or mythological beliefs."
             ]
         }
     }

@@ -2,114 +2,93 @@
     "english": {
         "word": "between",
         "examples": [
-            "The book is between the desk and the lamp.",
-            "She couldn't decide between the red dress and the blue one."
+            "The cat was hiding between the couch cushions.",
+            "The agreement was reached between the two parties.",
+            "She couldn't decide between chocolate and vanilla."
         ],
-        "part-of-speech": [
-            "preposition",
-            "adverb"
+        "gender": [
+            "neuter"
         ],
-        "synonyms": [
+        "trick-words": [
             "among",
-            "amid",
-            "midst"
-        ],
-        "antonyms": [
-            "outside",
-            "beyond"
-        ],
-        "related-words": [
-            "intermediate",
-            "intermediary",
-            "interval"
-        ],
-        "word-family": [
-            "betwixt",
-            "betwixen"
+            "amidst",
+            "in the middle of",
+            "in between",
+            "betwixt"
         ]
     },
-    "spanish": {
+    "portuguese": {
         "word": "entre",
         "examples": [
-            "El libro está entre el escritorio y la lámpara.",
-            "No podía decidir entre el vestido rojo y el azul."
+            "O gato estava escondido entre as almofadas do sofá.",
+            "O acordo foi alcançado entre as duas partes.",
+            "Ela não conseguia decidir entre chocolate e baunilha."
         ],
-        "part-of-speech": [
-            "preposición",
-            "adverbio"
+        "gender": [
+            "masculine"
         ],
-        "synonyms": [
-            "en medio de",
-            "en el medio de",
-            "en la mitad de"
-        ],
-        "antonyms": [
-            "fuera",
-            "más allá"
-        ],
-        "related-words": [
-            "intermedio",
-            "intervalo"
-        ],
-        "word-family": [
-            "entremedio",
-            "entretejer",
-            "entrelazar"
+        "trick-words": [
+            "entre",
+            "no meio de",
+            "no meio de",
+            "no meio de",
+            "betwixt"
         ]
     },
     "progress": {
-        "memory": 0.6,
-        "word-familiarity": 0.7
+        "memory": 0.8,
+        "gender-memory": 0.8
     },
     "type": [
-        "word"
+        "preposition",
+        "adverb"
     ],
     "dates": {
-        "discover-date": "Old English",
-        "next-review": "2023-11-01",
-        "last-reviewed": "2022-05-04"
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
     },
-    "synonyms": {
-        "comparison": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "When you compare two things, you have to look at the differences between them."
+                "Why did the tomato turn red? Because it saw the salad dressing. Now that's a pickle... or maybe it's somewhere between a cucumber and a zucchini."
             ]
         },
-        "relationship": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "There is a delicate balance between love and hate."
+                "The feeling of being stuck between a rock and a hard place can be overwhelming and distressing."
             ]
         },
-        "distance": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "The distance between two points can be measured using various methods."
+                "Arguments or conflicts that arise from differences or misunderstandings between people can cause anger and frustration."
             ]
         },
-        "dividing line": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "The border between two countries can often be a source of conflict."
+                "Did you know that the space between your eyebrows is called the 'nasion'?"
             ]
         },
-        "intermediate": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "An intermediate level of knowledge is often necessary to understand complex topics."
+                "There's no specific smell associated with 'between', but the scent of a fresh meadow or forest might come to mind when thinking of places in between city areas."
             ]
         },
-        "range": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "The price range of a product can vary depending on many factors."
+                "The feeling of being in between two soft, fluffy pillows can be cozy and comforting."
             ]
         },
-        "in the middle": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "I always try to find a compromise that lies somewhere between what I want and what others want."
+                "'Between' can be connected to the concept of transitions, liminal spaces, and ambiguity."
             ]
         }
     }

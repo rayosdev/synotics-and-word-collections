@@ -1,56 +1,94 @@
 {
     "english": {
-      "word": "bed",
-      "examples": ["I like to read in bed before I go to sleep.", "He spent the whole day in bed because he was sick."],
-      "gender": ["neuter"],
-      "trick-words": ["mattress", "cot", "bunk", "sleeping bag", "bedding"]
+        "word": "bed",
+        "examples": [
+            "I slept in a comfortable bed last night.",
+            "The dog is curled up on the bed.",
+            "I need to buy new sheets for my bed."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "bunk bed",
+            "murphy bed",
+            "daybed",
+            "sofa bed",
+            "canopy bed"
+        ]
     },
-    "spanish": {
-      "word": "cama",
-      "examples": ["Me gusta leer en la cama antes de dormir.", "Pasó todo el día en la cama porque estaba enfermo."],
-      "gender": ["feminine"],
-      "trick-words": ["colchón", "litera", "catre", "edredón", "sábanas"]
+    "portuguese": {
+        "word": "cama",
+        "examples": [
+            "Eu dormi em uma cama confortável na noite passada.",
+            "O cachorro está enrolado na cama.",
+            "Eu preciso comprar novas lençóis para minha cama."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "beliche",
+            "cama retrátil",
+            "cama de dia",
+            "sofá-cama",
+            "cama com dossel"
+        ]
     },
     "progress": {
-      "memory": 0.7,
-      "gender-memory": 0.6
+        "memory": 0.7,
+        "gender-memory": 0.7
     },
-    "type": ["noun"],
+    "type": [
+        "noun"
+    ],
     "dates": {
-      "discover-date": "",
-      "next-review": "",
-      "last-reviewed": ""
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
     },
-        "synonyms": {
-            "comfortable": {
-                "user-made": [],
-                "suggested": ["A bed that feels like sleeping on a cloud."]
-            },
-            "relaxation": {
-                "user-made": [],
-                "suggested": ["The feeling of sinking into a soft and cozy bed after a long day."]
-            },
-            "restful": {
-                "user-made": [],
-                "suggested": ["A bed that promotes restful and uninterrupted sleep."]
-            },
-            "luxurious": {
-                "user-made": [],
-                "suggested": ["A king-sized bed with plush bedding and pillows."]
-            },
-            "dreams": {
-                "user-made": [],
-                "suggested": ["A place where dreams are made and where the day's worries disappear."]
-            },
-            "warmth": {
-                "user-made": [],
-                "suggested": ["The warmth and comfort of snuggling up in a cozy bed on a cold night."]
-            },
-            "sanctuary": {
-                "user-made": [],
-                "suggested": ["A personal sanctuary and escape from the stresses of the outside world."]
-            }
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the bed go to the doctor? Because it was a spring bed."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Lying in bed all day can be a sign of depression."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why is the bed always too hot or too cold? It's like it can't make up its mind!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the average person spends a third of their life in bed?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of freshly washed sheets."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of sinking into a soft and comfortable bed."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "A bed is a place of safety, comfort, and relaxation."
+            ]
         }
     }
-    
-  
+}
