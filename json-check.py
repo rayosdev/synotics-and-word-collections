@@ -75,4 +75,4 @@ def check_json(directory):
                 except ValueError as e:
                     print(f'Error: {filename} is not valid json. Details: {e}')
 
-check_json('./tmp')
+check_json('./done')
