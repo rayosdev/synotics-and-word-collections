@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "a",
+        "examples": [
+            "I saw a cat in the garden.",
+            "She bought a book from the store."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "an",
+            "one",
+            "some",
+            "any",
+            "per"
+        ]
+    },
+    "portuguese": {
+        "word": "um",
+        "examples": [
+            "Eu vi um gato no jardim.",
+            "Ela comprou um livro na loja."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "uma",
+            "um(a)",
+            "algum",
+            "qualquer",
+            "por"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "indefinite article"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the scarecrow win an award? Because he was outstanding in his field of 'a'!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes, it feels like 'a' is such a small word, but it carries so much weight in our sentences."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do people always misuse 'a' and 'an'? It's so frustrating!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the word 'a' is the most commonly used word in the English language?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no smell associated with the word 'a', but it's an essential part of constructing meaningful sentences."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The sensation of typing the letter 'a' on a keyboard or writing it with a pen on paper."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The word 'a' is a fundamental element of language, helping us express ourselves and make connections between words and ideas."
+            ]
+        }
+    }
+}

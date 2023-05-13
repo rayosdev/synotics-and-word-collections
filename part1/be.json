@@ -1,0 +1,95 @@
+{
+    "english": {
+        "word": "be",
+        "examples": [
+            "To be or not to be, that is the question.",
+            "I want to be a doctor when I grow up.",
+            "Don't be late for the meeting."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "exist",
+            "occur",
+            "take place",
+            "happen",
+            "come into being"
+        ]
+    },
+    "portuguese": {
+        "word": "ser/estar",
+        "examples": [
+            "Ser ou não ser, eis a questão.",
+            "Quero ser médico quando crescer.",
+            "Não se atrase para a reunião."
+        ],
+        "gender": [
+            "masculine",
+            "feminine"
+        ],
+        "trick-words": [
+            "existir",
+            "ocorrer",
+            "acontecer",
+            "surgir",
+            "aparecer"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why do bees have sticky hair? Because they use honey combs!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "To be or not to be, that is the question."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Be quiet!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that a bee can fly up to 15 miles per hour?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The sweet smell of honey made by bees."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of a bee buzzing around you."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to nature and the importance of bees in our ecosystem."
+            ]
+        }
+    }
+}

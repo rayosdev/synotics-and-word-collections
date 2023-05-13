@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "ball",
+        "examples": [
+            "He kicked the ball into the goal.",
+            "They played catch with a ball.",
+            "She threw the ball to her dog."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "sphere",
+            "orb",
+            "sphere",
+            "pellet",
+            "globe"
+        ]
+    },
+    "portuguese": {
+        "word": "bola",
+        "examples": [
+            "Ele chutou a bola para o gol.",
+            "Eles jogaram bola.",
+            "Ela jogou a bola para o seu cachorro."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "esfera",
+            "orbe",
+            "esfera",
+            "pelota",
+            "globo"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the ball bring a towel to the party? Because it heard things were going to get bouncing!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling a sense of sadness when a ball gets lost or deflated, ending the fun and play."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when someone intentionally damages or pops a ball, ruining the game for others."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the world's largest inflatable ball has a diameter of 30 feet? It's big enough to fit several people inside!"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with a ball, but the scent of a new rubber ball can be quite distinctive."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The satisfying bounce and the feel of a ball in your hands as you catch, throw, or kick it."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Balls are universal symbols of play and can bring people together, fostering connections and shared enjoyment."
+            ]
+        }
+    }
+}

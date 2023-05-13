@@ -1,0 +1,91 @@
+{
+    "english": {
+        "word": "birthday",
+        "examples": [
+            "Happy birthday! Let's celebrate with a party.",
+            "She received many gifts on her birthday."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "anniversary",
+            "celebration",
+            "special day",
+            "natal day",
+            "born-day"
+        ]
+    },
+    "portuguese": {
+        "word": "aniversário",
+        "examples": [
+            "Feliz aniversário! Vamos comemorar com uma festa.",
+            "Ela recebeu muitos presentes no aniversário dela."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "comemoração",
+            "dia especial",
+            "nascimento",
+            "dia de nascimento"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the birthday cake go to school? Because it wanted to be a smartie-pants!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes, birthdays can be a reminder of the passage of time and make us reflect on our lives."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do some people always forget my birthday? It makes me so angry!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the world record for the most candles blown out on a birthday cake is 72?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The aroma of freshly baked cake and sweet icing that fills the air during a birthday celebration."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of unwrapping a birthday gift and holding it in your hands, filled with anticipation."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Birthdays are a time for gathering with loved ones, celebrating milestones, and strengthening connections with family and friends."
+            ]
+        }
+    }
+}

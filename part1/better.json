@@ -1,0 +1,95 @@
+{
+    "english": {
+        "word": "better",
+        "examples": [
+            "She felt better after taking a nap.",
+            "He is a better athlete than his brother.",
+            "We need to do better on our next project."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "superior",
+            "improved",
+            "enhanced",
+            "more advantageous",
+            "higher-quality"
+        ]
+    },
+    "portuguese": {
+        "word": "melhor",
+        "examples": [
+            "Ela se sentiu melhor depois de tirar uma soneca.",
+            "Ele é um atleta melhor do que seu irmão.",
+            "Precisamos fazer melhor no nosso próximo projeto."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "superior",
+            "melhorado",
+            "aprimorado",
+            "mais vantajoso",
+            "de maior qualidade"
+        ]
+    },
+    "progress": {
+        "memory": 0.9,
+        "gender-memory": 0.9
+    },
+    "type": [
+        "adjective",
+        "adverb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why don't scientists trust atoms? Because they make up everything! But seriously, better to keep an open mind and let the evidence lead the way."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of being stuck in a difficult situation can be overwhelming, but it's always better to reach out for help and support."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "When we see injustice or unfairness in the world, it's natural to feel angry. But it's important to channel that anger into constructive action that can make things better."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that some studies suggest that listening to music can actually make you feel better, both physically and emotionally?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with 'better', but the scent of freshly baked cookies or a fragrant bouquet of flowers can certainly make a person feel better."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of a warm hug from a loved one can instantly make us feel better."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "'Better' can be connected to the concept of growth, improvement, and positive change. It's about moving forward and striving for a better future."
+            ]
+        }
+    }
+}

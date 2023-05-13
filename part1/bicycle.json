@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "bicycle",
+        "examples": [
+            "She rode her bicycle to work.",
+            "He fell off his bicycle and scraped his knee.",
+            "The bicycle race will start in an hour."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "bike",
+            "cycle",
+            "two-wheeler",
+            "pedal-powered vehicle",
+            "velocipede"
+        ]
+    },
+    "portuguese": {
+        "word": "bicicleta",
+        "examples": [
+            "Ela foi de bicicleta para o trabalho.",
+            "Ele caiu da bicicleta e ralou o joelho.",
+            "A corrida de bicicleta começará em uma hora."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "bike",
+            "ciclo",
+            "veículo de duas rodas",
+            "veículo movido a pedal",
+            "velocípede"
+        ]
+    },
+    "progress": {
+        "memory": 0.9,
+        "gender-memory": 0.9
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why couldn't the bicycle stand up by itself? Because it was two-tired!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "An abandoned bicycle can be a symbol of loss or abandonment."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Frustration can arise from a stolen or broken bicycle, or from reckless or inconsiderate behavior from other cyclists or drivers."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that bicycles are actually more energy-efficient than cars, making them a great option for environmentally-friendly transportation?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with bicycles, but the scent of fresh air and the outdoors may be evoked when riding."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of wind in your hair and the sun on your skin while riding a bicycle can be invigorating."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Bicycles can be connected to freedom, independence, exercise, and a sense of community with other cyclists."
+            ]
+        }
+    }
+}

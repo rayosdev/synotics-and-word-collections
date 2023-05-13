@@ -1,0 +1,93 @@
+{
+    "english": {
+        "word": "big",
+        "examples": [
+            "He has a big house.",
+            "She bought a big car."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "large",
+            "huge",
+            "enormous",
+            "massive",
+            "giant"
+        ]
+    },
+    "portuguese": {
+        "word": "grande",
+        "examples": [
+            "Ele tem uma casa grande.",
+            "Ela comprou um carro grande."
+        ],
+        "gender": [
+            "masculine",
+            "feminine"
+        ],
+        "trick-words": [
+            "ampla",
+            "enorme",
+            "imenso",
+            "maciça",
+            "gigante"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "adjective"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the giant refuse to eat the tiny airplane? He was afraid it would give him a big tummy ache!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes it feels like the world is too big for us to handle, but we just have to take things one step at a time."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do people always feel the need to make themselves seem big by putting others down? It's not right."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the tallest recorded person in history was over 8 feet tall? That's really big!"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no smell associated with the word 'big', but it can be used to describe the scent of large flowers or trees."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of wrapping your arms around a big teddy bear or snuggling up under a big blanket."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The word 'big' can evoke feelings of awe and wonder at the vastness of the universe, or a sense of belonging and community in a big city or close-knit group of friends."
+            ]
+        }
+    }
+}

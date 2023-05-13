@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "August",
+        "examples": [
+            "My birthday is in August.",
+            "We're planning a vacation in August.",
+            "August is usually a hot month."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "eighth month",
+            "summer month",
+            "Leo season",
+            "harvest month",
+            "dog days"
+        ]
+    },
+    "portuguese": {
+        "word": "agosto",
+        "examples": [
+            "Meu aniversário é em agosto.",
+            "Estamos planejando férias em agosto.",
+            "Agosto geralmente é um mês quente."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "oitavo mês",
+            "mês de verão",
+            "época de Leão",
+            "mês da colheita",
+            "cão deitado"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.7
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the calendar file a police report in August? Because it had too many hot dates!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "August reminds me of the end of summer, and it always makes me a little sad."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry at the hot and humid days in August. Can't it be fall already?"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that August is named after the Roman Emperor Augustus?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of barbecues and sunscreen in the air during August."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of warm sand between your toes at the beach in August."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "August is a time when families come together for vacations and create lasting memories."
+            ]
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "because",
+        "examples": [
+            "I couldn't go out because it was raining.",
+            "He missed the train because he overslept.",
+            "I'm happy because I passed my exam."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "since",
+            "due to",
+            "on account of",
+            "owing to",
+            "as a result of"
+        ]
+    },
+    "portuguese": {
+        "word": "porque",
+        "examples": [
+            "Eu não pude sair porque estava chovendo.",
+            "Ele perdeu o trem porque dormiu demais.",
+            "Estou feliz porque passei no meu exame."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "já que",
+            "devido a",
+            "em razão de",
+            "em virtude de",
+            "como resultado de"
+        ]
+    },
+    "progress": {
+        "memory": 0.6,
+        "gender-memory": 0.6
+    },
+    "type": [
+        "conjunction"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why was the math book sad? Because it had too many problems, and not enough examples to show how to solve them!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Because sometimes things just don't work out, and it's not because of anything you did wrong."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Because I said so, that's why!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Because life is unpredictable, and sometimes the things that don't make sense end up being the best things that ever happened to you."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of fresh coffee in the morning, because it's the only thing that gets me out of bed."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of warm sand between your toes, because it reminds you that there's a whole world out there waiting to be explored."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Because when you find someone who loves you for who you are, everything else just falls into place."
+            ]
+        }
+    }
+}

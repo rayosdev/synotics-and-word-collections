@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "book",
+        "examples": [
+            "I love reading books.",
+            "She borrowed a book from the library.",
+            "He wrote a bestselling book."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "novel",
+            "story",
+            "publication",
+            "volume",
+            "text"
+        ]
+    },
+    "portuguese": {
+        "word": "livro",
+        "examples": [
+            "Eu adoro ler livros.",
+            "Ela pegou emprestado um livro na biblioteca.",
+            "Ele escreveu um livro de sucesso."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "romance",
+            "história",
+            "publicação",
+            "volume",
+            "texto"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the book go to the therapist? Because it had too many stories to keep 'booked' up inside!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling a sense of sadness when you finish a captivating book and have to say goodbye to the characters."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when someone mistreats a book by folding its pages or writing in it."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the Guinness World Record for the largest book ever published goes to a book measuring 5 meters by 8.06 meters?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The distinct smell of an old book, filled with the aroma of history and stories."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The tactile pleasure of holding a book, feeling the weight of its pages and the texture of the cover."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Books have the power to connect us to different cultures, ideas, and perspectives, fostering empathy and understanding."
+            ]
+        }
+    }
+}

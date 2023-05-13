@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "and",
+        "examples": [
+            "I like apples and oranges.",
+            "She sings and dances beautifully."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "plus",
+            "together with",
+            "as well as",
+            "in addition to",
+            "alongside"
+        ]
+    },
+    "portuguese": {
+        "word": "e",
+        "examples": [
+            "Gosto de maçãs e laranjas.",
+            "Ela canta e dança lindamente."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "além de",
+            "junto com",
+            "assim como",
+            "bem como",
+            "em conjunto"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "conjunction"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why don't scientists trust atoms? Because they make up everything 'and' sometimes they don't even know what they're doing!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes, it feels like life is just a long series of 'and's, with no end in sight."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do some people insist on using 'and' excessively in their writing? It's so annoying and unnecessary!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the word 'and' is one of the most commonly used words in the English language?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no smell associated with the word 'and', but it's an essential component of many phrases and sentences."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The sensation of typing the word 'and' on a keyboard or writing it with a pen on paper."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The word 'and' is often used to connect people, ideas, and concepts, creating a sense of unity and cohesiveness."
+            ]
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+	"english": {
+		"word": "become",
+		"examples": [
+			"She wants to become a doctor.",
+			"I hope to become a better person.",
+			"The caterpillar will become a butterfly."
+		],
+		"gender": [
+			"neuter"
+		],
+		"trick-words": [
+			"turn into",
+			"transform",
+			"evolve",
+			"develop",
+			"grow into"
+		]
+	},
+	"portuguese": {
+		"word": "tornar-se",
+		"examples": [
+			"Ela quer se tornar uma médica.",
+			"Espero me tornar uma pessoa melhor.",
+			"A lagarta se tornará uma borboleta."
+		],
+		"gender": [
+			"neuter"
+		],
+		"trick-words": [
+			"virar",
+			"transformar",
+			"evoluir",
+			"desenvolver",
+			"crescer para se tornar"
+		]
+	},
+	"progress": {
+		"memory": 0.8,
+		"gender-memory": 0.8
+	},
+	"type": [
+		"verb"
+	],
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+	"synotics": {
+		"funny": {
+			"user-made": [],
+			"suggested": [
+				"Why did the tomato turn red? Because it saw the salad dressing! It wanted to become a salad too."
+			]
+		},
+		"sad": {
+			"user-made": [],
+			"suggested": [
+				"The caterpillar is so envious of the butterfly's wings. It wants to become something beautiful too."
+			]
+		},
+		"angry": {
+			"user-made": [],
+			"suggested": [
+				"Why is everyone telling me to 'just be yourself'? What if I want to become someone else?"
+			]
+		},
+		"surprising": {
+			"user-made": [],
+			"suggested": [
+				"The caterpillar doesn't just become a butterfly, it completely transforms into a new being."
+			]
+		},
+		"smell": {
+			"user-made": [],
+			"suggested": [
+				"The smell of freshly baked cookies makes any house become a home."
+			]
+		},
+		"touch": {
+			"user-made": [],
+			"suggested": [
+				"The soft, cozy blanket on my bed makes my room become a sanctuary."
+			]
+		},
+		"connection": {
+			"user-made": [],
+			"suggested": [
+				"The more I practice, the more I become connected to my yoga practice."
+			]
+		}
+	}
+}

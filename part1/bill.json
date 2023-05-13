@@ -1,0 +1,94 @@
+{
+	"english": {
+		"word": "bill",
+		"examples": [
+			"He paid the restaurant bill.",
+			"The bird had a long, curved bill.",
+			"She received a bill for her monthly phone usage."
+		],
+		"gender": [
+			"neuter"
+		],
+		"trick-words": [
+			"invoice",
+			"statement",
+			"check",
+			"tab",
+			"beak"
+		]
+	},
+	"portuguese": {
+		"word": "conta",
+		"examples": [
+			"Ele pagou a conta do restaurante.",
+			"O pássaro tinha um bico longo e curvo.",
+			"Ela recebeu uma conta pelo uso mensal do telefone."
+		],
+		"gender": [
+			"feminine"
+		],
+		"trick-words": [
+			"fatura",
+			"extrato",
+			"cheque",
+			"nota",
+			"bico"
+		]
+	},
+	"progress": {
+		"memory": 0.8,
+		"gender-memory": 0.8
+	},
+	"type": [
+		"noun"
+	],
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+	"synotics": {
+		"funny": {
+			"user-made": [],
+			"suggested": [
+				"Why did the duck get in trouble with the waiter? He put everything on his bill!"
+			]
+		},
+		"sad": {
+			"user-made": [],
+			"suggested": [
+				"Struggling to pay a bill can be a source of stress and anxiety."
+			]
+		},
+		"angry": {
+			"user-made": [],
+			"suggested": [
+				"Unexpected or unfair charges on a bill can be a source of anger or frustration."
+			]
+		},
+		"surprising": {
+			"user-made": [],
+			"suggested": [
+				"Did you know that the phrase 'fit the bill' comes from the world of sailing, where a properly fitting bill or beakhead was crucial for a ship's performance?"
+			]
+		},
+		"smell": {
+			"user-made": [],
+			"suggested": [
+				"There's no specific smell associated with 'bill', but the scent of something that reminds you of a particular memory or experience can be connected to bills or payment."
+			]
+		},
+		"touch": {
+			"user-made": [],
+			"suggested": [
+				"There's no physical sensation associated with 'bill', but the feeling of relief when a bill is paid off can be palpable."
+			]
+		},
+		"connection": {
+			"user-made": [],
+			"suggested": [
+				"Bills can be connected to the ideas of responsibility, finance, and obligation, as well as specific cultural or legal contexts."
+			]
+		}
+	}
+}

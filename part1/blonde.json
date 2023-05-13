@@ -1,0 +1,95 @@
+{
+    "english": {
+        "word": "blonde",
+        "examples": [
+            "She has long blonde hair.",
+            "He dyed his hair blonde.",
+            "The little girl is a natural blonde."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "fair",
+            "golden",
+            "light-haired",
+            "platinum",
+            "yellow"
+        ]
+    },
+    "portuguese": {
+        "word": "loira",
+        "examples": [
+            "Ela tem cabelos loiros e longos.",
+            "Ele tingiu o cabelo de loiro.",
+            "A menininha é loira natural."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "clara",
+            "dourada",
+            "cabelos claros",
+            "platinada",
+            "amarela"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "adjective",
+        "color"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the blonde bring a ladder to the bar? Because she heard the drinks were on the house!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling sad when people make assumptions or stereotypes based on hair color, like the 'blonde' stereotype."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when people use 'blonde' jokes to demean or belittle others."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that natural 'blonde' hair is actually quite rare, with only around 2% of the world's population being naturally blonde?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific scent associated with being 'blonde', but it can remind you of the freshness and vibrancy of sunny days."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The softness and silky texture of 'blonde' hair can be pleasant to touch."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Celebrating the uniqueness and beauty of 'blonde' hair can foster connections and appreciation for diverse appearances."
+            ]
+        }
+    }
+}

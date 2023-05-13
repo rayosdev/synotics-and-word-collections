@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "bored",
+        "examples": [
+            "I'm feeling bored and don't know what to do.",
+            "She looked bored during the meeting.",
+            "He gets easily bored with repetitive tasks."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "uninterested",
+            "unengaged",
+            "apathetic",
+            "indifferent",
+            "disinterested"
+        ]
+    },
+    "portuguese": {
+        "word": "entediado",
+        "examples": [
+            "Estou me sentindo entediado e não sei o que fazer.",
+            "Ela parecia entediada durante a reunião.",
+            "Ele fica facilmente entediado com tarefas repetitivas."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "desinteressado",
+            "desengajado",
+            "apático",
+            "indiferente",
+            "desinteressado"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "adjective"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why don't scientists trust atoms when they're 'bored'? Because they make up everything!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling 'bored' can be a lonely and disheartening experience, especially when you're longing for excitement."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when I have a lot of free time but still feel 'bored' and unproductive."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that feeling 'bored' can actually stimulate creativity and encourage new ideas?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no distinct smell associated with being 'bored', but it might make you more aware of other scents around you."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "When feeling 'bored', engaging in activities that involve tactile sensations can help alleviate the restlessness."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Sharing moments of 'boredom' with friends or loved ones can create stronger bonds and deeper connections."
+            ]
+        }
+    }
+}

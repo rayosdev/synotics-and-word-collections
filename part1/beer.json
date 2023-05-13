@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "beer",
+        "examples": [
+            "I'll have a cold beer, please.",
+            "We had a few beers and watched the game.",
+            "I brewed my own beer last weekend."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "ale",
+            "lager",
+            "pilsner",
+            "stout",
+            "IPA"
+        ]
+    },
+    "portuguese": {
+        "word": "cerveja",
+        "examples": [
+            "Eu vou querer uma cerveja gelada, por favor.",
+            "Tomamos algumas cervejas e assistimos ao jogo.",
+            "Eu fiz minha própria cerveja no fim de semana passado."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "chope",
+            "pilsen",
+            "IPA",
+            "cerveja preta",
+            "cerveja artesanal"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.7
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why is beer better than women? You can have more than one without being a pig."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Beer is like liquid bread, but when you drink too much of it you end up feeling worse than when you're hungry."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why is it so hard to find a good beer these days? Everything tastes like watered-down horse piss."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that beer was once used as currency in ancient Egypt?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The aroma of a freshly poured beer."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of a cold beer bottle in your hand on a hot day."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The social connection and bonding that comes with sharing a beer with friends."
+            ]
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "bath",
+        "examples": [
+            "I take a bath every morning.",
+            "The baby loves to play in the bath.",
+            "She soaked in a hot bath after a long day at work."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "shower",
+            "cleanse",
+            "wash",
+            "bathe",
+            "immerse"
+        ]
+    },
+    "portuguese": {
+        "word": "banho",
+        "examples": [
+            "Eu tomo banho todas as manhãs.",
+            "O bebê adora brincar no banho.",
+            "Ela relaxou em um banho quente depois de um longo dia de trabalho."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "ducha",
+            "limpar",
+            "lavar",
+            "banhar",
+            "imersão"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.7
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the shampoo bottle break up with the conditioner? It didn't like to share the bath with anyone else."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Baths used to be a place of relaxation, but now it's just another chore on the to-do list."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do bath towels get less fluffy over time? Because they're tired of being used to dry off sweaty bodies."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that taking a cold bath can help with muscle soreness?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The scent of lavender in a warm bath."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of hot water on sore muscles."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Taking a bath can be a time to disconnect from the world and reconnect with yourself."
+            ]
+        }
+    }
+}

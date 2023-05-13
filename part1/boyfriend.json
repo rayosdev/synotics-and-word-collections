@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "boyfriend",
+        "examples": [
+            "She introduced her boyfriend to her parents.",
+            "They have been dating for a year and he's her boyfriend."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "partner",
+            "significant other",
+            "beau",
+            "lover",
+            "manfriend"
+        ]
+    },
+    "portuguese": {
+        "word": "namorado",
+        "examples": [
+            "Ela apresentou seu namorado aos pais.",
+            "Eles estão namorando há um ano e ele é seu namorado."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "companheiro",
+            "parceiro",
+            "amado",
+            "amante",
+            "homem-amigo"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the boyfriend bring a ladder to the bar? He heard the drinks were on the house!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes, thinking about a past boyfriend can bring up feelings of heartbreak and longing."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do some boyfriends break promises and betray trust? It's so infuriating and hurtful!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the average age for a person's first boyfriend or girlfriend is around 14 years old?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with the word 'boyfriend', but it can evoke memories of cologne or perfume worn by a loved one."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of holding hands, hugging, or being close to your boyfriend, experiencing warmth and comfort."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Having a boyfriend can provide a sense of companionship, support, and emotional connection in a romantic relationship."
+            ]
+        }
+    }
+}

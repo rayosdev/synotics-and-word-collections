@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "begin",
+        "examples": [
+            "Let's begin the meeting.",
+            "I will begin my homework as soon as I get home.",
+            "The concert will begin at 8 pm."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "start",
+            "commence",
+            "initiate",
+            "launch",
+            "embark"
+        ]
+    },
+    "portuguese": {
+        "word": "começar",
+        "examples": [
+            "Vamos começar a reunião.",
+            "Eu vou começar a fazer minha lição assim que chegar em casa.",
+            "O concerto começará às 20 horas."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "iniciar",
+            "iniciar uma atividade",
+            "iniciar um processo",
+            "lançar",
+            "embarcar"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the tomato turn red? Because it saw the salad dressing! (Let's begin the laughter.)"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "It's always sad to see something end, but it's even sadder to see it never begin."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Don't be angry that it's over, be happy that it happened. And if it didn't happen, begin again."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "You never know where life will take you. One moment you could be ending, and the next, you could be beginning."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of a new beginning."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of excitement when you begin something new."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection to your purpose when you begin a new chapter in your life."
+            ]
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "band",
+        "examples": [
+            "The band played live music at the concert.",
+            "She joined a rock band.",
+            "He plays the guitar in a jazz band."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "musical group",
+            "ensemble",
+            "orchestra",
+            "troupe",
+            "ensemble"
+        ]
+    },
+    "portuguese": {
+        "word": "banda",
+        "examples": [
+            "A banda tocou música ao vivo no concerto.",
+            "Ela entrou para uma banda de rock.",
+            "Ele toca guitarra em uma banda de jazz."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "grupo musical",
+            "conjunto",
+            "orquestra",
+            "trupe",
+            "conjunto"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the scarecrow start a 'band'? Because he was outstanding in his field!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling a sense of sadness when a beloved 'band' breaks up and you miss their music."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when people talk loudly and disrupt the performance of a 'band'."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the world's largest 'band' performance involved 9,000 musicians playing together?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with a 'band', but it might remind you of the scent of live music venues or the excitement of a concert."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The energy and vibration you feel through your body when you're close to the stage at a 'band' concert."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "'Bands' have the power to bring people together, creating connections and shared experiences through the universal language of music."
+            ]
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+  "english": {
+    "word": "boat",
+    "examples": [
+      "They went fishing in a small boat.",
+      "She sailed around the world in a sailboat.",
+      "The boat was floating on the calm water."
+    ],
+    "gender": [
+      "neuter"
+    ],
+    "trick-words": [
+      "ship",
+      "vessel",
+      "craft",
+      "yacht",
+      "canoe"
+    ]
+  },
+  "portuguese": {
+    "word": "barco",
+    "examples": [
+      "Eles foram pescar em um barco pequeno.",
+      "Ela navegou ao redor do mundo em um veleiro.",
+      "O barco estava flutuando sobre a água calma."
+    ],
+    "gender": [
+      "masculine"
+    ],
+    "trick-words": [
+      "navio",
+      "embarcação",
+      "náutica",
+      "iate",
+      "canoa"
+    ]
+  },
+  "progress": {
+    "memory": 0.8,
+    "gender-memory": 0.8
+  },
+  "type": [
+    "noun"
+  ],
+  "dates": {
+    "discover-date": "",
+    "next-review": "",
+    "last-reviewed": ""
+  },
+  "synotics": {
+    "funny": {
+      "user-made": [],
+      "suggested": [
+        "Why don't oysters donate to charity? Because they are shellfish and don't like to share their 'boat'!"
+      ]
+    },
+    "sad": {
+      "user-made": [],
+      "suggested": [
+        "Seeing an abandoned 'boat' adrift in the water can evoke a sense of sadness and loneliness."
+      ]
+    },
+    "angry": {
+      "user-made": [],
+      "suggested": [
+        "I get so angry when people litter and pollute our oceans, harming marine life and damaging 'boats'."
+      ]
+    },
+    "surprising": {
+      "user-made": [],
+      "suggested": [
+        "Did you know that the world's oldest intact 'boat' is a dugout canoe dating back to around 8,000 BCE?"
+      ]
+    },
+    "smell": {
+      "user-made": [],
+      "suggested": [
+        "The salty scent of the sea and the fresh breeze as you sail on a 'boat'."
+      ]
+    },
+    "touch": {
+      "user-made": [],
+      "suggested": [
+        "The gentle rocking motion and the feel of the water against the hull when you're on a 'boat'."
+      ]
+    },
+    "connection": {
+      "user-made": [],
+      "suggested": [
+        "Sharing moments on a 'boat' with friends or family can create lasting memories and strengthen bonds."
+      ]
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "baby",
+        "examples": [
+            "She cradled the baby in her arms.",
+            "He's expecting a baby in a few months.",
+            "The baby smiled and giggled."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "infant",
+            "newborn",
+            "toddler",
+            "child",
+            "little one"
+        ]
+    },
+    "portuguese": {
+        "word": "bebê",
+        "examples": [
+            "Ela embalou o bebê em seus braços.",
+            "Ele está esperando um bebê em alguns meses.",
+            "O bebê sorriu e deu risadinhas."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "infante",
+            "recém-nascido",
+            "criança pequena",
+            "filho",
+            "pequenino"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the baby go to work? Because it wanted to 'cuddle' with colleagues in the boardroom!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling a sense of sadness when you see a baby cry or when you witness the struggles they face."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when someone mistreats or neglects a baby, who is so innocent and vulnerable."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that a newborn baby can recognize the voice of its mother from the moment it's born?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The sweet and delicate scent of a baby, often associated with innocence and purity."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The softness and tenderness of a baby's skin when you gently stroke or hold them."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Babies have a unique ability to bring people together, creating connections and spreading love and joy."
+            ]
+        }
+    }
+}

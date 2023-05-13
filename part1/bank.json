@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "bank",
+        "examples": [
+            "She deposited her money in the bank.",
+            "He works at a local bank.",
+            "The river flows beside the bank."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "financial institution",
+            "lender",
+            "credit union",
+            "vault",
+            "financial establishment"
+        ]
+    },
+    "portuguese": {
+        "word": "banco",
+        "examples": [
+            "Ela depositou seu dinheiro no banco.",
+            "Ele trabalha em um banco local.",
+            "O rio flui ao lado do banco."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "instituição financeira",
+            "credor",
+            "cooperativa de crédito",
+            "cofre",
+            "estabelecimento financeiro"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the piggy bank go to therapy? It was dealing with some serious 'coin'fidence issues!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling a sense of sadness when you see long lines and crowded spaces in a busy 'bank'."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when banks impose excessive fees and hidden charges on their customers."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the first 'bank' established dates back to ancient Mesopotamia around 2,000 BCE?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with a 'bank', but it might remind you of the scent of money or the fragrance of security."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feel of smooth marble countertops or the texture of banknotes in your hands when you visit a 'bank'."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "'Banks' play a crucial role in our economic system, connecting individuals and businesses by providing financial services."
+            ]
+        }
+    }
+}

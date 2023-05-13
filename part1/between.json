@@ -1,0 +1,95 @@
+{
+    "english": {
+        "word": "between",
+        "examples": [
+            "The cat was hiding between the couch cushions.",
+            "The agreement was reached between the two parties.",
+            "She couldn't decide between chocolate and vanilla."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "among",
+            "amidst",
+            "in the middle of",
+            "in between",
+            "betwixt"
+        ]
+    },
+    "portuguese": {
+        "word": "entre",
+        "examples": [
+            "O gato estava escondido entre as almofadas do sofá.",
+            "O acordo foi alcançado entre as duas partes.",
+            "Ela não conseguia decidir entre chocolate e baunilha."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "entre",
+            "no meio de",
+            "no meio de",
+            "no meio de",
+            "betwixt"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "preposition",
+        "adverb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the tomato turn red? Because it saw the salad dressing. Now that's a pickle... or maybe it's somewhere between a cucumber and a zucchini."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of being stuck between a rock and a hard place can be overwhelming and distressing."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Arguments or conflicts that arise from differences or misunderstandings between people can cause anger and frustration."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the space between your eyebrows is called the 'nasion'?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with 'between', but the scent of a fresh meadow or forest might come to mind when thinking of places in between city areas."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of being in between two soft, fluffy pillows can be cozy and comforting."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "'Between' can be connected to the concept of transitions, liminal spaces, and ambiguity."
+            ]
+        }
+    }
+}

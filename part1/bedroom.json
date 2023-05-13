@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "bedroom",
+        "examples": [
+            "I painted my bedroom blue.",
+            "The kids are playing in their bedroom.",
+            "Our bedroom has a balcony with a great view."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "master bedroom",
+            "guest room",
+            "nursery",
+            "den",
+            "loft"
+        ]
+    },
+    "portuguese": {
+        "word": "quarto",
+        "examples": [
+            "Eu pintei meu quarto de azul.",
+            "As crianças estão brincando em seu quarto.",
+            "Nosso quarto tem uma varanda com uma ótima vista."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "quarto de casal",
+            "quarto de hóspedes",
+            "quarto de bebê",
+            "sala de estar",
+            "sótão"
+        ]
+    },
+    "progress": {
+        "memory": 0.6,
+        "gender-memory": 0.6
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the bed go to the doctor? Because it was a little un-springy."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The empty bedroom reminded me of how lonely I felt."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do I always stub my toe on the corner of the bed in the middle of the night? It's like it's trying to attack me."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the average person will spend about a third of their life in a bedroom?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The fresh scent of clean sheets in a bedroom."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The softness of a fluffy pillow in a cozy bedroom."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of safety and comfort that comes from being in your own bedroom."
+            ]
+        }
+    }
+}

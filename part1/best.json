@@ -1,0 +1,96 @@
+{
+    "english": {
+        "word": "best",
+        "examples": [
+            "She won first prize for best costume.",
+            "The best way to learn is through practice.",
+            "He always tries to do his best."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "top",
+            "finest",
+            "superlative",
+            "optimal",
+            "most excellent"
+        ]
+    },
+    "portuguese": {
+        "word": "melhor",
+        "examples": [
+            "Ela ganhou o primeiro prêmio de melhor fantasia.",
+            "A melhor forma de aprender é através da prática.",
+            "Ele sempre tenta fazer o melhor dele."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "top",
+            "fino",
+            "superlativo",
+            "ótimo",
+            "mais excelente"
+        ]
+    },
+    "progress": {
+        "memory": 0.9,
+        "gender-memory": 0.9
+    },
+    "type": [
+        "adjective",
+        "adverb",
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why was the math book sad? Because it had too many problems. But with some good study habits, you can be the best in math!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes it can be tough to deal with feelings of inadequacy or not measuring up to our own or others' standards of what's best. It's important to remember that everyone has their own journey and to focus on personal growth and progress."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "When we see someone being treated unfairly or not given their due, it can be frustrating and angering. But it's important to speak up and fight for what's right, so that everyone has the chance to be their best."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that studies suggest that a positive attitude can actually help you perform better, both academically and professionally?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with 'best', but the scent of fresh flowers or a warm, home-cooked meal can certainly make us feel our best."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of a soft, cozy blanket or a warm embrace from a loved one can make us feel our best."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "'Best' can be connected to the concept of excellence, achievement, and setting high standards for ourselves. It's about striving to be the best version of ourselves and achieving our full potential."
+            ]
+        }
+    }
+}

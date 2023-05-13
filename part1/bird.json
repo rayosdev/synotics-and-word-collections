@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "bird",
+        "examples": [
+            "I heard a bird singing in the tree.",
+            "She loves watching birds at the park.",
+            "He has a pet parrot that he trained to talk."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "feathered friend",
+            "avian",
+            "fowl",
+            "winged creature",
+            "beak-bearing animal"
+        ]
+    },
+    "portuguese": {
+        "word": "pássaro",
+        "examples": [
+            "Eu ouvi um pássaro cantando na árvore.",
+            "Ela adora observar pássaros no parque.",
+            "Ele tem um papagaio de estimação que treinou para falar."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "amigo emplumado",
+            "ave",
+            "galliforme",
+            "criatura alada",
+            "animal bico-portador"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.7
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why do birds fly south for the winter? Because it's too far to walk!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "The sound of a bird singing can bring up feelings of nostalgia or longing for something lost."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Birds can be a source of frustration for farmers or gardeners, who may have to deal with them eating crops."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that birds are the only animals that have feathers?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with 'bird', but the scent of something that reminds you of a particular memory or experience can be connected to birds."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "There's no physical sensation associated with 'bird', but the feeling of watching a bird take flight can be awe-inspiring."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Birds can be connected to the ideas of freedom, flight, and nature, as well as specific cultural or mythological beliefs."
+            ]
+        }
+    }
+}

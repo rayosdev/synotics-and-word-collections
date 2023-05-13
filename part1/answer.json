@@ -1,0 +1,95 @@
+{
+    "english": {
+        "word": "answer",
+        "examples": [
+            "Can you please answer this question?",
+            "She gave a detailed answer to the interviewer.",
+            "He didn't know the answer to the riddle."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "respond",
+            "reply",
+            "acknowledge",
+            "address",
+            "solve"
+        ]
+    },
+    "portuguese": {
+        "word": "resposta",
+        "examples": [
+            "Você poderia por favor responder a esta pergunta?",
+            "Ela deu uma resposta detalhada ao entrevistador.",
+            "Ele não sabia a resposta para o enigma."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "responder",
+            "retornar",
+            "reconhecer",
+            "abordar",
+            "solucionar"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the math book look so sad? It had too many problems and not enough answers!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Not receiving an answer to an important question can leave you feeling disappointed and uncertain."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when people dodge questions and refuse to give a straight answer."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that some answers lie within us, waiting to be discovered through self-reflection?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The sweet smell of success when you find the right answer to a challenging problem."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The satisfaction of finding an answer after searching and exploring various possibilities."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Finding common answers and understanding can create a sense of connection and harmony between individuals."
+            ]
+        }
+    }
+}

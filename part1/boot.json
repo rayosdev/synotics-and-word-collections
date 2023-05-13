@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "boot",
+        "examples": [
+            "She put on her hiking boots.",
+            "He wore leather boots.",
+            "The car's trunk is in the back, and the boot is in the front."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "shoe",
+            "footwear",
+            "sandal",
+            "sneaker",
+            "wellington"
+        ]
+    },
+    "portuguese": {
+        "word": "bota",
+        "examples": [
+            "Ela calçou suas botas de caminhada.",
+            "Ele usava botas de couro.",
+            "O porta-malas do carro fica na parte de trás, e a bota fica na frente."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "sapato",
+            "calçado",
+            "sandália",
+            "tênis",
+            "galocha"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the computer go to the doctor? It had a bad 'boot' sector!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Seeing a lone 'boot' abandoned on the side of the road can evoke a sense of melancholy."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when my shoelaces get stuck in the 'boot' zipper."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that 'boot' can also refer to a type of container used for transporting liquids?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The distinctive smell of new leather when you unbox a fresh pair of 'boots'."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The sturdy and supportive feel of 'boots' as you take each confident step."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Wearing 'boots' can create a connection to nature, making you feel grounded and ready for outdoor adventures."
+            ]
+        }
+    }
+}

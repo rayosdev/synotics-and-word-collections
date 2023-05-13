@@ -1,0 +1,95 @@
+{
+    "english": {
+        "word": "artist",
+        "examples": [
+            "She is a talented artist.",
+            "He works as a professional artist.",
+            "The museum exhibits artwork from various artists."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "creative",
+            "painter",
+            "sculptor",
+            "musician",
+            "performer"
+        ]
+    },
+    "portuguese": {
+        "word": "artista",
+        "examples": [
+            "Ela é uma artista talentosa.",
+            "Ele trabalha como artista profissional.",
+            "O museu exibe obras de arte de vários artistas."
+        ],
+        "gender": [
+            "masculine",
+            "feminine"
+        ],
+        "trick-words": [
+            "criativo",
+            "pintor",
+            "escultor",
+            "músico",
+            "artista performático"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.7
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the artist bring a pencil to bed? In case they had a sketchy dream!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Being an artist can be tough when your work is not appreciated or understood."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when people dismiss art as mere 'scribbles' without appreciating the skill and creativity behind it."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that some artists use unconventional materials like coffee, food, or even trash to create their artworks?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of oil paints in the studio is often associated with the work of an artist."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The tactile experience of sculpting clay or molding materials is an integral part of an artist's creative process."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Art has the power to connect people across cultures, languages, and generations, creating a sense of shared humanity."
+            ]
+        }
+    }
+}

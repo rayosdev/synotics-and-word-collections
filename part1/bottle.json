@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "bottle",
+        "examples": [
+            "She filled the bottle with water.",
+            "He opened a bottle of soda.",
+            "The baby drank milk from a bottle."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "container",
+            "flask",
+            "vessel",
+            "jar",
+            "canteen"
+        ]
+    },
+    "portuguese": {
+        "word": "garrafa",
+        "examples": [
+            "Ela encheu a garrafa com água.",
+            "Ele abriu uma garrafa de refrigerante.",
+            "O bebê bebeu leite na mamadeira."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "recipiente",
+            "frasco",
+            "vasilha",
+            "pote",
+            "cantil"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.7
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the soda bottle go to therapy? Because it had a lot of fizzical issues to work through!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Seeing empty bottles littered on the streets can be a sad reminder of the waste in our environment."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when people throw away plastic bottles instead of recycling them."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that glass bottles can be recycled and reused endlessly without losing their quality?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The distinct smell of a freshly opened bottle of perfume or cologne."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The cool sensation of condensation on the surface of a cold beverage bottle."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Bottled messages have been used throughout history as a way to connect with others across vast distances."
+            ]
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "english": {
+        "word": "behind",
+        "examples": [
+            "The car behind us honked its horn.",
+            "I left my keys behind in the restaurant.",
+            "He's behind in his work."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "rear",
+            "back",
+            "after",
+            "trailing",
+            "lagging"
+        ]
+    },
+    "portuguese": {
+        "word": "atrás",
+        "examples": [
+            "O carro atrás de nós buzinou.",
+            "Eu deixei minhas chaves para trás no restaurante.",
+            "Ele está atrasado em seu trabalho."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "parte traseira",
+            "costas",
+            "depois",
+            "em seguimento",
+            "ficando para trás"
+        ]
+    },
+    "progress": {
+        "memory": 0.75,
+        "gender-memory": 0.75
+    },
+    "type": [
+        "preposition",
+        "adverb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the bicycle fall over? Because it was two-tired of being left behind!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "When we feel left behind in life or by those around us, it can be hard to shake the feeling of sadness and isolation. It's important to remember that everyone moves at their own pace and that our worth isn't defined by our accomplishments or the approval of others."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "It can be frustrating and even infuriating when we feel like we're being held back or prevented from reaching our goals by someone or something behind us. But it's important to channel that anger into productive action rather than letting it consume us."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that studies have shown that the human eye can only see a small portion of the light spectrum? There's a whole world of colors and patterns happening behind the scenes that we can't even perceive."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with 'behind', but the scent of fresh laundry or baking cookies can be comforting and help us feel grounded in the present moment rather than dwelling on what's behind us."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of a supportive hand on our back or a hug from someone we trust can remind us that we're not alone even when we feel like we're being left behind."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes being left behind can actually be an opportunity for connection and growth. When we're forced to slow down or take a different path, we may meet new people or discover new aspects of ourselves that we wouldn't have otherwise."
+            ]
+        }
+    }
+}

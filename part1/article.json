@@ -1,0 +1,94 @@
+{
+	"english": {
+		"word": "article",
+		"examples": [
+			"I read an interesting article in the newspaper.",
+			"She published an article in a prestigious journal.",
+			"The magazine features articles on various topics."
+		],
+		"gender": [
+			"neuter"
+		],
+		"trick-words": [
+			"piece",
+			"essay",
+			"report",
+			"publication",
+			"write-up"
+		]
+	},
+	"portuguese": {
+		"word": "artigo",
+		"examples": [
+			"Eu li um artigo interessante no jornal.",
+			"Ela publicou um artigo em uma revista prestigiada.",
+			"A revista apresenta artigos sobre diversos temas."
+		],
+		"gender": [
+			"masculine"
+		],
+		"trick-words": [
+			"texto",
+			"ensaio",
+			"reportagem",
+			"publicação",
+			"matéria"
+		]
+	},
+	"progress": {
+		"memory": 0.7,
+		"gender-memory": 0.7
+	},
+	"type": [
+		"noun"
+	],
+	"dates": {
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
+	},
+	"synotics": {
+		"funny": {
+			"user-made": [],
+			"suggested": [
+				"Why did the grammarian refuse to eat the article? Because it wasn't properly punctuated!"
+			]
+		},
+		"sad": {
+			"user-made": [],
+			"suggested": [
+				"Reading a heart-wrenching article about a tragic event can leave you feeling heavy-hearted."
+			]
+		},
+		"angry": {
+			"user-made": [],
+			"suggested": [
+				"I get so angry when I read biased articles that twist the truth for their own agenda."
+			]
+		},
+		"surprising": {
+			"user-made": [],
+			"suggested": [
+				"Did you know that the word 'article' can refer to both a written composition and a specific grammatical element in a sentence?"
+			]
+		},
+		"smell": {
+			"user-made": [],
+			"suggested": [
+				"The smell of fresh ink on the pages of a newly printed article."
+			]
+		},
+		"touch": {
+			"user-made": [],
+			"suggested": [
+				"The tactile experience of flipping through the pages of a magazine or newspaper to read an article."
+			]
+		},
+		"connection": {
+			"user-made": [],
+			"suggested": [
+				"Articles have the power to inform, educate, and connect people through shared knowledge and experiences."
+			]
+		}
+	}
+}

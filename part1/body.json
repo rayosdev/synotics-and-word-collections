@@ -1,0 +1,55 @@
+{
+    "english": {
+        "word": "body",
+        "examples": ["She took good care of her body by exercising regularly.", "The accident caused severe injuries to his body."],
+        "gender": ["neuter"],
+        "trick-words": ["physical form", "organism", "corpus", "physique", "figure"]
+    },
+    "portuguese": {
+        "word": "corpo",
+        "examples": ["Ela cuidava bem do seu corpo fazendo exercícios regularmente.", "O acidente causou ferimentos graves em seu corpo."],
+        "gender": ["masculine"],
+        "trick-words": ["forma física", "organismo", "corpo humano", "físico", "figura"]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": ["noun"],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+        "synotics": {
+            "funny": {
+                "user-made": [],
+                "suggested": ["Why did the skeleton refuse to go to the party? He had no body to go with!"]
+            },
+            "sad": {
+                "user-made": [],
+                "suggested": ["Sometimes, the word 'body' can remind us of times when we felt insecure or struggled with body image."]
+            },
+            "angry": {
+                "user-made": [],
+                "suggested": ["Why do some people judge others based on their appearance or make hurtful comments about their bodies? It's so frustrating and unfair!"]
+            },
+            "surprising": {
+                "user-made": [],
+                "suggested": ["Did you know that the human body consists of various systems, organs, and cells, working together to sustain life?"]
+            },
+            "smell": {
+                "user-made": [],
+                "suggested": ["There's no specific smell associated with the word 'body', but it can evoke memories of scents related to personal care products or physical activities."]
+            },
+            "touch": {
+                "user-made": [],
+                "suggested": ["The experience of feeling the texture, warmth, and sensations of your own body or someone else's through touch, hugs, or physical contact."]
+            },
+            "connection": {
+                "user-made": [],
+                "suggested": ["Our bodies are the vessel through which we experience the world, connect with others, and express ourselves, embodying our unique identities and experiences."]
+            }
+        }
+    }
+    

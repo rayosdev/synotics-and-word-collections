@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "box",
+        "examples": [
+            "She packed her belongings in a cardboard box.",
+            "He received a gift wrapped in a beautiful box."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "container",
+            "case",
+            "crate",
+            "package",
+            "carton"
+        ]
+    },
+    "portuguese": {
+        "word": "caixa",
+        "examples": [
+            "Ela embalou seus pertences em uma caixa de papelão.",
+            "Ele recebeu um presente embrulhado em uma caixa bonita."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "recipient",
+            "enclosure",
+            "crater",
+            "package",
+            "carton"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the box go to therapy? It felt boxed in and needed to think outside the cardboard!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes, the word 'box' can remind us of things we've kept locked away or memories associated with loss."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do some people try to fit others into boxes and limit their potential? It's so frustrating and unfair!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that there are various types of boxes, such as storage boxes, gift boxes, and even mysterious Pandora's box?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with the word 'box', but it can evoke memories of the scent of new packaging or the contents within."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The tactile experience of feeling the edges, texture, and weight of a box, whether it's made of cardboard, wood, or other materials."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "A box can symbolize containment or preservation, holding items that have significance or serving as a vessel for connection and communication."
+            ]
+        }
+    }
+}

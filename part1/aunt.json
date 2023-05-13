@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "aunt",
+        "examples": [
+            "My aunt is visiting us this weekend.",
+            "I have two aunts on my mother's side.",
+            "She is my favorite aunt."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "auntie",
+            "aunty",
+            "aunt-in-law",
+            "aunt-by-marriage",
+            "aunt-like figure"
+        ]
+    },
+    "portuguese": {
+        "word": "tia",
+        "examples": [
+            "Minha tia está nos visitando neste fim de semana.",
+            "Eu tenho duas tias pelo lado da minha mãe.",
+            "Ela é minha tia favorita."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "tia-avó",
+            "tia-postiça",
+            "tia-afim",
+            "tia-por-casamento",
+            "figura tia-similares"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.7
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the aunt go to the art gallery? She heard there was a famous ant artist!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "My aunt passed away last year, and I miss her so much."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I'm angry at my aunt for always meddling in my personal life."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that I have an aunt who is a famous actress? It's true!"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The sweet aroma of my aunt's homemade apple pie."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The warm and comforting embrace of my aunt's hugs."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "My aunt has always been there for me, and I feel a deep connection with her."
+            ]
+        }
+    }
+}

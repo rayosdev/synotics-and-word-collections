@@ -1,0 +1,95 @@
+{
+    "english": {
+        "word": "another",
+        "examples": [
+            "She wants another piece of cake.",
+            "He's looking for another job.",
+            "I'll try another approach."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "additional",
+            "extra",
+            "different",
+            "second",
+            "alternative"
+        ]
+    },
+    "portuguese": {
+        "word": "outro",
+        "examples": [
+            "Ela quer mais um pedaço de bolo.",
+            "Ele está procurando outro emprego.",
+            "Vou tentar outra abordagem."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "adicional",
+            "extra",
+            "diferente",
+            "segundo",
+            "alternativo"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "adjective",
+        "pronoun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the tomato turn red? Because it saw 'another' tomato blushing!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling a sense of sadness when you realize that you have lost 'another' opportunity or chance."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when 'another' person cuts in line, showing no consideration for others."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that 'another' word for 'another' is 'additional'? It implies something more or extra."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with the word 'another', but it might remind you of the familiar scents of repetition or familiarity."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The sensation of déjà vu or the feeling of experiencing 'another' moment that feels strangely familiar."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The word 'another' implies a connection between multiple instances or occurrences, creating a sense of continuity or repetition."
+            ]
+        }
+    }
+}

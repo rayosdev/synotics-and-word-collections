@@ -1,0 +1,95 @@
+{
+    "english": {
+        "word": "beautiful",
+        "examples": [
+            "The sunset was beautiful.",
+            "She wore a beautiful dress to the party.",
+            "He wrote her a beautiful love letter."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "gorgeous",
+            "stunning",
+            "lovely",
+            "pretty",
+            "charming"
+        ]
+    },
+    "portuguese": {
+        "word": "bonito",
+        "examples": [
+            "O pôr do sol estava bonito.",
+            "Ela usou um vestido bonito para a festa.",
+            "Ele escreveu uma carta de amor bonita para ela."
+        ],
+        "gender": [
+            "masculine",
+            "feminine"
+        ],
+        "trick-words": [
+            "lindo",
+            "belo",
+            "formoso",
+            "elegante",
+            "atraente"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.7
+    },
+    "type": [
+        "adjective"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "I was trying to think of a joke about beautiful hair, but it was a hair-raising experience."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "It's a shame that we live in a world where the concept of beauty is so narrow and unrealistic."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do we have to constantly remind ourselves and others that beauty is more than skin deep? Can't we just accept it as a fact and move on?"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the word 'beautiful' comes from the Latin word 'bellus', which means 'pretty'?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of beautiful flowers in the spring."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of beautiful silk on your skin."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The connection we feel to nature when we witness a beautiful sunset or a breathtaking landscape."
+            ]
+        }
+    }
+}

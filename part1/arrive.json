@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "arrive",
+        "examples": [
+            "We will arrive at the airport in an hour.",
+            "She arrived late for the meeting.",
+            "The package should arrive by Friday."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "reach",
+            "get to",
+            "come to",
+            "show up",
+            "make it"
+        ]
+    },
+    "portuguese": {
+        "word": "chegar",
+        "examples": [
+            "Nós chegaremos ao aeroporto em uma hora.",
+            "Ela chegou atrasada para a reunião.",
+            "A encomenda deve chegar até sexta-feira."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "alcançar",
+            "chegar a",
+            "vir para",
+            "aparecer",
+            "conseguir"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the math book always arrive late to class? It could never find the right angle to get there on time!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "It's always sad when you eagerly wait for someone to arrive, but they never show up."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when flights get delayed and I have to wait hours for the plane to arrive."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the word 'arrive' comes from the Latin word 'advenire', which means 'to come to'?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of freshly baked goods as they arrive out of the oven."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of relief and excitement when a long-awaited package finally arrives at your doorstep."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Arriving at a destination can create a sense of connection to a new place and its people."
+            ]
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "ask",
+        "examples": [
+            "Can I ask you a question?",
+            "She asked for help.",
+            "He always asks for permission."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "inquire",
+            "request",
+            "query",
+            "seek information",
+            "pose a question"
+        ]
+    },
+    "portuguese": {
+        "word": "perguntar",
+        "examples": [
+            "Posso fazer uma pergunta?",
+            "Ela pediu ajuda.",
+            "Ele sempre pede permissão."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "indagar",
+            "solicitar",
+            "questionar",
+            "buscar informações",
+            "fazer uma pergunta"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the scarecrow win an award? Because he was outstanding in his field of expertise, which was asking people for directions."
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes asking for help can be difficult, but it's important to remember that we all need assistance at times."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when people ask invasive questions without any consideration for privacy."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that asking questions is one of the best ways to learn and grow?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The smell of fresh coffee brewing can be quite inviting, especially when someone asks if you'd like a cup."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "A warm handshake or a gentle pat on the back can convey sincerity when asking for someone's support."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Asking for advice or opinions can strengthen the connection between individuals and foster collaboration."
+            ]
+        }
+    }
+}

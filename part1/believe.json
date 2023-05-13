@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "believe",
+        "examples": [
+            "I believe that honesty is always the best policy.",
+            "Do you believe in ghosts?",
+            "I find it hard to believe that he would do something like that."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "trust",
+            "have faith in",
+            "accept",
+            "count on",
+            "have confidence in"
+        ]
+    },
+    "portuguese": {
+        "word": "acreditar",
+        "examples": [
+            "Eu acredito que a honestidade é sempre a melhor política.",
+            "Você acredita em fantasmas?",
+            "Eu acho difícil acreditar que ele faria algo assim."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "confiar",
+            "ter fé em",
+            "aceitar",
+            "contar com",
+            "ter confiança em"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "verb"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the scarecrow win an award? Because he was outstanding in his field... and everyone believed in him!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "It can be disheartening when we don't feel supported or validated in our beliefs, but it's important to stay true to ourselves and keep believing in what we know to be right."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "When someone tries to force their beliefs onto us or belittles us for our own beliefs, it can be frustrating and even infuriating. Respect and open-mindedness are key in navigating these situations."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that studies have shown that simply believing in a placebo can have a positive effect on our physical health? Our thoughts and beliefs can have a powerful impact on our bodies."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with 'believe', but the scent of fresh flowers or a warm cup of tea can be comforting and help us believe in better things to come."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of a warm embrace or a reassuring pat on the back can remind us that we're not alone in our beliefs."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Belief can connect us to our deepest values, our sense of purpose, and our communities. It can also be a bridge between different cultures and beliefs, helping us to better understand and appreciate one another."
+            ]
+        }
+    }
+}

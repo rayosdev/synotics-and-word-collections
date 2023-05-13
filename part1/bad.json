@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "bad",
+        "examples": [
+            "He had a bad day at work.",
+            "She made a bad decision.",
+            "The weather is bad today."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "negative",
+            "poor",
+            "unfavorable",
+            "terrible",
+            "awful"
+        ]
+    },
+    "portuguese": {
+        "word": "ruim",
+        "examples": [
+            "Ele teve um dia ruim no trabalho.",
+            "Ela tomou uma decisão ruim.",
+            "O tempo está ruim hoje."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "negativo",
+            "pobre",
+            "desfavorável",
+            "terrível",
+            "horrível"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "adjective"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the tomato turn 'bad'? Because it saw the salad dressing!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling a sense of sadness when you see the negative impact of a bad situation or experience."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when people intentionally do bad things and hurt others."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the word 'bad' can also be used informally to mean good or impressive, as in 'That's a bad car!'?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with the word 'bad', but it can remind you of unpleasant or foul odors."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The negative emotions associated with the word 'bad' can sometimes manifest as physical tension or discomfort."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Discussing and understanding the concept of 'bad' can create connections and foster empathy in different situations."
+            ]
+        }
+    }
+}

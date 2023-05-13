@@ -1,0 +1,95 @@
+{
+    "english": {
+        "word": "blue",
+        "examples": [
+            "The sky is blue.",
+            "She painted the wall blue.",
+            "He wore a blue shirt."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "azure",
+            "cobalt",
+            "sapphire",
+            "navy",
+            "turquoise"
+        ]
+    },
+    "portuguese": {
+        "word": "azul",
+        "examples": [
+            "O céu está azul.",
+            "Ela pintou a parede de azul.",
+            "Ele vestiu uma camisa azul."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "celeste",
+            "cobalto",
+            "safira",
+            "marinho",
+            "turquesa"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "adjective",
+        "color"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why don't sharks eat clowns? Because they taste funny and 'blue' their cover!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling a sense of sadness when the sky is cloudy and the world seems 'blue' and gloomy."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when someone dismisses the depth and beauty of the color 'blue'."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that 'blue' is the favorite color of the majority of people around the world?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific scent associated with the color 'blue', but it can remind you of the freshness of a cool breeze."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The smooth texture of a 'blue' silk fabric or the refreshing touch of a 'blue' swimming pool."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The calming and soothing effect of 'blue' can create a sense of connection to peace and tranquility."
+            ]
+        }
+    }
+}

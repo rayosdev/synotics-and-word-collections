@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "both",
+        "examples": [
+            "Both of them are talented musicians.",
+            "We can choose both options."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "the two",
+            "together",
+            "simultaneously",
+            "dual",
+            "pair"
+        ]
+    },
+    "portuguese": {
+        "word": "ambos",
+        "examples": [
+            "Ambos são músicos talentosos.",
+            "Podemos escolher ambas as opções."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "os dois",
+            "juntos",
+            "simultaneamente",
+            "duplo",
+            "par"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "pronoun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the math book look so sad? It had too many problems, and it couldn't solve them both!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes, the word 'both' can remind us of situations where we have to make difficult choices or feel torn between two options."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do some people try to force others into an 'either-or' situation instead of recognizing that both options can coexist? It's so frustrating!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the word 'both' emphasizes inclusivity, acknowledging the presence or involvement of two or more entities?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with the word 'both', but it can evoke memories of situations where different scents coexist or blend together."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The experience of holding or touching two separate objects or entities at the same time, feeling their individual characteristics or textures."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The concept of 'both' can symbolize inclusivity, balance, and finding common ground by acknowledging and embracing multiple perspectives or options."
+            ]
+        }
+    }
+}

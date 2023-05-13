@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "bag",
+        "examples": [
+            "She carried her books in a backpack.",
+            "He packed his clothes in a suitcase.",
+            "The grocery bag was filled with fresh produce."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "sack",
+            "pouch",
+            "tote",
+            "container",
+            "satchel"
+        ]
+    },
+    "portuguese": {
+        "word": "bolsa",
+        "examples": [
+            "Ela carregava seus livros em uma mochila.",
+            "Ele colocou suas roupas em uma mala.",
+            "A sacola de compras estava cheia de produtos frescos."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "saco",
+            "bolsinha",
+            "tote",
+            "recipiente",
+            "pasta"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the bag go to therapy? Because it had too many issues to 'bag'gage!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling a sense of sadness when you realize you've lost an important item that was in your bag."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when someone forcefully grabs or snatches a bag, causing distress or harm."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the world's largest handbag weighs over 5,000 pounds? It's as big as a car!"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with a bag, but it might remind you of the scent of leather or fabric."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The texture and feel of different types of bags, such as the smoothness of a leather bag or the softness of a fabric tote."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Bags are essential accessories that connect us to our belongings, offering convenience and carrying our personal items."
+            ]
+        }
+    }
+}

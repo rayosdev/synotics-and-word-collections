@@ -1,0 +1,94 @@
+{
+    "english": {
+        "word": "banana",
+        "examples": [
+            "I enjoy eating a ripe banana.",
+            "She packed a banana in her lunch.",
+            "He made a smoothie with bananas."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "fruit",
+            "plantain",
+            "banana tree",
+            "yellow fruit",
+            "tropical fruit"
+        ]
+    },
+    "portuguese": {
+        "word": "banana",
+        "examples": [
+            "Eu gosto de comer uma banana madura.",
+            "Ela colocou uma banana na sua marmita.",
+            "Ele fez um smoothie com bananas."
+        ],
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "fruta",
+            "banana-da-terra",
+            "bananeira",
+            "fruta amarela",
+            "fruta tropical"
+        ]
+    },
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
+    },
+    "type": [
+        "noun"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the banana go to the doctor? Because it wasn't peeling well!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling a sense of sadness when you see a brown and overripe banana, realizing it's gone to waste."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when someone slips on a banana peel and falls, causing harm or embarrassment."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that bananas are technically berries? They are classified as a berry due to their structure and development."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The sweet and distinct aroma of a ripe banana, enticing your senses."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The smooth and slightly yielding texture of a ripe banana when you hold it in your hand."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Bananas are a globally recognized fruit, connecting people through their widespread availability and culinary uses."
+            ]
+        }
+    }
+}

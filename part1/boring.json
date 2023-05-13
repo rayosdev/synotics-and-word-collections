@@ -1,0 +1,92 @@
+{
+    "english": {
+        "word": "boring",
+        "examples": [
+            "The movie was so boring, I fell asleep.",
+            "I find math class boring."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "dull",
+            "tedious",
+            "uninteresting",
+            "monotonous",
+            "dreary"
+        ]
+    },
+    "portuguese": {
+        "word": "entediante",
+        "examples": [
+            "O filme foi tão entediante que eu adormeci.",
+            "Acho a aula de matemática entediante."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "chato",
+            "tedioso",
+            "desinteressante",
+            "monótono",
+            "sombrio"
+        ]
+    },
+    "progress": {
+        "memory": 0.5,
+        "gender-memory": 0.5
+    },
+    "type": [
+        "adjective"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the scarecrow win an award? It was outstanding in its field of boredom!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Sometimes, the word 'boring' can remind us of moments when we feel uninterested, uninspired, or disconnected."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "Why do some people insist on making activities boring and draining the enjoyment out of them? It's so frustrating!"
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that what one person finds boring, another might find fascinating? It's all a matter of personal interests and perspectives."
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with the word 'boring', but it can evoke memories of places or situations that lacked stimulation or excitement."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The feeling of restlessness, monotony, or disinterest that can be associated with finding something boring."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The experience of finding common ground with others when discussing shared opinions about what is considered boring or engaging."
+            ]
+        }
+    }
+}
