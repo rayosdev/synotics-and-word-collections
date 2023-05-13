@@ -2,39 +2,41 @@
     "english": {
         "word": "bottle",
         "examples": [
-            "She filled up the bottle with water from the faucet.",
-            "The wine bottle was empty, so she opened another one."
+            "She filled the bottle with water.",
+            "He opened a bottle of soda.",
+            "The baby drank milk from a bottle."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
-            "flask",
-            "jar",
             "container",
+            "flask",
             "vessel",
-            "decanter"
+            "jar",
+            "canteen"
         ]
     },
-    "spanish": {
-        "word": "botella",
+    "portuguese": {
+        "word": "garrafa",
         "examples": [
-            "Ella llenó la botella con agua del grifo.",
-            "La botella de vino estaba vacía, así que abrió otra."
+            "Ela encheu a garrafa com água.",
+            "Ele abriu uma garrafa de refrigerante.",
+            "O bebê bebeu leite na mamadeira."
         ],
         "gender": [
             "feminine"
         ],
         "trick-words": [
+            "recipiente",
             "frasco",
-            "envase",
-            "vasija",
-            "decantador",
-            "recipiente"
+            "vasilha",
+            "pote",
+            "cantil"
         ]
     },
     "progress": {
-        "memory": 0.8,
+        "memory": 0.7,
         "gender-memory": 0.7
     },
     "type": [
@@ -45,47 +47,47 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
+    "synotics": {
         "funny": {
             "user-made": [],
             "suggested": [
-                "Why did the soda bottle go to school? To get its fizz-ed-ucation!"
+                "Why did the soda bottle go to therapy? Because it had a lot of fizzical issues to work through!"
             ]
         },
         "sad": {
             "user-made": [],
             "suggested": [
-                "The empty bottle on the side of the road made me feel sad for some reason."
+                "Seeing empty bottles littered on the streets can be a sad reminder of the waste in our environment."
             ]
         },
         "angry": {
             "user-made": [],
             "suggested": [
-                "I can't believe people still litter and leave their bottles everywhere."
+                "I get so angry when people throw away plastic bottles instead of recycling them."
             ]
         },
         "surprising": {
             "user-made": [],
             "suggested": [
-                "Did you know that the first glass bottle was invented over 1,500 years ago in Syria?"
+                "Did you know that glass bottles can be recycled and reused endlessly without losing their quality?"
             ]
         },
         "smell": {
             "user-made": [],
             "suggested": [
-                "The smell of wine when you open a bottle."
+                "The distinct smell of a freshly opened bottle of perfume or cologne."
             ]
         },
         "touch": {
             "user-made": [],
             "suggested": [
-                "The smooth texture of a glass bottle."
+                "The cool sensation of condensation on the surface of a cold beverage bottle."
             ]
         },
         "connection": {
             "user-made": [],
             "suggested": [
-                "The nostalgia of opening a bottle of soda with a bottle opener."
+                "Bottled messages have been used throughout history as a way to connect with others across vast distances."
             ]
         }
     }

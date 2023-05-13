@@ -2,70 +2,94 @@
     "english": {
         "word": "blue",
         "examples": [
-            "The sky was a beautiful shade of blue.",
-            "She was wearing a blue dress.",
-            "He felt blue after the breakup."
+            "The sky is blue.",
+            "She painted the wall blue.",
+            "He wore a blue shirt."
         ],
-        "part_of_speech": "adjective",
-        "trick_words": ["navy", "cobalt", "indigo", "azure", "sapphire"]
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "azure",
+            "cobalt",
+            "sapphire",
+            "navy",
+            "turquoise"
+        ]
     },
-    "spanish": {
+    "portuguese": {
         "word": "azul",
         "examples": [
-            "El cielo estaba de un hermoso tono azul.",
-            "Ella llevaba puesto un vestido azul.",
-            "Se sentía triste después de la ruptura."
+            "O céu está azul.",
+            "Ela pintou a parede de azul.",
+            "Ele vestiu uma camisa azul."
         ],
-        "part_of_speech": "adjetivo",
-        "trick_words": ["celeste", "turquesa", "añil", "cian", "petróleo"]
-    },
-    "french": {
-        "word": "bleu",
-        "examples": [
-            "Le ciel était d'un magnifique bleu.",
-            "Elle portait une robe bleue.",
-            "Il se sentait triste après la rupture."
+        "gender": [
+            "masculine"
         ],
-        "part_of_speech": "adjectif",
-        "trick_words": ["marine", "cobalt", "indigo", "azur", "saphir"]
+        "trick-words": [
+            "celeste",
+            "cobalto",
+            "safira",
+            "marinho",
+            "turquesa"
+        ]
     },
-    "german": {
-        "word": "blau",
-        "examples": [
-            "Der Himmel war in einem wunderschönen Blauton.",
-            "Sie trug ein blaues Kleid.",
-            "Er fühlte sich nach der Trennung traurig."
-        ],
-        "part_of_speech": "Adjektiv",
-        "trick_words": ["marine", "kobalt", "indigo", "azur", "saphir"]
+    "progress": {
+        "memory": 0.8,
+        "gender-memory": 0.8
     },
-    "type": ["color"],
+    "type": [
+        "adjective",
+        "color"
+    ],
     "dates": {
-        "discover_date": "",
-        "next_review": "",
-        "last_reviewed": ""
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
     },
-        "english": {
-            "word": "boot",
-            "examples": ["I need to buy a new pair of boots for hiking.", "The cowboy wore tall, leather boots with pointed toes."],
-            "gender": ["neuter"],
-            "trick-words": ["shoe", "sandal", "sneaker", "slipper", "footwear"]
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why don't sharks eat clowns? Because they taste funny and 'blue' their cover!"
+            ]
         },
-        "spanish": {
-            "word": "bota",
-            "examples": ["Necesito comprar un par de botas nuevas para hacer senderismo.", "El vaquero llevaba botas altas de cuero con puntas afiladas."],
-            "gender": ["feminine"],
-            "trick-words": ["zapato", "sandalia", "zapatilla", "pantufla", "calzado"]
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling a sense of sadness when the sky is cloudy and the world seems 'blue' and gloomy."
+            ]
         },
-        "progress": {
-            "memory": 0.6,
-            "gender-memory": 0.4
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when someone dismisses the depth and beauty of the color 'blue'."
+            ]
         },
-        "type": ["noun"],
-        "dates": {
-            "discover-date": "10th century",
-            "next-review": "2024-05-10",
-            "last-reviewed": "2022-05-10"
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that 'blue' is the favorite color of the majority of people around the world?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific scent associated with the color 'blue', but it can remind you of the freshness of a cool breeze."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The smooth texture of a 'blue' silk fabric or the refreshing touch of a 'blue' swimming pool."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The calming and soothing effect of 'blue' can create a sense of connection to peace and tranquility."
+            ]
         }
     }
-    
+}

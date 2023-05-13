@@ -1,56 +1,95 @@
 {
-	"english": {
-		"word": "brown",
-		"examples": ["The dog's fur was a rich shade of brown.", "She prefers to wear brown clothing in the fall."],
-		"gender": ["neuter"],
-		"trick-words": ["tan", "cocoa", "mahogany", "chestnut", "umber"]
-	},
-	"spanish": {
-		"word": "marrón",
-		"examples": ["Los ojos de la niña eran de un marrón oscuro.", "El sofá era de un tono marrón claro."],
-		"gender": ["masculine"],
-		"trick-words": ["café", "castaño", "avellana", "sepia", "canela"]
-	},
-	"progress": {
-		"memory": 0.7,
-		"gender-memory": 0.8
-	},
-	"type": ["adjective", "noun"],
-	"dates": {
-		"discover-date": "c. 1000 AD",
-		"next-review": "2023-06-01",
-		"last-reviewed": "2022-12-15"
-	},
-    
-        "synonyms": {
-            "color": {
-                "user-made": [],
-                "suggested": ["The brown leaves of autumn are so beautiful.", "The paint color is a warm brown tone."]
-            },
-            "taste": {
-                "user-made": [],
-                "suggested": ["The rich, nutty flavor of roasted brown almonds.", "The malty taste of a dark brown ale."]
-            },
-            "texture": {
-                "user-made": [],
-                "suggested": ["The rough, grainy texture of brown sugar.", "The smooth, velvety texture of a brown leather couch."]
-            },
-            "appearance": {
-                "user-made": [],
-                "suggested": ["The natural, earthy appearance of brown wood.", "The elegant, sophisticated appearance of a brown leather purse."]
-            },
-            "mood": {
-                "user-made": [],
-                "suggested": ["The cozy, warm mood of a brown-themed room.", "The rustic, homey mood of a brown cabin in the woods."]
-            },
-            "association": {
-                "user-made": [],
-                "suggested": ["The association of brown with reliability and stability in business.", "The association of brown with simplicity and minimalism in design."]
-            },
-            "symbolism": {
-                "user-made": [],
-                "suggested": ["The symbolism of brown as a natural, grounding color in nature.", "The symbolism of brown as a sign of humility and modesty in some cultures."]
-            }
+    "english": {
+        "word": "brown",
+        "examples": [
+            "She has brown hair.",
+            "The dog's fur is brown.",
+            "He painted the wall brown."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "tan",
+            "chestnut",
+            "cocoa",
+            "mahogany",
+            "taupe"
+        ]
+    },
+    "portuguese": {
+        "word": "marrom",
+        "examples": [
+            "Ela tem cabelos marrom.",
+            "O pelo do cachorro é marrom.",
+            "Ele pintou a parede de marrom."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "castanho",
+            "canela",
+            "café",
+            "mogno",
+            "taupe"
+        ]
+    },
+    "progress": {
+        "memory": 0.7,
+        "gender-memory": 0.7
+    },
+    "type": [
+        "adjective",
+        "color"
+    ],
+    "dates": {
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
+    },
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the teddy bear say it was 'brown' but not 'blue'? Because it wasn't feeling 'blue' today, just 'brown'!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Seeing the withered leaves and the fading colors of fall can evoke a sense of melancholy in the 'brown' season."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when people underestimate the beauty and depth of the color 'brown'."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that 'brown' is actually a combination of different colors, such as red, orange, and yellow?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The rich, earthy scent of fresh coffee beans, reminiscent of the warm 'brown' color."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The velvety texture of a 'brown' leather jacket or the softness of 'brown' fur."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "The 'brown' hues of nature can create a deep connection to the earth and its natural beauty."
+            ]
         }
     }
-    
+}

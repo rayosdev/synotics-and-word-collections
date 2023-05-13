@@ -1,55 +1,94 @@
 {
     "english": {
         "word": "baby",
-        "examples": ["She had a baby boy last week.", "The baby was crying for food."],
-        "gender": ["masculine", "feminine"],
-        "trick-words": ["infant", "newborn", "toddler", "child", "offspring"]
+        "examples": [
+            "She cradled the baby in her arms.",
+            "He's expecting a baby in a few months.",
+            "The baby smiled and giggled."
+        ],
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "infant",
+            "newborn",
+            "toddler",
+            "child",
+            "little one"
+        ]
     },
     "portuguese": {
         "word": "bebê",
-        "examples": ["Ela teve um bebê menino na semana passada.", "O bebê estava chorando por comida."],
-        "gender": ["masculine", "feminine"],
-        "trick-words": ["recém-nascido", "infante", "filhote", "criança", "descendente"]
+        "examples": [
+            "Ela embalou o bebê em seus braços.",
+            "Ele está esperando um bebê em alguns meses.",
+            "O bebê sorriu e deu risadinhas."
+        ],
+        "gender": [
+            "masculine"
+        ],
+        "trick-words": [
+            "infante",
+            "recém-nascido",
+            "criança pequena",
+            "filho",
+            "pequenino"
+        ]
     },
     "progress": {
-        "memory": 0.7,
+        "memory": 0.8,
         "gender-memory": 0.8
     },
-    "type": ["noun"],
+    "type": [
+        "noun"
+    ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-        "synonyms": {
-            "cute": {
-                "user-made": [],
-                "suggested": ["Look at that adorable little baby!"]
-            },
-            "loving": {
-                "user-made": [],
-                "suggested": ["The way a baby looks at its mother is one of the most loving sights in the world."]
-            },
-            "surprising": {
-                "user-made": [],
-                "suggested": ["It's amazing how much a baby can learn in just a few short months."]
-            },
-            "joyful": {
-                "user-made": [],
-                "suggested": ["The sound of a baby's laughter is one of the most joyful sounds you can hear."]
-            },
-            "sleep": {
-                "user-made": [],
-                "suggested": ["Babies sure do sleep a lot!"]
-            },
-            "growth": {
-                "user-made": [],
-                "suggested": ["Watching a baby grow and develop is truly amazing."]
-            },
-            "responsibility": {
-                "user-made": [],
-                "suggested": ["Having a baby is a big responsibility, but it's also incredibly rewarding."]
-            }
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the baby go to work? Because it wanted to 'cuddle' with colleagues in the boardroom!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling a sense of sadness when you see a baby cry or when you witness the struggles they face."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when someone mistreats or neglects a baby, who is so innocent and vulnerable."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that a newborn baby can recognize the voice of its mother from the moment it's born?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "The sweet and delicate scent of a baby, often associated with innocence and purity."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The softness and tenderness of a baby's skin when you gently stroke or hold them."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Babies have a unique ability to bring people together, creating connections and spreading love and joy."
+            ]
         }
     }
-    
+}

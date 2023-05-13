@@ -2,37 +2,38 @@
     "english": {
         "word": "artist",
         "examples": [
-            "She is a talented artist who works in watercolors.",
-            "The museum is displaying works by several contemporary artists."
+            "She is a talented artist.",
+            "He works as a professional artist.",
+            "The museum exhibits artwork from various artists."
         ],
         "gender": [
-            "masculine",
-            "feminine"
+            "neuter"
         ],
         "trick-words": [
+            "creative",
             "painter",
             "sculptor",
-            "photographer",
-            "designer",
-            "illustrator"
+            "musician",
+            "performer"
         ]
     },
     "portuguese": {
         "word": "artista",
         "examples": [
-            "Ela é uma artista talentosa que trabalha com aquarela.",
-            "O museu está exibindo obras de vários artistas contemporâneos."
+            "Ela é uma artista talentosa.",
+            "Ele trabalha como artista profissional.",
+            "O museu exibe obras de arte de vários artistas."
         ],
         "gender": [
             "masculine",
             "feminine"
         ],
         "trick-words": [
+            "criativo",
             "pintor",
             "escultor",
-            "fotógrafo",
-            "designer",
-            "ilustrador"
+            "músico",
+            "artista performático"
         ]
     },
     "progress": {
@@ -47,47 +48,47 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "painter": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "A painter is just a graphic designer with a brush."
+                "Why did the artist bring a pencil to bed? In case they had a sketchy dream!"
             ]
         },
-        "musician": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "Some people are born to be musicians, others are born to appreciate them."
+                "Being an artist can be tough when your work is not appreciated or understood."
             ]
         },
-        "writer": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "A writer is someone who can make a blank page look like a million dollars."
+                "I get so angry when people dismiss art as mere 'scribbles' without appreciating the skill and creativity behind it."
             ]
         },
-        "performer": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "A performer is like a clown, except they don't need a red nose."
+                "Did you know that some artists use unconventional materials like coffee, food, or even trash to create their artworks?"
             ]
         },
-        "creator": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "An artist is a creator, an inventor, and an alchemist all rolled into one."
+                "The smell of oil paints in the studio is often associated with the work of an artist."
             ]
         },
-        "designer": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "A designer is an artist who creates things that are both beautiful and functional."
+                "The tactile experience of sculpting clay or molding materials is an integral part of an artist's creative process."
             ]
         },
-        "visionary": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "An artist is a visionary who has the ability to see things that others cannot."
+                "Art has the power to connect people across cultures, languages, and generations, creating a sense of shared humanity."
             ]
         }
     }

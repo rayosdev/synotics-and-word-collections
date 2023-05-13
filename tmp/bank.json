@@ -2,92 +2,92 @@
     "english": {
         "word": "bank",
         "examples": [
-            "I need to go to the bank to deposit this check.",
-            "She works as a teller at the bank.",
-            "He saved a lot of money by putting it in the bank."
+            "She deposited her money in the bank.",
+            "He works at a local bank.",
+            "The river flows beside the bank."
         ],
         "gender": [
             "neuter"
         ],
-        "related-words": [
+        "trick-words": [
             "financial institution",
             "lender",
             "credit union",
-            "investment firm",
-            "vault"
+            "vault",
+            "financial establishment"
         ]
     },
     "portuguese": {
         "word": "banco",
         "examples": [
-            "Preciso ir ao banco para depositar este cheque.",
-            "Ela trabalha como caixa no banco.",
-            "Ele economizou muito dinheiro ao colocá-lo no banco."
+            "Ela depositou seu dinheiro no banco.",
+            "Ele trabalha em um banco local.",
+            "O rio flui ao lado do banco."
         ],
         "gender": [
             "masculine"
         ],
-        "related-words": [
+        "trick-words": [
             "instituição financeira",
             "credor",
             "cooperativa de crédito",
-            "empresa de investimento",
-            "cofre"
+            "cofre",
+            "estabelecimento financeiro"
         ]
     },
     "progress": {
-        "memory": 0.6,
-        "gender-memory": 0.6
+        "memory": 0.8,
+        "gender-memory": 0.8
     },
     "type": [
         "noun"
     ],
     "dates": {
-        "discover-date": "14th century",
-        "next-review": "2024-06-01",
-        "last-reviewed": "2022-12-01"
+        "discover-date": "",
+        "next-review": "",
+        "last-reviewed": ""
     },
     "synotics": {
         "funny": {
             "user-made": [],
             "suggested": [
-                "Why did the bank go to the doctor? It had too many loans!"
+                "Why did the piggy bank go to therapy? It was dealing with some serious 'coin'fidence issues!"
             ]
         },
         "sad": {
             "user-made": [],
             "suggested": [
-                "I lost all my money in the bank. It's a hard pill to swallow."
+                "Feeling a sense of sadness when you see long lines and crowded spaces in a busy 'bank'."
             ]
         },
         "angry": {
             "user-made": [],
             "suggested": [
-                "The bank charged me an arm and a leg in fees. It's ridiculous!"
+                "I get so angry when banks impose excessive fees and hidden charges on their customers."
             ]
         },
         "surprising": {
             "user-made": [],
             "suggested": [
-                "The bank's vault can hold up to $200 million in cash!"
+                "Did you know that the first 'bank' established dates back to ancient Mesopotamia around 2,000 BCE?"
             ]
         },
         "smell": {
             "user-made": [],
             "suggested": [
-                "The smell of money in the bank."
+                "There's no specific smell associated with a 'bank', but it might remind you of the scent of money or the fragrance of security."
             ]
         },
         "touch": {
             "user-made": [],
             "suggested": [
-                "The feel of the cold, hard cash in the bank."
+                "The feel of smooth marble countertops or the texture of banknotes in your hands when you visit a 'bank'."
             ]
         },
         "connection": {
             "user-made": [],
             "suggested": [
-                "The connection between the bank and the economy."
+                "'Banks' play a crucial role in our economic system, connecting individuals and businesses by providing financial services."
             ]
         }
     }

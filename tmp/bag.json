@@ -2,63 +2,93 @@
     "english": {
         "word": "bag",
         "examples": [
-            "She put her books in her backpack.",
-            "He carried a small bag with him.",
-            "The shopkeeper gave me a paper bag for my groceries."
+            "She carried her books in a backpack.",
+            "He packed his clothes in a suitcase.",
+            "The grocery bag was filled with fresh produce."
         ],
-        "gender": ["neuter"],
-        "trick-words": ["backpack", "sack", "pouch", "purse"]
+        "gender": [
+            "neuter"
+        ],
+        "trick-words": [
+            "sack",
+            "pouch",
+            "tote",
+            "container",
+            "satchel"
+        ]
     },
     "portuguese": {
-        "word": "saco",
+        "word": "bolsa",
         "examples": [
-            "Ela colocou seus livros em sua mochila.",
-            "Ele carregava um saco pequeno consigo.",
-            "O dono da loja me deu um saco de papel para minhas compras."
+            "Ela carregava seus livros em uma mochila.",
+            "Ele colocou suas roupas em uma mala.",
+            "A sacola de compras estava cheia de produtos frescos."
         ],
-        "gender": ["masculine"],
-        "trick-words": ["mochila", "bolsa", "carteira", "pasta"]
+        "gender": [
+            "feminine"
+        ],
+        "trick-words": [
+            "saco",
+            "bolsinha",
+            "tote",
+            "recipiente",
+            "pasta"
+        ]
     },
     "progress": {
-        "memory": 0.6,
-        "gender-memory": 0.4
+        "memory": 0.8,
+        "gender-memory": 0.8
     },
-    "type": ["noun"],
+    "type": [
+        "noun"
+    ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-    
-        "synonyms": {
-            "handbag": {
-                "user-made": [],
-                "suggested": ["She always carries her handbag with her, no matter where she goes."]
-            },
-            "sack": {
-                "user-made": [],
-                "suggested": ["He filled the sack with groceries and headed back home."]
-            },
-            "backpack": {
-                "user-made": [],
-                "suggested": ["He always takes his backpack with him when he goes on hikes."]
-            },
-            "purse": {
-                "user-made": [],
-                "suggested": ["She rummaged through her purse for her keys."]
-            },
-            "luggage": {
-                "user-made": [],
-                "suggested": ["She struggled to carry her heavy luggage up the stairs."]
-            },
-            "tote": {
-                "user-made": [],
-                "suggested": ["She uses her tote bag to carry her laptop and other work essentials."]
-            },
-            "briefcase": {
-                "user-made": [],
-                "suggested": ["He always carries his briefcase to work."]
-            }
+    "synotics": {
+        "funny": {
+            "user-made": [],
+            "suggested": [
+                "Why did the bag go to therapy? Because it had too many issues to 'bag'gage!"
+            ]
+        },
+        "sad": {
+            "user-made": [],
+            "suggested": [
+                "Feeling a sense of sadness when you realize you've lost an important item that was in your bag."
+            ]
+        },
+        "angry": {
+            "user-made": [],
+            "suggested": [
+                "I get so angry when someone forcefully grabs or snatches a bag, causing distress or harm."
+            ]
+        },
+        "surprising": {
+            "user-made": [],
+            "suggested": [
+                "Did you know that the world's largest handbag weighs over 5,000 pounds? It's as big as a car!"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with a bag, but it might remind you of the scent of leather or fabric."
+            ]
+        },
+        "touch": {
+            "user-made": [],
+            "suggested": [
+                "The texture and feel of different types of bags, such as the smoothness of a leather bag or the softness of a fabric tote."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Bags are essential accessories that connect us to our belongings, offering convenience and carrying our personal items."
+            ]
         }
     }
-    
+}

@@ -2,85 +2,92 @@
     "english": {
         "word": "August",
         "examples": [
-            "August is the eighth month of the year.",
-            "She's planning to take a vacation in August."
+            "My birthday is in August.",
+            "We're planning a vacation in August.",
+            "August is usually a hot month."
+        ],
+        "gender": [
+            "neuter"
         ],
         "trick-words": [
-            "summer",
-            "heat",
-            "vacation",
-            "lemonade",
-            "swimming"
+            "eighth month",
+            "summer month",
+            "Leo season",
+            "harvest month",
+            "dog days"
         ]
     },
     "portuguese": {
-        "word": "Agosto",
+        "word": "agosto",
         "examples": [
-            "Agosto é o oitavo mês do ano.",
-            "Ela está planejando tirar férias em Agosto."
+            "Meu aniversário é em agosto.",
+            "Estamos planejando férias em agosto.",
+            "Agosto geralmente é um mês quente."
+        ],
+        "gender": [
+            "masculine"
         ],
         "trick-words": [
-            "verão",
-            "calor",
-            "férias",
-            "limonada",
-            "natação"
+            "oitavo mês",
+            "mês de verão",
+            "época de Leão",
+            "mês da colheita",
+            "cão deitado"
         ]
     },
     "progress": {
-        "memory": 0.5,
-        "gender-memory": 0.5
+        "memory": 0.7,
+        "gender-memory": 0.7
     },
     "type": [
-        "noun",
-        "month"
+        "noun"
     ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "nostalgic": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "August always reminds me of my childhood summers."
+                "Why did the calendar file a police report in August? Because it had too many hot dates!"
             ]
         },
-        "hot": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "August is typically the hottest month of the year."
+                "August reminds me of the end of summer, and it always makes me a little sad."
             ]
         },
-        "vacation": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "August is the perfect month for a summer vacation."
+                "I get so angry at the hot and humid days in August. Can't it be fall already?"
             ]
         },
-        "end": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "August marks the end of summer and the start of a new school year."
+                "Did you know that August is named after the Roman Emperor Augustus?"
             ]
         },
-        "harvest": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "August is a time of bountiful harvests for farmers."
+                "The smell of barbecues and sunscreen in the air during August."
             ]
         },
-        "birthday": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "August is my birthday month!"
+                "The feeling of warm sand between your toes at the beach in August."
             ]
         },
-        "leisure": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "August is a great time to relax and enjoy leisure activities."
+                "August is a time when families come together for vacations and create lasting memories."
             ]
         }
     }

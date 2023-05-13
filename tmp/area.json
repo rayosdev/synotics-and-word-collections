@@ -2,8 +2,9 @@
     "english": {
         "word": "area",
         "examples": [
-            "This park covers a large area of land.",
-            "The living area of the apartment is very spacious."
+            "This park has a large grassy area.",
+            "The living room is the largest area in the house.",
+            "She specializes in the field of environmental science and conservation area."
         ],
         "gender": [
             "neuter"
@@ -12,30 +13,31 @@
             "region",
             "zone",
             "territory",
-            "district",
-            "locale"
+            "space",
+            "district"
         ]
     },
-    "spanish": {
+    "portuguese": {
         "word": "área",
         "examples": [
-            "Este parque cubre una gran área de terreno.",
-            "El área de estar del apartamento es muy espaciosa."
+            "Este parque possui uma área gramada grande.",
+            "A sala de estar é a maior área da casa.",
+            "Ela se especializa na área de ciência ambiental e conservação."
         ],
         "gender": [
             "feminine"
         ],
         "trick-words": [
+            "região",
             "zona",
-            "región",
-            "territorio",
-            "distrito",
-            "localidad"
+            "território",
+            "espaço",
+            "distrito"
         ]
     },
     "progress": {
         "memory": 0.7,
-        "gender-memory": 0.6
+        "gender-memory": 0.7
     },
     "type": [
         "noun"
@@ -45,61 +47,47 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "large": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "expansive",
-                "spacious",
-                "vast"
+                "Why did the square never hang out with the circle? They just couldn't find common area!"
             ]
         },
-        "small": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "compact",
-                "confined",
-                "tiny"
+                "The rapid deforestation in the area left me feeling deeply saddened."
             ]
         },
-        "measurement": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "dimension",
-                "extent",
-                "size"
+                "I get so angry when people litter and ruin the natural beauty of an area."
             ]
         },
-        "geography": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "region",
-                "territory",
-                "zone"
+                "Did you know that the surface area of Earth is approximately 510 million square kilometers?"
             ]
         },
-        "location": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "place",
-                "spot",
-                "site"
+                "The fresh scent of pine trees in a forested area."
             ]
         },
-        "scope": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "extent",
-                "range",
-                "breadth"
+                "The feeling of soft grass under your feet while walking in an open area."
             ]
         },
-        "field": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "domain",
-                "sphere",
-                "realm"
+                "The area we live in shapes our identity and fosters a sense of connection to our community."
             ]
         }
     }

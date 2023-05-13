@@ -1,7 +1,6 @@
 import json
 import os
 
-
 def check_json(directory):
     example_json_string = '''{
         "english": {
@@ -73,7 +72,7 @@ def check_json(directory):
                             elif isinstance(data[key], dict):
                                 if data[key].keys() != json.loads(example_json_string)[key].keys():
                                     print(f'Error: {filename} does not have the same keys for key "{key}"')
-                except ValueError:
-                    print(f'Error: {filename} is not valid json')
+                except ValueError as e:
+                    print(f'Error: {filename} is not valid json. Details: {e}')
 
 check_json('./tmp')

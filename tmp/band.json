@@ -2,40 +2,42 @@
     "english": {
         "word": "band",
         "examples": [
-            "He played in a band with his friends.",
-            "The rubber band snapped when he stretched it too far."
+            "The band played live music at the concert.",
+            "She joined a rock band.",
+            "He plays the guitar in a jazz band."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
-            "group",
+            "musical group",
             "ensemble",
             "orchestra",
             "troupe",
-            "gang"
+            "ensemble"
         ]
     },
     "portuguese": {
         "word": "banda",
         "examples": [
-            "Ele tocava em uma banda com seus amigos.",
-            "O elástico estourou quando ele o esticou demais."
+            "A banda tocou música ao vivo no concerto.",
+            "Ela entrou para uma banda de rock.",
+            "Ele toca guitarra em uma banda de jazz."
         ],
         "gender": [
             "feminine"
         ],
         "trick-words": [
-            "grupo",
+            "grupo musical",
             "conjunto",
             "orquestra",
             "trupe",
-            "gangue"
+            "conjunto"
         ]
     },
     "progress": {
         "memory": 0.8,
-        "gender-memory": 0.7
+        "gender-memory": 0.8
     },
     "type": [
         "noun"
@@ -45,47 +47,47 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "music": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "The band played their new song for the first time at the concert."
+                "Why did the scarecrow start a 'band'? Because he was outstanding in his field!"
             ]
         },
-        "group": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "The marching band practiced their routine for the upcoming parade."
+                "Feeling a sense of sadness when a beloved 'band' breaks up and you miss their music."
             ]
         },
-        "team": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "The band of explorers climbed the mountain together."
+                "I get so angry when people talk loudly and disrupt the performance of a 'band'."
             ]
         },
-        "strip": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "I need to put a new band of tape around that box."
+                "Did you know that the world's largest 'band' performance involved 9,000 musicians playing together?"
             ]
         },
-        "circle": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "The wedding band symbolizes eternal love."
+                "There's no specific smell associated with a 'band', but it might remind you of the scent of live music venues or the excitement of a concert."
             ]
         },
-        "social": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "The school marching band is a great way to make new friends."
+                "The energy and vibration you feel through your body when you're close to the stage at a 'band' concert."
             ]
         },
-        "restriction": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "The contract included a non-compete band that prohibited the band members from performing with other groups."
+                "'Bands' have the power to bring people together, creating connections and shared experiences through the universal language of music."
             ]
         }
     }

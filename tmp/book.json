@@ -2,39 +2,41 @@
     "english": {
         "word": "book",
         "examples": [
-            "I love reading a good book in the evening.",
-            "He wrote a book about his experiences traveling around the world."
+            "I love reading books.",
+            "She borrowed a book from the library.",
+            "He wrote a bestselling book."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
             "novel",
-            "manuscript",
-            "tome",
+            "story",
+            "publication",
             "volume",
-            "magazine"
+            "text"
         ]
     },
     "portuguese": {
         "word": "livro",
         "examples": [
-            "Eu adoro ler um bom livro à noite.",
-            "Ele escreveu um livro sobre suas experiências viajando pelo mundo."
+            "Eu adoro ler livros.",
+            "Ela pegou emprestado um livro na biblioteca.",
+            "Ele escreveu um livro de sucesso."
         ],
         "gender": [
             "masculine"
         ],
         "trick-words": [
-            "obra",
-            "escrito",
+            "romance",
+            "história",
+            "publicação",
             "volume",
-            "enciclopédia",
-            "manuscrito"
+            "texto"
         ]
     },
     "progress": {
-        "memory": 0.6,
+        "memory": 0.8,
         "gender-memory": 0.8
     },
     "type": [
@@ -45,53 +47,47 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "interesting": {
+    "synotics": {
+        "funny": {
             "user-made": [],
             "suggested": [
-                "A page-turner",
-                "Gripping plot"
+                "Why did the book go to the therapist? Because it had too many stories to keep 'booked' up inside!"
             ]
         },
-        "nostalgic": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "Curling up with a book on a rainy day"
+                "Feeling a sense of sadness when you finish a captivating book and have to say goodbye to the characters."
             ]
         },
-        "educational": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "A source of knowledge",
-                "Informative",
-                "Insightful"
+                "I get so angry when someone mistreats a book by folding its pages or writing in it."
             ]
         },
-        "adventurous": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "A journey through the pages"
+                "Did you know that the Guinness World Record for the largest book ever published goes to a book measuring 5 meters by 8.06 meters?"
             ]
         },
-        "inspirational": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "Motivational",
-                "Life-changing"
+                "The distinct smell of an old book, filled with the aroma of history and stories."
             ]
         },
-        "enjoyable": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "A fun read",
-                "Entertaining"
+                "The tactile pleasure of holding a book, feeling the weight of its pages and the texture of the cover."
             ]
         },
-        "addictive": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "Couldn't put it down",
-                "Kept me up all night"
+                "Books have the power to connect us to different cultures, ideas, and perspectives, fostering empathy and understanding."
             ]
         }
     }

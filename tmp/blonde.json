@@ -2,108 +2,93 @@
     "english": {
         "word": "blonde",
         "examples": [
-            "She dyed her hair blonde for the summer.",
-            "The little girl had curly blonde hair."
+            "She has long blonde hair.",
+            "He dyed his hair blonde.",
+            "The little girl is a natural blonde."
         ],
         "gender": [
-            "feminine",
-            "masculine"
+            "neuter"
         ],
         "trick-words": [
-            "yellow",
+            "fair",
             "golden",
-            "straw-colored",
-            "flaxen"
+            "light-haired",
+            "platinum",
+            "yellow"
         ]
     },
-    "french": {
-        "word": "blonde",
+    "portuguese": {
+        "word": "loira",
         "examples": [
-            "Elle a teint ses cheveux en blonde pour l'été.",
-            "Le petit garçon avait les cheveux blonds et bouclés."
+            "Ela tem cabelos loiros e longos.",
+            "Ele tingiu o cabelo de loiro.",
+            "A menininha é loira natural."
         ],
         "gender": [
-            "feminine",
-            "masculine"
-        ],
-        "trick-words": [
-            "blond",
-            "blondin",
-            "doré",
-            "jaune pâle"
-        ]
-    },
-    "spanish": {
-        "word": "rubio",
-        "examples": [
-            "Se tiñó el pelo de rubio para el verano.",
-            "El niño pequeño tenía el pelo rubio y rizado."
-        ],
-        "gender": [
-            "masculine",
             "feminine"
         ],
         "trick-words": [
-            "dorado",
-            "amarillo pálido",
-            "trigal",
-            "amarillento"
+            "clara",
+            "dourada",
+            "cabelos claros",
+            "platinada",
+            "amarela"
         ]
     },
     "progress": {
-        "memory": 0.7,
-        "gender-memory": 0.6
+        "memory": 0.8,
+        "gender-memory": 0.8
     },
     "type": [
         "adjective",
-        "noun"
+        "color"
     ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
+    "synotics": {
         "funny": {
             "user-made": [],
             "suggested": [
-                "Why did the blonde stare at the orange juice container? Because it said 'concentrate'."
+                "Why did the blonde bring a ladder to the bar? Because she heard the drinks were on the house!"
             ]
         },
-        "flattering": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "She's not just a blonde, she's a blonde bombshell."
+                "Feeling sad when people make assumptions or stereotypes based on hair color, like the 'blonde' stereotype."
             ]
         },
-        "insulting": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "Why did the blonde climb up to the roof? She heard that the drinks were on the house."
+                "I get so angry when people use 'blonde' jokes to demean or belittle others."
             ]
         },
         "surprising": {
             "user-made": [],
             "suggested": [
-                "Did you know that some blondes actually have a higher IQ than brunettes?"
+                "Did you know that natural 'blonde' hair is actually quite rare, with only around 2% of the world's population being naturally blonde?"
             ]
         },
-        "beautiful": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "Her long blonde hair was like a ray of sunshine."
+                "There's no specific scent associated with being 'blonde', but it can remind you of the freshness and vibrancy of sunny days."
             ]
         },
-        "dumb": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "Why did the blonde put lipstick on her forehead? She was trying to make up her mind."
+                "The softness and silky texture of 'blonde' hair can be pleasant to touch."
             ]
         },
-        "famous": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "Marilyn Monroe was one of the most famous blondes of all time."
+                "Celebrating the uniqueness and beauty of 'blonde' hair can foster connections and appreciation for diverse appearances."
             ]
         }
     }

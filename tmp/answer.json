@@ -2,89 +2,93 @@
     "english": {
         "word": "answer",
         "examples": [
-            "Can you answer the phone?",
-            "I don't know the answer to that question."
+            "Can you please answer this question?",
+            "She gave a detailed answer to the interviewer.",
+            "He didn't know the answer to the riddle."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
-            "reply",
             "respond",
-            "solution",
-            "explanation",
-            "clarification"
+            "reply",
+            "acknowledge",
+            "address",
+            "solve"
         ]
     },
-    "spanish": {
-        "word": "respuesta",
+    "portuguese": {
+        "word": "resposta",
         "examples": [
-            "¿Puedes contestar el teléfono?",
-            "No sé la respuesta a esa pregunta."
+            "Você poderia por favor responder a esta pergunta?",
+            "Ela deu uma resposta detalhada ao entrevistador.",
+            "Ele não sabia a resposta para o enigma."
         ],
         "gender": [
             "feminine"
         ],
         "trick-words": [
-            "contestación",
-            "solución",
-            "explicación",
-            "aclaración"
+            "responder",
+            "retornar",
+            "reconhecer",
+            "abordar",
+            "solucionar"
         ]
     },
     "progress": {
-        "memory": 0.6,
-        "gender-memory": 0.6
+        "memory": 0.8,
+        "gender-memory": 0.8
     },
     "type": [
-        "noun"
+        "noun",
+        "verb"
     ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
-        "smart": {
-            "user-made": [],
-            "suggested": [
-                "The answer is staring you right in the face."
-            ]
-        },
+    "synotics": {
         "funny": {
             "user-made": [],
             "suggested": [
-                "Why did the student take a ladder to school? To get to the high school answers."
+                "Why did the math book look so sad? It had too many problems and not enough answers!"
             ]
         },
-        "clever": {
+        "sad": {
             "user-made": [],
             "suggested": [
-                "He had all the answers before the test, but now he can't remember any of them."
+                "Not receiving an answer to an important question can leave you feeling disappointed and uncertain."
             ]
         },
-        "helpful": {
+        "angry": {
             "user-made": [],
             "suggested": [
-                "The answer to the problem was found through collaboration."
+                "I get so angry when people dodge questions and refuse to give a straight answer."
             ]
         },
-        "mysterious": {
+        "surprising": {
             "user-made": [],
             "suggested": [
-                "The answer lies within the ancient tome."
+                "Did you know that some answers lie within us, waiting to be discovered through self-reflection?"
             ]
         },
-        "obvious": {
+        "smell": {
             "user-made": [],
             "suggested": [
-                "The answer is simple: just follow the instructions."
+                "The sweet smell of success when you find the right answer to a challenging problem."
             ]
         },
-        "confusing": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "The answer only leads to more questions."
+                "The satisfaction of finding an answer after searching and exploring various possibilities."
+            ]
+        },
+        "connection": {
+            "user-made": [],
+            "suggested": [
+                "Finding common answers and understanding can create a sense of connection and harmony between individuals."
             ]
         }
     }

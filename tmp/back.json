@@ -2,84 +2,93 @@
     "english": {
         "word": "back",
         "examples": [
-            "He sat down on the back of the chair.",
-            "I hurt my back lifting that heavy box."
+            "He leaned against the back of the chair.",
+            "She carried a backpack on her back.",
+            "I'll be right back."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
-            "spine",
             "rear",
+            "spine",
             "posterior",
-            "dorsum",
-            "hind"
+            "behind",
+            "reverse"
         ]
     },
     "portuguese": {
         "word": "costas",
         "examples": [
-            "Ele sentou-se no encosto da cadeira.",
-            "Machuquei minhas costas levantando aquela caixa pesada."
+            "Ele se apoiou nas costas da cadeira.",
+            "Ela carregava uma mochila nas costas.",
+            "Eu já volto."
         ],
         "gender": [
             "feminine"
         ],
         "trick-words": [
-            "dorso",
-            "traseira",
-            "parte de trás",
+            "parte traseira",
+            "espinha dorsal",
             "posterior",
-            "caudal"
+            "atrás",
+            "reverso"
         ]
     },
     "progress": {
-        "memory": 0.7,
-        "gender-memory": 0.6
+        "memory": 0.8,
+        "gender-memory": 0.8
     },
     "type": [
-        "noun"
+        "noun",
+        "adverb"
     ],
     "dates": {
         "discover-date": "",
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
+    "synotics": {
         "funny": {
             "user-made": [],
             "suggested": [
-                "Why did the scarecrow win an award? Because he was outstanding in his field... out standing in his field of straw, that is. Not his field of... you know, never mind."
+                "Why did the scarecrow win an award? Because he was outstanding in his 'back'yard!"
             ]
         },
         "sad": {
             "user-made": [],
             "suggested": [
-                "Looking back on past mistakes can be painful, but it's necessary for growth."
+                "Feeling a sense of sadness when you miss someone who is no longer by your side, longing for them to come 'back'."
             ]
         },
         "angry": {
             "user-made": [],
             "suggested": [
-                "I can't believe he talked behind my back like that!"
+                "I get so angry when someone intentionally turns their 'back' on others, refusing to offer help or support."
             ]
         },
         "surprising": {
             "user-made": [],
             "suggested": [
-                "The hidden gem of the city was tucked away in the back alley."
+                "Did you know that the human 'back' is made up of 33 vertebrae that help support and protect the spinal cord?"
+            ]
+        },
+        "smell": {
+            "user-made": [],
+            "suggested": [
+                "There's no specific smell associated with the word 'back', but it can remind you of the scent of freshly laundered clothes or a familiar fragrance in your surroundings."
             ]
         },
         "touch": {
             "user-made": [],
             "suggested": [
-                "The feeling of a warm back massage after a long day."
+                "The feeling of warmth and comfort when someone gives you a gentle pat on the 'back' or offers a supportive hug."
             ]
         },
         "connection": {
             "user-made": [],
             "suggested": [
-                "The connection between a mother and her child is unbreakable, no matter how far apart they may be."
+                "The word 'back' can symbolize a return or reunion, connecting people and reestablishing relationships or connections."
             ]
         }
     }

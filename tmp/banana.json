@@ -2,40 +2,42 @@
     "english": {
         "word": "banana",
         "examples": [
-            "She ate a banana for breakfast.",
-            "Bananas are rich in potassium."
+            "I enjoy eating a ripe banana.",
+            "She packed a banana in her lunch.",
+            "He made a smoothie with bananas."
         ],
         "gender": [
             "neuter"
         ],
         "trick-words": [
+            "fruit",
             "plantain",
-            "tropical fruit",
+            "banana tree",
             "yellow fruit",
-            "snack",
-            "smoothie ingredient"
+            "tropical fruit"
         ]
     },
-    "spanish": {
-        "word": "plátano",
+    "portuguese": {
+        "word": "banana",
         "examples": [
-            "Comió un plátano para el desayuno.",
-            "Los plátanos son ricos en potasio."
+            "Eu gosto de comer uma banana madura.",
+            "Ela colocou uma banana na sua marmita.",
+            "Ele fez um smoothie com bananas."
         ],
         "gender": [
-            "masculine"
+            "feminine"
         ],
         "trick-words": [
-            "banano",
-            "fruta tropical",
-            "fruta amarilla",
-            "merienda",
-            "ingrediente de batido"
+            "fruta",
+            "banana-da-terra",
+            "bananeira",
+            "fruta amarela",
+            "fruta tropical"
         ]
     },
     "progress": {
         "memory": 0.8,
-        "gender-memory": 0.6
+        "gender-memory": 0.8
     },
     "type": [
         "noun"
@@ -45,7 +47,7 @@
         "next-review": "",
         "last-reviewed": ""
     },
-    "synonyms": {
+    "synotics": {
         "funny": {
             "user-made": [],
             "suggested": [
@@ -55,37 +57,37 @@
         "sad": {
             "user-made": [],
             "suggested": [
-                "The bananas in the store looked so perfect, but they never tasted quite as good as the ones my grandfather grew in his garden."
+                "Feeling a sense of sadness when you see a brown and overripe banana, realizing it's gone to waste."
             ]
         },
         "angry": {
             "user-made": [],
             "suggested": [
-                "Why do they always put the bananas on the bottom of the grocery bag? I always end up with a bunch of mush!"
+                "I get so angry when someone slips on a banana peel and falls, causing harm or embarrassment."
             ]
         },
         "surprising": {
             "user-made": [],
             "suggested": [
-                "Did you know that bananas are berries? And they're technically herbs, not fruit!"
+                "Did you know that bananas are technically berries? They are classified as a berry due to their structure and development."
             ]
         },
         "smell": {
             "user-made": [],
             "suggested": [
-                "The sweet, fruity smell of a ripe banana."
+                "The sweet and distinct aroma of a ripe banana, enticing your senses."
             ]
         },
-        "taste": {
+        "touch": {
             "user-made": [],
             "suggested": [
-                "The creamy, slightly tangy taste of a perfectly ripe banana."
+                "The smooth and slightly yielding texture of a ripe banana when you hold it in your hand."
             ]
         },
-        "texture": {
+        "connection": {
             "user-made": [],
             "suggested": [
-                "The soft, smooth texture of a ripe banana."
+                "Bananas are a globally recognized fruit, connecting people through their widespread availability and culinary uses."
             ]
         }
     }

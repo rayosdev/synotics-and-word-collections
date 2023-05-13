@@ -2,89 +2,92 @@
 	"english": {
 		"word": "article",
 		"examples": [
-			"She wrote an article for the newspaper.",
-			"I need to read that article again to fully understand it."
+			"I read an interesting article in the newspaper.",
+			"She published an article in a prestigious journal.",
+			"The magazine features articles on various topics."
 		],
 		"gender": [
 			"neuter"
 		],
 		"trick-words": [
-			"essay",
 			"piece",
-			"column",
-			"feature",
-			"report"
+			"essay",
+			"report",
+			"publication",
+			"write-up"
 		]
 	},
 	"portuguese": {
 		"word": "artigo",
 		"examples": [
-			"Ela escreveu um artigo para o jornal.",
-			"Preciso ler esse artigo novamente para entender completamente."
+			"Eu li um artigo interessante no jornal.",
+			"Ela publicou um artigo em uma revista prestigiada.",
+			"A revista apresenta artigos sobre diversos temas."
 		],
 		"gender": [
 			"masculine"
 		],
 		"trick-words": [
 			"texto",
-			"coluna",
+			"ensaio",
 			"reportagem",
+			"publicação",
 			"matéria"
 		]
 	},
 	"progress": {
 		"memory": 0.7,
-		"gender-memory": 0.6
+		"gender-memory": 0.7
 	},
 	"type": [
 		"noun"
 	],
 	"dates": {
-		"discover-date": "Middle English",
-		"next-review": "2024-01-01",
-		"last-reviewed": "2022-05-02"
+		"discover-date": "",
+		"next-review": "",
+		"last-reviewed": ""
 	},
-	"synonyms": {
-		"informative": {
+	"synotics": {
+		"funny": {
 			"user-made": [],
 			"suggested": [
-				"A well-researched article on the benefits of meditation."
+				"Why did the grammarian refuse to eat the article? Because it wasn't properly punctuated!"
 			]
 		},
-		"opinionated": {
+		"sad": {
 			"user-made": [],
 			"suggested": [
-				"A controversial article on the merits of veganism."
+				"Reading a heart-wrenching article about a tragic event can leave you feeling heavy-hearted."
 			]
 		},
-		"educational": {
+		"angry": {
 			"user-made": [],
 			"suggested": [
-				"An article explaining the basics of quantum mechanics."
+				"I get so angry when I read biased articles that twist the truth for their own agenda."
 			]
 		},
-		"persuasive": {
+		"surprising": {
 			"user-made": [],
 			"suggested": [
-				"A compelling article arguing for the importance of mental health days."
+				"Did you know that the word 'article' can refer to both a written composition and a specific grammatical element in a sentence?"
 			]
 		},
-		"entertaining": {
+		"smell": {
 			"user-made": [],
 			"suggested": [
-				"A humorous article poking fun at the quirks of modern dating."
+				"The smell of fresh ink on the pages of a newly printed article."
 			]
 		},
-		"insightful": {
+		"touch": {
 			"user-made": [],
 			"suggested": [
-				"An article exploring the psychological benefits of practicing gratitude."
+				"The tactile experience of flipping through the pages of a magazine or newspaper to read an article."
 			]
 		},
-		"thought-provoking": {
+		"connection": {
 			"user-made": [],
 			"suggested": [
-				"An article challenging common assumptions about the role of technology in our lives."
+				"Articles have the power to inform, educate, and connect people through shared knowledge and experiences."
 			]
 		}
 	}
